@@ -45,7 +45,9 @@ function MDXPage(props: Props): JSX.Element {
             />{' '}
             Back to Jobs
           </p>
-          <h1 className="text-24 leading-32 text-dark-tiny">{title}</h1>
+          <h1 className="text-24 leading-32 text-dark-tiny md:hidden">
+            {title}
+          </h1>
           <p className="flex pt-4 items-center">
             <img
               className="inline-block pr-2"
@@ -79,8 +81,9 @@ function MDXPage(props: Props): JSX.Element {
             Tầng 4, 101 Láng Hạ, Đống Đa, Hà Nội
           </p>
 
-          <p className="p-4 mt-4 w-10/12 text-dark-brown bg-green-light ">
-            Ứng viên vui lòng gửi email <br /> kèm CV đến địa chỉ <br />
+          <p className="px-4 py-8 mt-4 mx-auto md:mx-0 text-16 leading-24 rounded-xl w-full md:w-11/12 text-dark-brown bg-green-light ">
+            Ứng viên vui lòng gửi email <br className="hidden md:block" /> kèm
+            CV đến địa chỉ <br className="hidden md:block" />
             <a
               style={{ textDecoration: 'none' }}
               className="text-green-ml hover:text-green-ml"
@@ -92,7 +95,7 @@ function MDXPage(props: Props): JSX.Element {
         </div>
         <div className="w-full pt-12 pb-24">
           <div className={clsx(styles.mdx, 'markdown w-auto mx-auto')}>
-            <h1 className="hidden whitespace-nowrap">{title}</h1>
+            <h1 className="hidden md:block lg:whitespace-nowrap">{title}</h1>
             <MDXProvider components={MDXComponents}>
               <MDXPageContent />
             </MDXProvider>
