@@ -1,0 +1,32 @@
+@import "../css/colors";
+
+details {
+  summary {
+    position: relative;
+    padding-left: 16px;
+    font-size: 16px;
+    line-height: 24px;
+    color: map-get($primary-blue, default);
+    cursor: pointer;
+
+    &::after {
+      fill: map-get($primary-blue, default);
+      content: url("/img/small-blue-arrow.svg");
+      position: absolute;
+      left: 0;
+      z-index: 5;
+      transform: rotate(90deg);
+    }
+
+    &::marker {
+      content: none;
+    }
+  }
+
+  &[open] {
+    summary::after {
+      top: 4px;
+      transform: rotate(180deg);
+    }
+  }
+}

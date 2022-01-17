@@ -1,0 +1,31 @@
+table {
+  display: table;
+  border-collapse: collapse;
+  border-style: hidden;
+
+  code {
+    display: block;
+  }
+
+  thead {
+    tr {
+      position: sticky;
+      top: 0;
+    }
+  }
+
+  th {
+    padding: 8px 12px;
+    background-color: map-get($monochrome, light-tint);
+    font-size: 12px;
+    line-height: 24px;
+    color: map-get($monochrome, default);
+  }
+
+  td {
+    font-size: 14px;
+    line-height: 18px;
+    color: map-get($monochrome, black);
+    background-color: map-get($monochrome, white);
+  }
+}
