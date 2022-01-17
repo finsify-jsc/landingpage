@@ -1,15 +1,15 @@
 const path = require('path');
 
 module.exports = {
-  title: 'Drill4J',
-  tagline: 'The tagline of my site',
-  url: 'https://Drill4J.github.io',
+  title: 'MoneyLover',
+  tagline: 'MoneyLover',
+  url: 'https://MoneyLover.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
-  organizationName: 'Drill4J',
-  projectName: 'drill4j.github.io',
+  organizationName: 'MoneyLover',
+  projectName: 'MoneyLoverLandingPage',
   themeConfig: {
     algolia: {
       apiKey: '6893440cddb296d0faf1399850200fc6',
