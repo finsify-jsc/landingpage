@@ -30,7 +30,7 @@ module.exports = {
     navbar: {
       items: [
         {
-          to: 'how-to-start/',
+          to: '/',
           label: 'About us',
         },
         {
@@ -39,7 +39,7 @@ module.exports = {
         },
         {
           to: '/',
-          label: 'English',
+          label: 'Docs',
         },
       ],
     },
@@ -50,15 +50,15 @@ module.exports = {
           items: [
             {
               label: 'About us',
-              href: '/docs/installation/drill-admin',
+              href: '/',
             },
             {
               label: 'Privacy policy',
-              href: '/docs/installation/java-agent',
+              href: '/',
             },
             {
               label: 'Career',
-              href: '/docs/installation/autotest-agent',
+              href: '/',
             },
           ],
         },

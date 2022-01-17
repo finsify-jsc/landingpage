@@ -271,10 +271,10 @@ function Home() {
               Don&rsquo;t hesite, money matters.
             </p>
             <div className="flex justify-center lg:justify-start w-full">
-              <a href="/install-demo" className="mr-2">
+              <a href="/" className="mr-2">
                 <img src={useBaseUrl('img/marketplace/appstore.png')} alt="" />
               </a>
-              <a href="/install-demo" className="ml-2">
+              <a href="/" className="ml-2">
                 <img
                   src={useBaseUrl('img/marketplace/google-play.png')}
                   alt=""
