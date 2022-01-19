@@ -100,7 +100,7 @@ module.exports = {
         default: '#687481',
         shade: '#58626d',
         'dark-tint': '#a4acb3',
-        'medium-tint': '#e3e6e8',
+        'medium-tint': '#F5F5F5',
         'light-tint': '#f8f9fb',
       },
       green: {
