@@ -5,21 +5,21 @@ body {
 
 h1 {
   color: map-get($monochrome, black);
-  font-weight: $bold !important;
+  font-weight: $bold;
   font-size: 40px;
   line-height: 56px;
 }
 
 h2 {
   color: map-get($monochrome, black);
-  font-weight: $semibold !important;
-  font-size: 28px !important;
+  font-weight: $semibold;
+  font-size: 28px;
   line-height: 40px;
 }
 
 h3 {
   color: map-get($monochrome, black);
-  font-weight: $semibold !important;
+  font-weight: $semibold;
   font-size: 24px;
   line-height: 40px;
 }

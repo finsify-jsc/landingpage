@@ -47,11 +47,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 8px;
   padding: 14px 40px;
   max-height: 48px;
+  max-width: 194px;
   border-radius: 8px;
   border: 1px solid map-get($green, ml);
+  box-sizing: border-box;
   background-color: map-get($monochrome, white);
   color: map-get($green, ml) !important;
   text-decoration: none !important;
@@ -79,11 +80,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 8px;
   padding: 14px 40px;
   max-height: 48px;
+  max-width: 196px;
   border-radius: 8px;
   border: 1px solid map-get($green, ml);
+  box-sizing: border-box;
   background-color: map-get($green, ml);
   color: map-get($monochrome, white) !important;
   text-decoration: none !important;

@@ -36,7 +36,7 @@ const Footer = () => {
                 </a>
               ))}
             </div>
-            <ul className="flex ml-6 mt-7 mb-8 justify-start gap-x-4 items-center">
+            <ul className="flex ml-5 mt-7 mb-8 justify-start gap-x-2 items-center">
               {socialLinks.map(({ Icon, link }) => (
                 <li key={link}>
                   <Link to={link} className="cursor-pointer">

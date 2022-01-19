@@ -1,6 +1,8 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 // eslint-disable-next-line @typescript-eslint/no-var-requires
+// eslint-disable-next-line import/no-extraneous-dependencies
 const plugin = require('tailwindcss/plugin');
+// eslint-disable-next-line import/no-extraneous-dependencies
 const defaultTheme = require('tailwindcss/defaultTheme');
 
 module.exports = {
@@ -65,6 +67,7 @@ module.exports = {
       },
       width: {
         '56px': '56px',
+        '164px': '164px',
       },
       padding: {
         56: '56px',
@@ -143,9 +146,9 @@ module.exports = {
       },
     },
     fontFamily: {
+      ibm: ['IBM Plex Sans', 'sans-serif'],
       bold: ['OpenSans-Semibold', 'sans-serif'],
       regular: ['OpenSans', 'sans-serif'],
-      light: ['OpenSans-Light', 'sans-serif'],
     },
     fontSize: {
       10: '10px',
