@@ -195,7 +195,7 @@ function Home() {
             </div>
           </Figure>
         </section>
-        <section className="pt-16 lg:pt-44">
+        <section className="container pt-14 lg:pt-44">
           <h1 className="text-26 text-dark-tiny leading-32 font-medium text-center">
             Features our users love
           </h1>
