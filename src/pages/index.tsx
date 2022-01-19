@@ -31,17 +31,6 @@ function Home() {
   } = useThemeConfig();
   const { label, to }: any = items[items.length - 1];
 
-  const getOS = () => {
-    let Name = 'Unknown OS';
-    if (navigator.userAgent.indexOf('Win') !== -1) Name = 'WindowsOS';
-    if (navigator.userAgent.indexOf('Mac') !== -1) Name = 'Macintosh';
-    if (navigator.userAgent.indexOf('Linux') !== -1) Name = 'LinuxOS';
-    if (navigator.userAgent.indexOf('Android') !== -1) Name = 'AndroidOS';
-    if (navigator.userAgent.indexOf('like Mac') !== -1) Name = 'iOS';
-
-    return Name;
-  };
-  getOS();
   return (
     <Layout description="Simple way to manage personal finances">
       <main className={styles.mainPageWrapper}>
