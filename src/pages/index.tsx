@@ -52,14 +52,14 @@ function Home() {
               <div className="flex justify-around md:justify-around mt-9">
                 <Link
                   style={{ textDecoration: 'none' }}
-                  className="button-ml text-16 w-164px md:w-full"
+                  className="button-ml text-16 w-160px md:w-full"
                   to={useBaseUrl(to)}
                 >
                   Try on browser
                 </Link>
                 <Link
                   style={{ textDecoration: 'none' }}
-                  className="button-ml-primary bg-green-ml text-16 w-164px md:w-full"
+                  className="button-ml-primary bg-green-ml text-16 w-160px md:w-full"
                   to={useBaseUrl(to)}
                 >
                   Download for free
@@ -70,31 +70,43 @@ function Home() {
         </div>
         <section className="container bg-monochrome-bg pt-14 md:pt-0">
           <FigureIntro>
-            <div className="flex mb-8 md:mb-0 mx-1 rounded-lg bg-monochrome-light flex-col items-center text-center">
+            <div className="flex mb-4 md:mb-0 mx-1 rounded-lg bg-monochrome-light flex-col items-center text-center">
               <img
-                className="w-56px"
+                className="pt-4"
                 src={useBaseUrl('/img/introfeature/1.svg')}
                 alt=""
               />
-              <p className="font-bold leading-3 px-4 mt-2 md:text-20 md:mt-4 md:leading-28">
+              <p className="font-bold pb-4 text-dark-tiny leading-24 text-center px-4 mt-2 md:text-20 md:mt-4 md:leading-28">
                 100% secured data
               </p>
             </div>
-            <div className="flex mb-8 md:mb-0 mx-1 rounded-lg bg-monochrome-light flex-col items-center whitespace-nowrap text-center">
-              <img src={useBaseUrl('/img/introfeature/2.svg')} alt="" />
-              <p className="font-bold leading-3 px-4 mt-2 md:text-20 md:mt-4 md:leading-28">
-                10 Millions+ users
+            <div className="flex mb-4 md:mb-0 mx-1 rounded-lg bg-monochrome-light flex-col items-center text-center">
+              <img
+                className="pt-4"
+                src={useBaseUrl('/img/introfeature/2.svg')}
+                alt=""
+              />
+              <p className="font-bold pb-4 text-dark-tiny leading-24 text-center px-4 mt-2 md:text-20 md:mt-4 md:leading-28">
+                1 Millions+ users
               </p>
             </div>
             <div className="flex mx-1 rounded-lg bg-monochrome-light flex-col items-center text-center">
-              <img src={useBaseUrl('/img/introfeature/Cmt.svg')} alt="" />
-              <p className="font-bold leading-3 px-4 mt-2 md:text-20 md:mt-4 md:leading-28">
+              <img
+                className="pt-4"
+                src={useBaseUrl('/img/introfeature/Cmt.svg')}
+                alt=""
+              />
+              <p className="font-bold pb-4 text-dark-tiny leading-24 text-center px-4 mt-2 md:text-20 md:mt-4 md:leading-28">
                 100K+ 5-star reviews
               </p>
             </div>
-            <div className="flex mx-1 rounded-lg bg-monochrome-light flex-col items-center whitespace-nowrap text-center">
-              <img src={useBaseUrl('/img/introfeature/F2.svg')} alt="" />
-              <p className="font-bold leading-3 px-4 mt-2 md:text-20 md:mt-4 md:leading-28">
+            <div className="flex mx-1 rounded-lg bg-monochrome-light flex-col items-center text-center">
+              <img
+                className="pt-4"
+                src={useBaseUrl('/img/introfeature/F2.svg')}
+                alt=""
+              />
+              <p className="font-bold pb-4 text-dark-tiny leading-24 text-center px-4 mt-2 md:text-20 md:mt-4 md:leading-28">
                 App of the day
               </p>
             </div>

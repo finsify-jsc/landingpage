@@ -67,7 +67,7 @@ module.exports = {
       },
       width: {
         '56px': '56px',
-        '164px': '164px',
+        '160px': '160px',
       },
       padding: {
         56: '56px',
@@ -147,8 +147,6 @@ module.exports = {
     },
     fontFamily: {
       ibm: ['IBM Plex Sans', 'sans-serif'],
-      bold: ['OpenSans-Semibold', 'sans-serif'],
-      regular: ['OpenSans', 'sans-serif'],
     },
     fontSize: {
       10: '10px',
