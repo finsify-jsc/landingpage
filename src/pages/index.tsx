@@ -205,7 +205,7 @@ function Home() {
               <h3 className="text-16 font-bold lg:pt-6 leading-24 text-center mt-3 text-dark-tiny">
                 Multiple devices
               </h3>
-              <p className="pt-1 lg:pt-2 text-16 leading-24 text-dark-brown text-center">
+              <p className="pt-1 px-4 lg:pt-2 text-16 leading-24 text-dark-brown text-center">
                 Safely synchronize across devices with Bank standard security.
               </p>
             </div>
@@ -214,7 +214,7 @@ function Home() {
               <h3 className="text-16 font-bold lg:pt-6 leading-24 text-center mt-3 text-dark-tiny">
                 Recurring transaction
               </h3>
-              <p className="pt-1 lg:pt-2 text-16 leading-24 text-dark-brown text-center">
+              <p className="pt-1 px-4 lg:pt-2 text-16 leading-24 text-dark-brown text-center">
                 Get notified of recurring bills and transactions before due
                 date.
               </p>
@@ -224,7 +224,7 @@ function Home() {
               <h3 className="text-16 font-bold lg:pt-6 leading-24 text-center mt-3 text-dark-tiny">
                 Travel mode
               </h3>
-              <p className="pt-1 lg:pt-2 text-16 leading-24 text-dark-brown text-center">
+              <p className="pt-1 px-4 lg:pt-2 text-16 leading-24 text-dark-brown text-center">
                 All currencies supported with up-to-date exchange rate.
               </p>
             </div>
@@ -233,7 +233,7 @@ function Home() {
               <h3 className="text-16 font-bold lg:pt-6 leading-24 text-center mt-3 text-dark-tiny">
                 Saving plan
               </h3>
-              <p className="pt-1 lg:pt-2 text-16 leading-24 text-dark-brown text-center">
+              <p className="pt-1 px-4 lg:pt-2 text-16 leading-24 text-dark-brown text-center">
                 Keep track on savings process to meet your financial goals.
               </p>
             </div>
@@ -242,7 +242,7 @@ function Home() {
               <h3 className="text-16 font-bold lg:pt-6 leading-24 text-center mt-3 text-dark-tiny">
                 Debt and loan
               </h3>
-              <p className="pt-1 lg:pt-2 text-16 leading-24 text-dark-brown text-center">
+              <p className="pt-1 px-4 lg:pt-2 text-16 leading-24 text-dark-brown text-center">
                 Manage your debts, loans and payment process in one place.
               </p>
             </div>
@@ -251,7 +251,7 @@ function Home() {
               <h3 className="text-16 font-bold lg:pt-6 leading-24 text-center mt-3 text-dark-tiny">
                 Scan receipt
               </h3>
-              <p className="pt-1 lg:pt-2 text-16 leading-24 text-dark-brown text-center">
+              <p className="pt-1 px-4 lg:pt-2 text-16 leading-24 text-dark-brown text-center">
                 Take pictures of your receipts to auto-process and organize
                 them.
               </p>
