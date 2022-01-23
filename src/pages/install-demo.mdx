@@ -3,7 +3,13 @@ id: install-demo
 title: Java+JS demo example
 ---
 
-import {AdditionalInformation, Image, ListItem, JavaPlusJsHeader, Warning} from '../../src/components';
+import {
+  AdditionalInformation,
+  Image,
+  ListItem,
+  JavaPlusJsHeader,
+  Warning,
+} from '../../src/components';
 
 <div className='mb-12'>
 <Warning>
@@ -15,7 +21,7 @@ import {AdditionalInformation, Image, ListItem, JavaPlusJsHeader, Warning} from 
 </Warning>
 </div>
 
-<JavaPlusJsHeader/>
+<JavaPlusJsHeader />
 
 ## Step 1. Clone the example repository:
 
@@ -25,7 +31,9 @@ git clone https://github.com/Drill4J/realworld-java-and-js-coverage
 
 ## Step 2. Start Drill4J Admin
 
-<ListItem number={'2.1.'}>Start docker containers using the following command:</ListItem>
+<ListItem number={'2.1.'}>
+  Start docker containers using the following command:
+</ListItem>
 
 ```
 ./demo-up.sh
@@ -43,7 +51,7 @@ Press “Continue as a Guest” and **register agents** (both Java and Node.js)
 
 </ListItem>
 
-<Image src={'/img/java-plus-js-agents-table.png'}/>
+<Image src={'/img/java-plus-js-agents-table.png'} />
 
 <ListItem number={'2.4.'}>
 
@@ -77,15 +85,14 @@ Tests will be started in a few seconds. Please wait untill the testing process f
 See the testing results on [Test2Code plugin’s page](http://localhost:8091/service-group-full-page/realworld-app/test2code) and **finish active scope** <br/>
 to add collected coverage to your build.
 
-
 ## Step 3. Deploy additional builds
 
 You have to deploy additional builds to discover Drill4J features:
 
-* Tests to run;
-* Risks Management;
-* Time Savings;
-* Baseline builds.
+- Tests to run;
+- Risks Management;
+- Time Savings;
+- Baseline builds.
 
 <ListItem number={'3.1.'}>
 
@@ -96,6 +103,7 @@ Deploy the **2nd build** of Realworld example app:
 ```
 ./demo-deploy-build2.sh
 ```
+
 <AdditionalInformation >
 
 Wait for build notification to appear (click the icon in the top-right corner).
@@ -134,6 +142,7 @@ To collect coverage for the 3rd build run tests:
 ```
 ./gradlew clean :build3:test
 ```
+
 Below you can find a command to **remove** RealWorld demo example:
 
 ```
@@ -143,6 +152,3 @@ Below you can find a command to **remove** RealWorld demo example:
 ## For manual testing use Chrome Extension
 
 Install the latest version of [Chrome Extension](/docs/installation/extension)
-
-
-

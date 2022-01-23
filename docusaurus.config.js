@@ -12,10 +12,6 @@ module.exports = {
   organizationName: 'MoneyLover',
   projectName: 'MoneyLoverLandingPage',
   themeConfig: {
-    algolia: {
-      apiKey: '6893440cddb296d0faf1399850200fc6',
-      indexName: 'drill4j',
-    },
     gtag: {
       trackingID: 'UA-147653671-1',
       anonymizeIP: true,
@@ -35,12 +31,12 @@ module.exports = {
           label: 'About us',
         },
         {
-          to: 'test-career/',
+          to: '/career',
           label: 'Career',
         },
         {
-          to: '/',
-          label: 'Docs',
+          to: '/blog',
+          label: 'Blog',
         },
       ],
     },
@@ -70,8 +66,21 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+        docs: false,
+        blog: {
+          showReadingTime: true,
+          routeBasePath: 'blog',
+          blogTitle: 'Tuyển dụng',
+          blogDescription: 'MoneyLover tuyển dụng',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+          path: 'blog',
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'All Blog Posts',
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Blogasaurus by Palash Shrivastava`,
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.scss'),
