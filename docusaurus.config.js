@@ -34,10 +34,6 @@ module.exports = {
           to: '/career',
           label: 'Career',
         },
-        {
-          to: '/blog',
-          label: 'Blog',
-        },
       ],
     },
     footer: {
@@ -68,8 +64,8 @@ module.exports = {
       {
         docs: false,
         blog: {
+          routeBasePath: "/career",
           showReadingTime: true,
-          routeBasePath: 'blog',
           blogTitle: 'Tuyển dụng',
           blogDescription: 'MoneyLover tuyển dụng',
           // editUrl:
