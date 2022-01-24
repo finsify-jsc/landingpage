@@ -42,24 +42,24 @@ function Home() {
               </h1>
               <p className="font-ibm text-36 text-dark-brown leading-48 md:leading-56 md:text-40 text-center">
                 <h1 className="font-ibm text-dark-brown font-light text-36 leading-48 md:inline">
-                  to manage
+                  to manage{' '}
                 </h1>
                 <h1 className="font-ibm font-medium text-36 leading-48 md:inline text-green-ml">
                   personal finances
                 </h1>
               </p>
 
-              <div className="flex justify-around md:justify-around mt-9">
+              <div className="grid grid-cols-2 gap-x-4 md:flex md:justify-center mt-9">
                 <Link
                   style={{ textDecoration: 'none' }}
-                  className="button-ml text-16 w-160px md:w-full"
+                  className="button-ml text-16 md:w-full"
                   to={useBaseUrl(to)}
                 >
                   Try on browser
                 </Link>
                 <Link
                   style={{ textDecoration: 'none' }}
-                  className="button-ml-primary bg-green-ml text-16 w-160px md:w-full"
+                  className="button-ml-primary bg-green-ml text-16 md:w-full"
                   to={useBaseUrl(to)}
                 >
                   Download for free
@@ -68,7 +68,7 @@ function Home() {
             </div>
           </div>
         </div>
-        <section className="container bg-monochrome-bg pt-14 md:pt-0">
+        <section className="container bg-monochrome-white pt-14 md:pt-0">
           <FigureIntro>
             <div className="flex mb-4 md:mb-0 mx-1 rounded-lg bg-monochrome-light flex-col items-center text-center">
               <img
@@ -77,7 +77,7 @@ function Home() {
                 alt=""
               />
               <p className="font-bold pb-4 text-dark-tiny leading-24 text-center px-4 mt-2 md:text-20 md:mt-4 md:leading-28">
-                100% secured data
+                100% Secured data
               </p>
             </div>
             <div className="flex mb-4 md:mb-0 mx-1 rounded-lg bg-monochrome-light flex-col items-center text-center">
@@ -97,7 +97,7 @@ function Home() {
                 alt=""
               />
               <p className="font-bold pb-4 text-dark-tiny leading-24 text-center px-4 mt-2 md:text-20 md:mt-4 md:leading-28">
-                100K+ 5-star reviews
+                100K+ 5-star Reviews
               </p>
             </div>
             <div className="flex mx-1 rounded-lg bg-monochrome-light flex-col items-center text-center">
@@ -112,7 +112,7 @@ function Home() {
             </div>
           </FigureIntro>
         </section>
-        <section className="container bg-monochrome-bg pt-14">
+        <section className="container bg-monochrome-white pt-14">
           <Figure>
             <figcaption className="flex flex-col justify-center col-span-full md:col-span-4 lg:col-span-5 order-2">
               <h3 className="text-26 font-medium leading-32 text-dark-tiny">
@@ -132,14 +132,13 @@ function Home() {
                 )}
                 style={{
                   borderRadius: '14px',
-                  boxShadow: '0px 0px 64px rgba(0, 0, 0, 0.08)',
+                  boxShadow:
+                    '0 0 6px rgba(0,0,0,0.04), 0 0 8px rgba(0,0,0,0.04)',
                 }}
               >
                 <img
                   className="w-full"
-                  style={{
-                    borderRadius: '14px',
-                  }}
+                  style={{ borderRadius: '14px' }}
                   src={useBaseUrl('img/details/Transaction.svg')}
                   alt="coverage"
                 />
@@ -165,11 +164,15 @@ function Home() {
                 )}
                 style={{
                   borderRadius: '14px',
-                  boxShadow: '0px 0px 64px rgba(0, 0, 0, 0.08)',
+                  boxShadow:
+                    '0 0 6px rgba(0,0,0,0.04), 0 0 8px rgba(0,0,0,0.04)',
                 }}
               >
                 <img
                   className="w-full"
+                  style={{
+                    borderRadius: '14px',
+                  }}
                   src={useBaseUrl('img/details/budget.svg')}
                   alt="risks and tests to run"
                 />
@@ -195,11 +198,15 @@ function Home() {
                 )}
                 style={{
                   borderRadius: '14px',
-                  boxShadow: '0px 0px 64px rgba(0, 0, 0, 0.08)',
+                  boxShadow:
+                    '0 0 6px rgba(0,0,0,0.04), 0 0 8px rgba(0,0,0,0.04)',
                 }}
               >
                 <img
                   className="w-full"
+                  style={{
+                    borderRadius: '14px',
+                  }}
                   src={useBaseUrl('img/details/REPORT.svg')}
                   alt="time savings"
                 />

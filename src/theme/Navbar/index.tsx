@@ -67,7 +67,7 @@ const Navbar = () => {
           content="Exn7kPLIy4JTsgoCYicqJbRNhglNbVv20lkzpVDzUU0"
         /> */}
       </Head>
-      <div className="absolute top-0 left-0 z-40 w-full bg-monochrome-bg">
+      <div className="absolute top-0 left-0 z-40 w-full bg-monochrome-white">
         <nav className="flex items-center justify-between h-22 navigationContainer">
           <Link to={useBaseUrl('/')}>
             <img src={useBaseUrl('/img/logo.svg')} alt="drill-logo" />
