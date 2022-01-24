@@ -293,11 +293,11 @@ function Home() {
             </p>
             <div className="flex justify-center lg:justify-start w-full">
               <a href="/" className="mr-1">
-                <img src={useBaseUrl('img/marketplace/appstore.png')} alt="" />
+                <img src={useBaseUrl('img/marketplace/appstore.svg')} alt="" />
               </a>
               <a href="/" className="ml-1">
                 <img
-                  src={useBaseUrl('img/marketplace/google-play.png')}
+                  src={useBaseUrl('img/marketplace/google-play.svg')}
                   alt=""
                 />
               </a>
