@@ -49,7 +49,7 @@ function Home() {
                 </h1>
               </p>
 
-              <div className="grid grid-cols-2 gap-x-4 md:flex md:justify-center mt-9">
+              <div className="grid grid-cols-2 gap-x-2 md:flex md:justify-center mt-9">
                 <Link
                   style={{ textDecoration: 'none' }}
                   className="button-ml text-16 md:w-full"
@@ -266,7 +266,7 @@ function Home() {
               </p>
             </div>
             <div className="flex flex-col items-center justify-center mb-8">
-              <img src={useBaseUrl('img/features/5.svg')} alt="" />
+              <img src={useBaseUrl('img/features/6.svg')} alt="" />
               <h3 className="text-16 font-bold lg:pt-6 leading-24 text-center mt-3 text-dark-tiny">
                 Scan receipt
               </h3>
@@ -292,10 +292,10 @@ function Home() {
               Don&rsquo;t hesite, money matters.
             </p>
             <div className="flex justify-center lg:justify-start w-full">
-              <a href="/" className="mr-2">
+              <a href="/" className="mr-1">
                 <img src={useBaseUrl('img/marketplace/appstore.png')} alt="" />
               </a>
-              <a href="/" className="ml-2">
+              <a href="/" className="ml-1">
                 <img
                   src={useBaseUrl('img/marketplace/google-play.png')}
                   alt=""
