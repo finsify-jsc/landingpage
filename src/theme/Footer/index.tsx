@@ -20,8 +20,7 @@ const Footer = () => {
       <div className="navigationContainer">
         <section className="flex flex-col w-full">
           <p className="w-full pt-6 text-16 leading-24 text-dark-brown text-center">
-            © 2022 <a href="/">Finsify Technology Co., Ltd.</a>{' '}
-            <br className="md:hidden" />
+            © 2022 Finsify Technology Co., Ltd. <br className="md:hidden" />
             All rights reserved.
           </p>
           <div className="flex flex-col">
