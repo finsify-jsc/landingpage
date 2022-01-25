@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-import React from 'react';
+import React, { useEffect, useRef } from 'react';
 import Layout from '@theme/Layout';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 // eslint-disable-next-line import/no-extraneous-dependencies
@@ -31,6 +31,22 @@ function Home() {
   } = useThemeConfig();
   const { label, to }: any = items[items.length - 1];
 
+  const pinnedButton = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    window.addEventListener('scroll', () => {
+      const y = window.scrollY;
+      if (y >= 330) {
+        if (pinnedButton.current) {
+          pinnedButton.current.classList.remove('invisible');
+        }
+      } else {
+        if (pinnedButton.current) {
+          pinnedButton.current.classList.add('invisible');
+        }
+      }
+    });
+  });
   return (
     <Layout description="Simple way to manage personal finances">
       <main className={styles.mainPageWrapper}>
@@ -64,6 +80,29 @@ function Home() {
                 >
                   Download for free
                 </Link>
+              </div>
+              <div
+                ref={pinnedButton}
+                style={{ boxShadow: '0px -4px 16px rgba(0, 0, 0, 0.04)' }}
+                className="invisible lg:invisible fixed bg-monochrome-white bottom-0 inset-x-0 z-50 w-full"
+              >
+                <div className="grid grid-cols-2 gap-4 mx-4 my-4">
+                  {' '}
+                  <Link
+                    style={{ textDecoration: 'none' }}
+                    className="button-ml text-16 md:w-full"
+                    to={useBaseUrl(to)}
+                  >
+                    Try on browser
+                  </Link>
+                  <Link
+                    style={{ textDecoration: 'none' }}
+                    className="button-ml-primary bg-green-ml text-16 md:w-full"
+                    to={useBaseUrl(to)}
+                  >
+                    Download for free
+                  </Link>
+                </div>
               </div>
             </div>
           </div>
