@@ -1,9 +1,5 @@
 @import '../css/index';
 
-.drillLogoShadow {
-  box-shadow: 0px 3.36083px 43.6908px rgba(0, 46, 101, 0.55);
-}
-
 .mainPageWrapper {
   background-color: #fff;
   h2 {
@@ -25,77 +21,5 @@
     max-width: 327px;
     max-height: 240px;
     box-sizing: border-box;
-  }
-}
-
-.features {
-  h3 {
-    font-weight: $bold;
-    color: map-get($monochrome, shade);
-    line-height: 48px;
-  }
-
-  p {
-    font-size: 18px;
-  }
-
-  .feature {
-    position: relative;
-    font-weight: $bold;
-    font-size: 18px;
-    color: map-get($monochrome, default);
-    list-style: none;
-    line-height: 24px;
-    margin-bottom: 16px;
-
-    &::before {
-      position: absolute;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      width: 16px;
-      height: 16px;
-      padding-bottom: 6px;
-      border-radius: 100%;
-      box-sizing: border-box;
-    }
-  }
-
-  .basicFeature {
-    @extend .feature;
-
-    &::before {
-      content: url('/img/small-done.svg');
-      top: 50%;
-      transform: translateY(-50%);
-      left: -32px;
-      background-color: map-get($primary-blue, medium-tint);
-    }
-  }
-
-  .individualFeatures {
-    box-shadow: 0 20px 64px rgba(16, 33, 64, 0.12);
-    border-radius: 16px;
-  }
-
-  .individualFeature {
-    @extend .feature;
-
-    &::before {
-      content: url('/img/small-plus.svg');
-      top: 5px;
-      left: -32px;
-      background-color: map-get($green, success);
-    }
-
-    strong {
-      display: block;
-      margin-bottom: 4px;
-    }
-
-    span {
-      font-weight: $normal;
-      color: map-get($monochrome, shade);
-    }
   }
 }
