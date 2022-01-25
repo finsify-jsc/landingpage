@@ -11,10 +11,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: () => ({
-        'git-hub': "url('/img/git-hub.svg')",
-        telegram: "url('/img/telegram.svg')",
-        twiter: "url('/img/twiter.svg')",
-        youtube: "url('/img/youtube.svg')",
+        fb: "url('/img/socials/fb.svg')",
+        twiter: "url('/img/socials/twitter.svg')",
+        gg: "url('/img/socials/gg.svg')",
         menu: "url('/img/menu.svg')",
         close: "url('/img/close.svg')",
       }),

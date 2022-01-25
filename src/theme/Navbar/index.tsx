@@ -28,31 +28,6 @@ const Navbar = () => {
   const links = [...items];
   const { navbarRef, isNavbarVisible: isHeaderVisibleAfterScroll } =
     useHideableNavbar(true);
-  const [starsCount, setStarsCount] = useSessionStorage<number>(
-    'starsCount',
-    0,
-  );
-  useEffect(() => {
-    if (starsCount === 0) {
-      try {
-        (async () => {
-          const res = await fetch(
-            'https://api.github.com/repos/Drill4J/drill4j',
-            {
-              headers: {
-                'User-Agent': 'Drill4J',
-              },
-            },
-          );
-          const data = await res.json();
-
-          data?.stargazers_count && setStarsCount(data.stargazers_count);
-        })();
-      } catch (e) {
-        console.log(e.message);
-      }
-    }
-  }, []);
 
   return (
     <header

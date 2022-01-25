@@ -1,8 +1,0 @@
-@import '../../css/colors';
-
-.wrapper {
-  & p {
-    margin-bottom: 0;
-    color: map-get($monochrome, default) ;
-  }
-}
