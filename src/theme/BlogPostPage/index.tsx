@@ -36,7 +36,7 @@ function BlogPostPage(props: Props): JSX.Element {
               <p className="flex md:pt-4 pb-4 md:pb-11 items-center">
                 <img
                   className="inline-block pr-2"
-                  src={useBaseUrl('/img/job-icons/arrow-back.png')}
+                  src={useBaseUrl('/img/job-icons/arrow-back.svg')}
                   alt="salary"
                 />{' '}
                 Back to Jobs
@@ -48,7 +48,7 @@ function BlogPostPage(props: Props): JSX.Element {
             <p className="flex pt-4 items-center">
               <img
                 className="inline-block pr-2"
-                src={useBaseUrl('/img/job-icons/money.png')}
+                src={useBaseUrl('/img/job-icons/money.svg')}
                 alt="salary"
               />{' '}
               {salary}
@@ -56,15 +56,7 @@ function BlogPostPage(props: Props): JSX.Element {
             <p className="flex pt-4 items-center">
               <img
                 className="inline-block pr-2"
-                src={useBaseUrl('/img/job-icons/money.png')}
-                alt="salary"
-              />{' '}
-              {position}
-            </p>
-            <p className="flex pt-4 items-center">
-              <img
-                className="inline-block pr-2"
-                src={useBaseUrl('/img/job-icons/time.png')}
+                src={useBaseUrl('/img/job-icons/time.svg')}
                 alt="time"
               />{' '}
               {workTime === true ? 'Toàn thời gian' : 'Bán thời gian'}{' '}
@@ -72,7 +64,7 @@ function BlogPostPage(props: Props): JSX.Element {
             <p className="flex pt-4 items-center">
               <img
                 className="inline-block pr-2"
-                src={useBaseUrl('/img/job-icons/place.png')}
+                src={useBaseUrl('/img/job-icons/place.svg')}
                 alt="place"
               />{' '}
               Tầng 4, 101 Láng Hạ, Đống Đa, Hà Nội

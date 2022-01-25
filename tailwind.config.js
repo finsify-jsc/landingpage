@@ -17,9 +17,6 @@ module.exports = {
         youtube: "url('/img/youtube.svg')",
         menu: "url('/img/menu.svg')",
         close: "url('/img/close.svg')",
-        time: "url('/img/job-icons/time.png')",
-        money: "url('/img/job-icons/money.png')",
-        place: "url('/img/job-icons/place.png')",
       }),
       screens: {
         mxs: '360px',
