@@ -91,11 +91,8 @@ const Navbar = () => {
                     <Link
                       style={{
                         textDecoration: 'none',
-                        fontWeight: pathname.includes(to.split('/')[0])
-                          ? '600'
-                          : '400',
                       }}
-                      className="gray-link inline-flex py-4 w-full h-full"
+                      className="inline-flex py-4 w-full h-full"
                       to={useBaseUrl(to)}
                       onClick={() => setIsNavbarVisible(false)}
                     >
