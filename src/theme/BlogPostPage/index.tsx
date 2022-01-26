@@ -23,10 +23,10 @@ function BlogPostPage(props: Props): JSX.Element {
       description={description}
     >
       {BlogPostContents && (
-        <main className="grid grid-cols-1 gap-y-8">
-          <div className="container">
+        <main className="container mt-14 grid grid-cols-1 lg:grid-cols-6 gap-y-8 lg:gap-x-8">
+          <div className="col-span-2 flex flex-col gap-y-4">
             <Link to="/career">
-              <p className="flex md:pt-4 pb-4 md:pb-11 items-center">
+              <p className="flex items-center">
                 <img
                   className="inline-block pr-2"
                   src={useBaseUrl('/img/job-icons/arrow-back.svg')}
@@ -38,34 +38,33 @@ function BlogPostPage(props: Props): JSX.Element {
             <h1 className="text-24 leading-32 text-dark-tiny md:hidden">
               {position} (Lương - {salary})
             </h1>
-            <p className="flex pt-4 items-center">
+            <p className="flex items-center">
               <img
-                className="inline-block pr-2"
+                className="inline-block mr-2"
                 src={useBaseUrl('/img/job-icons/money.svg')}
                 alt="salary"
               />{' '}
               {salary}
             </p>
-            <p className="flex pt-4 items-center">
+            <p className="flex items-center">
               <img
-                className="inline-block pr-2"
+                className="inline-block mr-2"
                 src={useBaseUrl('/img/job-icons/time.svg')}
                 alt="time"
               />{' '}
               {workTime === true ? 'Toàn thời gian' : 'Bán thời gian'}{' '}
             </p>
-            <p className="flex pt-4 items-center">
+            <p className="flex items-center">
               <img
-                className="inline-block pr-2"
+                className="inline-block mr-2"
                 src={useBaseUrl('/img/job-icons/place.svg')}
                 alt="place"
               />{' '}
               Tầng 4, 101 Láng Hạ, Đống Đa, Hà Nội
             </p>
 
-            <p className="px-4 py-8 mt-4 mx-auto md:mx-0 text-16 leading-24 rounded-xl w-full md:w-11/12 text-dark-brown bg-green-light ">
-              Ứng viên vui lòng gửi email <br className="hidden md:block" /> kèm
-              CV đến địa chỉ <br className="hidden md:block" />
+            <p className="inline-block text-16 px-8 py-4 leading-24 rounded-xl text-dark-brown bg-green-light">
+              Ứng viên vui lòng gửi email kèm CV đến địa chỉ{' '}
               <a
                 style={{ textDecoration: 'none' }}
                 className="text-green-ml hover:text-green-ml"
@@ -75,7 +74,10 @@ function BlogPostPage(props: Props): JSX.Element {
               </a>
             </p>
           </div>
-          <div className="container markdown">
+          <div className="col-span-4 markdown">
+            <h1 className="text-24 leading-32 text-dark-tiny hidden lg:block">
+              {position} (Lương - {salary})
+            </h1>
             <BlogPostContents />
           </div>
         </main>
