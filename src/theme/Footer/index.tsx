@@ -16,7 +16,7 @@ const Footer = () => {
     footer: { links },
   } = useThemeConfig();
   return (
-    <footer className="mt-10 border-t border-monochrome-medium-tint">
+    <footer className="mt-10 mb-20 border-t border-monochrome-medium-tint">
       <div className="container">
         <section className="grid grid-cols-1 gap-y-4">
           <p className="mt-6 text-16 leading-24 text-dark-brown text-center">
