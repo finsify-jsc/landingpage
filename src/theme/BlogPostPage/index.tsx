@@ -75,7 +75,7 @@ function BlogPostPage(props: Props): JSX.Element {
               </a>
             </p>
           </div>
-          <div className="container">
+          <div className="container markdown">
             <BlogPostContents />
           </div>
         </main>
