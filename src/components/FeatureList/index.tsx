@@ -18,7 +18,10 @@ export const FeatureList = () => {
         {FeatureData &&
           FeatureData.map(({ image, title, desc }) => {
             return (
-              <div className="flex flex-col items-center justify-center">
+              <div
+                key={Math.random()}
+                className="flex flex-col items-center justify-center"
+              >
                 <img src={useBaseUrl(image)} alt={title} />
                 <h3 className="text-16 font-bold lg:pt-6 leading-24 text-center mt-3 text-dark-tiny">
                   {title}
