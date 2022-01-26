@@ -82,11 +82,6 @@ strong {
   line-height: 24px;
 }
 
-ul[class],
-ol[class] {
-  list-style: none;
-}
-
 .markdown {
   h1,
   h2,
@@ -148,7 +143,7 @@ ol[class] {
 
   ul {
     margin-bottom: 24px;
-    list-style: inside;
+    list-style: circle;
   }
 
   ol {

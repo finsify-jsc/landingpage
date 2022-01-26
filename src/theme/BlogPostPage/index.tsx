@@ -7,14 +7,7 @@
 
 import React from 'react';
 import Layout from '@theme/Layout';
-import BlogPostItem from '@theme/BlogPostItem';
-import BlogPostPaginator from '@theme/BlogPostPaginator';
 import type { Props } from '@theme/BlogPostPage';
-import BlogSidebar from '@theme/BlogSidebar';
-import TOC from '@theme/TOC';
-import EditThisPage from '@theme/EditThisPage';
-import { ThemeClassNames } from '@docusaurus/theme-common';
-import clsx from 'clsx';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import { Link } from '@docusaurus/router';
 
@@ -30,8 +23,8 @@ function BlogPostPage(props: Props): JSX.Element {
       description={description}
     >
       {BlogPostContents && (
-        <main className="container md:grid grid-cols-2">
-          <div className="pt-6 md:pt-12 md:pb-24 md:pl-8">
+        <main className="grid grid-cols-1 gap-y-8">
+          <div className="container">
             <Link to="/career">
               <p className="flex md:pt-4 pb-4 md:pb-11 items-center">
                 <img
@@ -82,7 +75,7 @@ function BlogPostPage(props: Props): JSX.Element {
               </a>
             </p>
           </div>
-          <div className="w-full pt-12 pb-24">
+          <div className="container">
             <BlogPostContents />
           </div>
         </main>

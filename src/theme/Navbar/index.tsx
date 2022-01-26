@@ -43,7 +43,7 @@ const Navbar = () => {
         /> */}
       </Head>
       <div className="absolute top-0 left-0 z-40 w-full bg-monochrome-white">
-        <nav className="flex items-center justify-between h-22 navigationContainer">
+        <nav className="flex items-center justify-between h-22 container">
           <Link to={useBaseUrl('/')}>
             <img src={useBaseUrl('/img/logo.svg')} alt="drill-logo" />
           </Link>
@@ -84,15 +84,15 @@ const Navbar = () => {
       {isNavbarVisible && (
         <nav className="visible md:invisible fixed w-full h-full left-0 top-22">
           <div className="bg-monochrome-white">
-            <div className="navigationContainer pt-2 pb-6">
+            <div className="container pt-2 pb-6">
               <ul>
                 {links.map(({ to = '', label = '' }: any) => (
-                  <li className="text-16 leading-24 border-b border-monochrome-medium-tint">
+                  <li className="border-t border-monochrome-medium-tint">
                     <Link
                       style={{
                         textDecoration: 'none',
                       }}
-                      className="inline-flex py-4 w-full h-full"
+                      className="inline-flex text-16 font-normal text-dark-brown leading-24 py-4 w-full h-full"
                       to={useBaseUrl(to)}
                       onClick={() => setIsNavbarVisible(false)}
                     >
