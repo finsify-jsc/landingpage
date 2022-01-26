@@ -55,7 +55,7 @@ export const Header = ({ to }) => {
         <div
           ref={pinnedButton}
           style={{ boxShadow: '0px -4px 16px rgba(0, 0, 0, 0.04)' }}
-          className="invisible lg:invisible fixed bg-monochrome-white bottom-0 inset-x-0 z-50 w-full"
+          className="invisible lg:invisible fixed bg-monochrome-white bottom-0 inset-x-0 z-50 flex justify-around"
         >
           <div className="grid grid-cols-2 gap-2 mx-4 my-4">
             {' '}
