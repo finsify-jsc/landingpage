@@ -39,7 +39,7 @@ export const Details = () => {
             <img
               className="w-full"
               style={{ borderRadius: '14px' }}
-              src={useBaseUrl('img/details/Transaction.svg')}
+              src={useBaseUrl('img/details/Transaction.png')}
               alt="coverage"
             />
           </div>
@@ -68,7 +68,7 @@ export const Details = () => {
               style={{
                 borderRadius: '14px',
               }}
-              src={useBaseUrl('img/details/budget.svg')}
+              src={useBaseUrl('img/details/budget.png')}
               alt="risks and tests to run"
             />
           </div>
@@ -97,7 +97,7 @@ export const Details = () => {
               style={{
                 borderRadius: '14px',
               }}
-              src={useBaseUrl('img/details/REPORT.svg')}
+              src={useBaseUrl('img/details/REPORT.png')}
               alt="time savings"
             />
           </div>
