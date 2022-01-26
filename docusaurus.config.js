@@ -64,7 +64,7 @@ module.exports = {
       {
         docs: false,
         blog: {
-          routeBasePath: "/career",
+          routeBasePath: '/career',
           showReadingTime: true,
           blogTitle: 'Tuyển dụng',
           blogDescription: 'MoneyLover tuyển dụng',
