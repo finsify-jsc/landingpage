@@ -1,8 +1,6 @@
-import clsx from 'clsx';
-import React, { Component } from 'react';
+import React from 'react';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Slider from 'react-slick';
-import styles from './styles.module.scss';
 export const Reviews = () => {
   const settings = {
     arrows: false,
@@ -81,6 +79,8 @@ export const Reviews = () => {
 };
 
 const css = ` 
+  .slick-list {margin: 0 -5px;}
+  .slick-slide>div {padding: 0 5px;}
   .review-slide {
     max-width: 370px;
     // margin: 0 15px;
