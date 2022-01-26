@@ -16,48 +16,46 @@ const Footer = () => {
     footer: { links },
   } = useThemeConfig();
   return (
-    <footer className="mt-10 mb-20 border-t border-monochrome-medium-tint">
-      <div className="container">
-        <section className="grid grid-cols-1 gap-y-4">
-          <p className="mt-6 text-16 leading-24 text-dark-brown text-center">
-            © 2022 Finsify Technology Co., Ltd. <br className="md:hidden" />
-            All rights reserved.
-          </p>
-          <div className="mt-4 grid grid-cols-1">
-            <div className="flex justify-between">
-              {links[0].items.map(({ label, href }) => (
-                <a
-                  key={Math.random()}
-                  href={href}
-                  className="text-16 font-normal text-dark-brown"
-                >
-                  {label}
-                </a>
-              ))}
-            </div>
-            <ul className="flex items-center mt-5 mb-3 gap-x-2">
-              {socialLinks.map(({ Icon, link }) => (
-                <li key={link}>
-                  <Link to={link} className="cursor-pointer">
-                    <Icon />
-                  </Link>
-                </li>
-              ))}
-
-              <li className="ml-auto">
-                <button className="flex items-center gap-x-2 px-4 py-3 bg-green-ml text-monochrome-white font-bold rounded-3xl">
-                  <img
-                    className="inline-block"
-                    src={useBaseUrl('/img/Support.svg')}
-                    alt=""
-                  />
-                  Support
-                </button>
-              </li>
-            </ul>
+    <footer className="lg:px-54 lg:py-6 lg:m-0 mt-10 mb-20 border-t border-monochrome-medium-tint">
+      <section className="grid grid-cols-1 lg:grid-cols-2 gap-y-4 items-center">
+        <p className="mt-6 lg:mt-0 text-16 leading-24 text-dark-brown text-left">
+          © 2022 Finsify Technology Co., Ltd. <br className="lg:hidden" />
+          All rights reserved.
+        </p>
+        <div className="mt-4 lg:mt-0 grid grid-cols-1 lg:grid-cols-4 lg:gap-x-5">
+          <div className="flex lg:col-span-3 lg:justify-end lg:gap-x-4 justify-between items-center">
+            {links[0].items.map(({ label, href }) => (
+              <a
+                key={Math.random()}
+                href={href}
+                className="text-16 font-normal text-dark-brown"
+              >
+                {label}
+              </a>
+            ))}
           </div>
-        </section>
-      </div>
+          <ul className="flex items-center mt-5 mb-3 lg:mt-0 lg:mb-0 gap-x-2">
+            {socialLinks.map(({ Icon, link }) => (
+              <li key={link}>
+                <Link to={link} className="cursor-pointer">
+                  <Icon />
+                </Link>
+              </li>
+            ))}
+
+            <li className="ml-auto lg:fixed lg:bottom-26 lg:right-10">
+              <button className="flex items-center gap-x-2 px-4 py-3 bg-green-ml text-monochrome-white font-bold rounded-3xl">
+                <img
+                  className="inline-block"
+                  src={useBaseUrl('/img/Support.svg')}
+                  alt=""
+                />
+                Support
+              </button>
+            </li>
+          </ul>
+        </div>
+      </section>
     </footer>
   );
 };
