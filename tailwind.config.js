@@ -100,6 +100,7 @@ module.exports = {
         'light-tint': '#f8f9fb',
       },
       green: {
+        dark: '#0D8E22',
         light: '#D5F0DF',
         ml: '#2DB84C',
         default: '#00b602',

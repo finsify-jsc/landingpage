@@ -43,7 +43,7 @@ const Footer = () => {
             ))}
 
             <li className="ml-auto lg:ml-0 lg:fixed lg:bottom-26 lg:right-10">
-              <button className="flex items-center gap-x-2 px-4 py-3 bg-green-ml text-monochrome-white font-bold rounded-3xl">
+              <button className="flex items-center hover:bg-green-dark gap-x-2 px-4 py-3 bg-green-ml text-monochrome-white font-bold rounded-3xl">
                 <img
                   className="inline-block"
                   src={useBaseUrl('/img/Support.svg')}

@@ -67,7 +67,8 @@
   }
 
   &:hover {
-    border: 2px solid map-get($primary-blue, medium-tint);
+    background-color: map-get($green, ml);
+    color: map-get($monochrome, white) !important;
   }
 
   &:active {
@@ -100,7 +101,7 @@
   }
 
   &:hover {
-    border: 2px solid map-get($primary-blue, medium-tint);
+    background-color: #0d8e22;
   }
 
   &:active {

@@ -65,7 +65,7 @@ a {
   color: map-get($primary-blue, default);
 
   &:hover {
-    color: map-get($primary-blue, medium-tint);
+    color: map-get($green, ml);
     text-decoration-line: underline;
   }
 }
