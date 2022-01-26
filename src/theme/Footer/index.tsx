@@ -8,7 +8,6 @@ import React from 'react';
 import Link from '@docusaurus/Link';
 import { useThemeConfig } from '@docusaurus/theme-common';
 import useBaseUrl from '@docusaurus/useBaseUrl';
-import clsx from 'clsx';
 import { socialLinks } from '../social-links';
 
 const Footer = () => {
@@ -16,9 +15,9 @@ const Footer = () => {
     footer: { links },
   } = useThemeConfig();
   return (
-    <footer className="lg:px-54 lg:py-6 lg:m-0 mt-10 mb-20 border-t border-monochrome-medium-tint">
-      <section className="grid grid-cols-1 lg:grid-cols-2 gap-y-4 items-center">
-        <p className="mt-6 lg:mt-0 text-16 leading-24 text-dark-brown text-left">
+    <footer className="lg:py-6 lg:m-0 mt-10 mb-20 border-t border-monochrome-medium-tint">
+      <section className="container grid grid-cols-1 lg:grid-cols-2 gap-y-4 lg:mx-auto">
+        <p className="mt-6 lg:mt-0 text-16 leading-24 text-dark-brown text-center lg:text-left">
           © 2022 Finsify Technology Co., Ltd. <br className="lg:hidden" />
           All rights reserved.
         </p>
@@ -43,7 +42,7 @@ const Footer = () => {
               </li>
             ))}
 
-            <li className="ml-auto lg:fixed lg:bottom-26 lg:right-10">
+            <li className="ml-auto lg:ml-0 lg:fixed lg:bottom-26 lg:right-10">
               <button className="flex items-center gap-x-2 px-4 py-3 bg-green-ml text-monochrome-white font-bold rounded-3xl">
                 <img
                   className="inline-block"

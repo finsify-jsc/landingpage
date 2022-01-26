@@ -23,7 +23,7 @@ export const Reviews = () => {
     ],
   };
   return (
-    <section className={clsx(styles.mainSliderWrapper, 'w-full mx-auto mt-14')}>
+    <section className="container mt-14">
       <link
         rel="stylesheet"
         type="text/css"
