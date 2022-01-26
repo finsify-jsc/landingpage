@@ -56,7 +56,7 @@ function BlogPostItem(props: Props): JSX.Element {
           className="font-bold text-left text-20 leading-28 text-dark-tiny"
           to={permalink}
         >
-          {position} <br />
+          {position} <br className="lg:hidden" />
           (Lương - {salary})
         </Link>
         <p className="mt-2 text-16 leading-24 text-dark-brown whitespace-nowrap">

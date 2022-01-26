@@ -72,8 +72,8 @@
   }
 
   &:active {
-    border: 2px solid map-get($primary-blue, shade);
-    color: map-get($green, ml) !important;
+    background-color: map-get($green, ml);
+    color: map-get($monochrome, white) !important;
   }
 }
 
@@ -105,8 +105,7 @@
   }
 
   &:active {
-    border: 2px solid map-get($primary-blue, shade);
-    color: map-get($monochrome, white) !important;
+    background-color: #0d8e22;
   }
 }
 
