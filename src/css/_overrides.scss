@@ -67,7 +67,7 @@ body {
 }
 
 .container {
-  max-width: 960px !important;
+  max-width: 1200px !important;
 
   @media screen and (max-width: 1024px) {
     padding-right: 24px !important;
@@ -80,8 +80,8 @@ body {
   }
 
   @media screen and (min-width: 1280px) {
-    padding-left: 160px !important;
-    padding-right: 160px !important;
+    padding-left: 116px !important;
+    padding-right: 116px !important;
     box-sizing: content-box;
   }
 }

@@ -17,7 +17,7 @@ export const Intro = () => {
             return (
               <div
                 key={Math.random()}
-                className="flex p-4 lg:px-2 lg:py-6 gap-y-2 rounded-lg bg-monochrome-light flex-col items-center"
+                className="flex p-4 lg:px-2 lg:py-6 gap-y-2 lg:gap-y-4 rounded-lg bg-monochrome-light flex-col items-center"
               >
                 <img src={useBaseUrl(image)} alt="" />
                 <p className="font-bold text-dark-tiny leading-24 text-center lg:text-20 lg:leading-28 lg:whitespace-nowrap">

@@ -3,7 +3,7 @@ import React from 'react';
 import { FeatureData } from './data';
 
 const FigureIntro: React.FC = ({ children }) => (
-  <figure className="grid grid-cols-2 gap-x-2 gap-y-4 md:grid-cols-4">
+  <figure className="grid grid-cols-2 gap-x-2 gap-y-4 lg:grid-cols-4">
     {children}
   </figure>
 );

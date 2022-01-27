@@ -13,3 +13,16 @@
     image-rendering: -webkit-optimize-contrast;
   }
 }
+
+.imgWrapper {
+  box-sizing: border-box;
+  border-radius: 14px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.04), 0 0 8px rgba(0, 0, 0, 0.04);
+
+  & > img {
+    max-width: 420px;
+    max-height: 240px;
+    border-radius: 14px;
+    box-sizing: border-box;
+  }
+}

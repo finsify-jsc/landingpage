@@ -24,7 +24,7 @@ function BlogPostPage(props: Props): JSX.Element {
     >
       {BlogPostContents && (
         <section className="container lg:flex lg:space-x-10 items-start">
-          <div className="lg:w-2/6 lg:sticky lg:top-27 mb-4 flex flex-col gap-y-2">
+          <div className="lg:w-3/12 lg:sticky lg:top-27 mb-4 flex flex-col gap-y-2">
             <Link to="/career">
               <p className="flex items-center">
                 <img
@@ -35,7 +35,7 @@ function BlogPostPage(props: Props): JSX.Element {
                 Back to Jobs
               </p>
             </Link>
-            <h1 className="text-24 leading-32 text-dark-tiny md:hidden">
+            <h1 className="text-24 leading-32 text-dark-tiny lg:hidden">
               {position} (Lương - {salary})
             </h1>
             <p className="flex items-center">
@@ -75,7 +75,7 @@ function BlogPostPage(props: Props): JSX.Element {
             </p>
           </div>
 
-          <div className="lg:w-4/6 lg:mb-4 markdown">
+          <div className="lg:w-9/12 lg:mb-4 markdown">
             <h1 className="text-24 leading-32 text-dark-tiny hidden lg:block">
               {position} (Lương - {salary})
             </h1>
