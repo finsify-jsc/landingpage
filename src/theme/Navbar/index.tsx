@@ -92,7 +92,7 @@ const Navbar = () => {
                       style={{
                         textDecoration: 'none',
                       }}
-                      className="inline-flex text-16 font-normal text-dark-brown leading-24 py-4 w-full h-full"
+                      className="inline-flex text-16 font-medium text-dark-brown leading-24 py-4 w-full h-full"
                       to={useBaseUrl(to)}
                       onClick={() => setIsNavbarVisible(false)}
                     >
