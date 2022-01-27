@@ -2,12 +2,6 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import React from 'react';
 import { FeatureData } from './data';
 
-const FigureIntro: React.FC = ({ children }) => (
-  <figure className="grid grid-cols-2 gap-x-2 gap-y-4 lg:grid-cols-4">
-    {children}
-  </figure>
-);
-
 export const FeatureList = () => {
   return (
     <section className="container mt-14 lg:mt-44">
