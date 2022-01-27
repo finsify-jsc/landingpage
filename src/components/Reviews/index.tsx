@@ -1,6 +1,9 @@
 import React from 'react';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Slider from 'react-slick';
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
+
 export const Reviews = () => {
   const settings = {
     arrows: false,
@@ -24,17 +27,6 @@ export const Reviews = () => {
   };
   return (
     <section className="container mt-14">
-      <link
-        rel="stylesheet"
-        type="text/css"
-        charSet="UTF-8"
-        href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css"
-      />
-      <link
-        rel="stylesheet"
-        type="text/css"
-        href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"
-      />
       <style>{css}</style>
       <h2 className="text-dark-tiny text-26 font-medium leading-32 text-center">
         {' '}
