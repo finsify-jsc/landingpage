@@ -36,7 +36,7 @@ export const Reviews = () => {
         href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"
       />
       <style>{css}</style>
-      <h2 className="text-dark-tiny text-26 leading-32 text-center">
+      <h2 className="text-dark-tiny text-26 font-medium leading-32 text-center">
         {' '}
         See what others have to say{' '}
       </h2>
