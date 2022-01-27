@@ -24,9 +24,9 @@ function BlogPostPage(props: Props): JSX.Element {
     >
       {BlogPostContents && (
         <section className="container lg:flex lg:space-x-10 items-start">
-          <div className="lg:w-3/12 lg:sticky lg:top-27 mb-4 flex flex-col gap-y-2">
+          <div className="lg:w-3/12 lg:sticky lg:top-27 mb-4 flex flex-col gap-y-4">
             <Link to="/career">
-              <p className="flex items-center">
+              <p className="flex text-dark-brown items-center">
                 <img
                   className="inline-block pr-2"
                   src={useBaseUrl('/img/job-icons/arrow-back.svg')}
@@ -35,10 +35,10 @@ function BlogPostPage(props: Props): JSX.Element {
                 Back to Jobs
               </p>
             </Link>
-            <h1 className="text-24 leading-32 text-dark-tiny lg:hidden">
+            <h1 className="text-24 my-2 leading-32 text-dark-brown lg:hidden">
               {position} (Lương - {salary})
             </h1>
-            <p className="flex items-center">
+            <p className="flex text-dark-brown items-center">
               <img
                 className="inline-block mr-2"
                 src={useBaseUrl('/img/job-icons/money.svg')}
@@ -46,7 +46,7 @@ function BlogPostPage(props: Props): JSX.Element {
               />{' '}
               {salary}
             </p>
-            <p className="flex items-center">
+            <p className="flex text-dark-brown items-center">
               <img
                 className="inline-block mr-2"
                 src={useBaseUrl('/img/job-icons/time.svg')}
@@ -54,7 +54,7 @@ function BlogPostPage(props: Props): JSX.Element {
               />{' '}
               {workTime === true ? 'Toàn thời gian' : 'Bán thời gian'}{' '}
             </p>
-            <p className="flex items-center">
+            <p className="flex text-dark-brown items-center">
               <img
                 className="inline-block mr-2"
                 src={useBaseUrl('/img/job-icons/place.svg')}
