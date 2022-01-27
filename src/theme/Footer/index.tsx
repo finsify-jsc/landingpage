@@ -9,13 +9,25 @@ import Link from '@docusaurus/Link';
 import { useThemeConfig } from '@docusaurus/theme-common';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import { socialLinks } from '../social-links';
+import clsx from 'clsx';
 
 const Footer = () => {
   const {
     footer: { links },
   } = useThemeConfig();
+
+  const isPaddingFooter = () => {
+    let paths = ['career'];
+    return !paths.some((path) => window.location.href.includes(path));
+  };
+
   return (
-    <footer className="lg:py-6 lg:m-0 mt-10 mb-20 border-t border-monochrome-medium-tint">
+    <footer
+      className={clsx(
+        'lg:py-6 lg:m-0 mt-10 border-t border-monochrome-medium-tint',
+        isPaddingFooter() && 'mb-20',
+      )}
+    >
       <section className="container grid grid-cols-1 lg:grid-cols-2 gap-y-4 lg:mx-auto">
         <p className="mt-6 lg:mt-0 text-16 leading-24 text-dark-brown text-center lg:text-left">
           © 2022 Finsify Technology Co., Ltd. <br className="lg:hidden" />
