@@ -10,6 +10,7 @@ export const Reviews = () => {
     dots: false,
     slidesToShow: 3,
     slidesToScroll: 3,
+    centerMode: true,
     responsive: [
       {
         breakpoint: 480,
@@ -21,6 +22,7 @@ export const Reviews = () => {
           speed: 500,
           slidesToShow: 1,
           slidesToScroll: 1,
+          centerMode: false,
         },
       },
     ],
@@ -71,11 +73,13 @@ export const Reviews = () => {
 };
 
 const css = ` 
-  .slick-list {margin: 0 -5px;}
-  .slick-slide>div {padding: 0 5px;}
+  @media screen and (min-width: 1024px) {
+      .slick-slide > div {
+        margin: 0 15px;
+      }
+  }
   .review-slide {
     max-width: 370px;
-    // margin: 0 15px;
     margin-top: 24px;
     border: 1px solid #f0f0f0 !important;
     border-radius: 8px;
