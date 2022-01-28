@@ -70,6 +70,9 @@ const Navbar = () => {
             </ul>
             <button
               aria-label="menu button"
+              style={{
+                backgroundPosition: 'center',
+              }}
               className={clsx(
                 `flex items-center justify-center w-9 h-9 md:hidden text-green-ml fill-current ${
                   isNavbarVisible ? 'bg-close' : 'bg-menu'
