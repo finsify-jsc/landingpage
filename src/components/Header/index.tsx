@@ -2,20 +2,51 @@ import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import clsx from 'clsx';
 import React, { useEffect, useRef } from 'react';
+import $ from 'jquery';
 
 export const Header = ({ to }) => {
   const pinnedButton = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    window.addEventListener('scroll', () => {
-      const y = window.scrollY;
-      if (y >= 330) {
+    $.fn.isOnScreen = function () {
+      var win = $(window);
+      var viewport = {
+        top: win.scrollTop(),
+        left: win.scrollLeft(),
+        right: 0,
+        bottom: 0,
+      };
+      viewport.right = viewport.left + win.width();
+      viewport.bottom = viewport.top + win.height();
+      var bounds = this.offset();
+      bounds.right = bounds.left + this.outerWidth();
+      bounds.bottom = bounds.top + this.outerHeight();
+
+      return !(
+        viewport.right < bounds.left ||
+        viewport.left > bounds.right ||
+        viewport.bottom < bounds.top ||
+        viewport.top > bounds.bottom
+      );
+    };
+
+    $(window).scroll(function () {
+      if ($('#cta').isOnScreen() == true) {
         if (pinnedButton.current) {
-          pinnedButton.current.classList.remove('invisible');
+          pinnedButton.current.classList.add('invisible');
         }
       } else {
         if (pinnedButton.current) {
-          pinnedButton.current.classList.add('invisible');
+          const y = window.scrollY;
+          if (y >= 330) {
+            if (pinnedButton.current) {
+              pinnedButton.current.classList.remove('invisible');
+            }
+          } else {
+            if (pinnedButton.current) {
+              pinnedButton.current.classList.add('invisible');
+            }
+          }
         }
       }
     });

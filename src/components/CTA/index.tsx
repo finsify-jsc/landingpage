@@ -3,7 +3,10 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 export const CTA = () => {
   return (
-    <section className="container flex justify-center mt-18 lg:mt-44 lg:pb-14">
+    <section
+      id="cta"
+      className="container flex justify-center mt-18 lg:mt-44 lg:pb-14"
+    >
       <div className="relative bg-green-ml py-12 lg:py-20 lg:px-28 rounded-2xl w-full lg:w-9/12">
         <p className="mb-2 text-monochrome-white text-24 px-4 lg:px-0 leading-32 font-medium text-center lg:text-left lg:font-medium lg:text-40 lg:leading-52">
           Take your finances to <br className="hidden lg:block" /> the next

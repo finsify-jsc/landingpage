@@ -16,16 +16,10 @@ const Footer = () => {
     footer: { links },
   } = useThemeConfig();
 
-  const isPaddingFooter = () => {
-    let paths = ['career'];
-    return !paths.some((path) => window.location.href.includes(path));
-  };
-
   return (
     <footer
       className={clsx(
         'lg:py-6 lg:m-0 mt-10 border-t border-monochrome-medium-tint',
-        isPaddingFooter() && 'mb-20',
       )}
     >
       <section className="container grid grid-cols-1 lg:grid-cols-2 gap-y-4 lg:mx-auto">
