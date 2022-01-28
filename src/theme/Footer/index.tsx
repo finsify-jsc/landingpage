@@ -33,7 +33,7 @@ const Footer = () => {
               <a
                 key={Math.random()}
                 href={href}
-                className="text-16 font-normal text-dark-brown"
+                className="text-16 font-normal text-dark-brown hover:no-underline"
               >
                 {label}
               </a>
@@ -42,7 +42,7 @@ const Footer = () => {
           <ul className="flex items-center mt-5 mb-3 lg:mt-0 lg:mb-0 gap-x-2">
             {socialLinks.map(({ Icon, link }) => (
               <li key={link}>
-                <Link to={link} className="cursor-pointer">
+                <Link to={link} className="cursor-pointer hover:no-underline">
                   <Icon />
                 </Link>
               </li>

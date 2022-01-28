@@ -82,7 +82,7 @@ const Navbar = () => {
         </nav>
       </div>
       {isNavbarVisible && (
-        <nav className="visible md:invisible fixed w-full h-full left-0 top-22">
+        <nav className="visible md:invisible fixed w-full h-full left-0 top-14">
           <div className="bg-monochrome-white">
             <div className="container pt-2 pb-6">
               <ul>
