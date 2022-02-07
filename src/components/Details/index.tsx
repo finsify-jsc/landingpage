@@ -7,7 +7,7 @@ const Figure: React.FC = ({ children }) => (
   <figure
     className={clsx(
       styles.figure,
-      'grid grid-cols-8 lg:grid-cols-12 items-center justify-items-start gap-x-5 gap-y-4 lg:gap-y-0 lg:gap-x-14 pb-14 md:py-0',
+      'grid grid-cols-8 lg:grid-cols-12 items-center justify-items-start gap-y-4 lg:gap-y-0 lg:gap-x-14 pb-14 md:py-0',
     )}
   >
     {children}
@@ -28,8 +28,8 @@ export const Details = () => {
             Salary, Gift.
           </p>
         </figcaption>
-        <div className="order-2 md:order-1 col-span-full md:col-span-4 lg:col-span-6 place-self-center lg:place-self-end lg:self-center">
-          <div className={clsx(styles.imgWrapper, '')}>
+        <div className="order-2 md:order-1 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-end lg:self-center">
+          <div className={clsx(styles.imgWrapper, 'md:w-4/6 mx-auto')}>
             <img
               src={useBaseUrl('img/details/Transaction.png')}
               alt="coverage"
@@ -47,8 +47,11 @@ export const Details = () => {
             habits. You’re one step closer to that stuff you want to buy.
           </p>
         </figcaption>
-        <div className="order-2 md:order-2 col-span-full md:col-span-4 lg:col-span-6 place-self-center lg:place-self-start lg:self-center">
-          <div className={clsx(styles.imgWrapper, '')}>
+        <div
+          className="order-2 md:order-2 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-start lg:self-center"
+          style={{ width: '100%' }}
+        >
+          <div className={clsx(styles.imgWrapper, 'md:w-4/6')}>
             <img
               src={useBaseUrl('img/details/budget.png')}
               alt="risks and tests to run"
@@ -66,8 +69,11 @@ export const Details = () => {
             Understand where your money comes and goes with easy-to-read graphs.
           </p>
         </figcaption>
-        <div className="order-2 md:order-1 col-span-full md:col-span-4 lg:col-span-6 place-self-center lg:place-self-end lg:self-center">
-          <div className={clsx(styles.imgWrapper, '')}>
+        <div
+          className="order-2 md:order-1 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-end lg:self-center"
+          style={{ width: '100%' }}
+        >
+          <div className={clsx(styles.imgWrapper, 'md:w-4/6 mx-auto')}>
             <img
               src={useBaseUrl('img/details/REPORT.png')}
               alt="time savings"
