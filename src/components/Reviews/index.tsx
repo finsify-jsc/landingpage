@@ -20,6 +20,19 @@ export const Reviews = () => {
           infinite: true,
           autoplay: true,
           speed: 500,
+          slidesToShow: 2,
+          slidesToScroll: 2,
+          centerMode: false,
+        },
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          arrows: false,
+          dots: false,
+          infinite: true,
+          autoplay: true,
+          speed: 500,
           slidesToShow: 1,
           slidesToScroll: 1,
           centerMode: false,
@@ -39,7 +52,7 @@ export const Reviews = () => {
         <img src={useBaseUrl('/img/Stars.svg')} alt="" />
         <p className="pl-1">4.9 Đánh giá từ người dùng</p>
       </p>
-      <Slider class="mx-auto" {...settings}>
+      <Slider {...settings}>
         <div className="review-slide px-4 py-6 lg:p-6 text-center">
           <p className="text-dark-brown">
             Perfect app. My husband and I use it to track all our expenses and
@@ -78,11 +91,7 @@ const css = `
         margin: 0 15px;
       }
   }
-  @media screen and (min-width: 480px) {
-    .slick-slide > div {
-      margin: 0 auto;
-    }
-  }
+
   .review-slide {
     max-width: 370px;
     margin-top: 24px;
