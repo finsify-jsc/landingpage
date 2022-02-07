@@ -13,7 +13,7 @@ export const Reviews = () => {
     centerMode: true,
     responsive: [
       {
-        breakpoint: 480,
+        breakpoint: 912,
         settings: {
           arrows: false,
           dots: false,
@@ -28,9 +28,9 @@ export const Reviews = () => {
     ],
   };
   return (
-    <section className="container mt-14">
+    <section className="container mt-14 lg:mt-44">
       <style>{css}</style>
-      <h2 className="text-dark-tiny text-26 font-medium leading-32 text-center">
+      <h2 className="text-dark-tiny text-26lg:text-40 lg:leading-52 font-medium leading-32 text-center">
         {' '}
         See what others have to say{' '}
       </h2>
@@ -39,7 +39,7 @@ export const Reviews = () => {
         <img src={useBaseUrl('/img/Stars.svg')} alt="" />
         <p className="pl-1">4.9 Đánh giá từ người dùng</p>
       </p>
-      <Slider {...settings}>
+      <Slider class="mx-auto" {...settings}>
         <div className="review-slide px-4 py-6 lg:p-6 text-center">
           <p className="text-dark-brown">
             Perfect app. My husband and I use it to track all our expenses and
@@ -77,6 +77,11 @@ const css = `
       .slick-slide > div {
         margin: 0 15px;
       }
+  }
+  @media screen and (min-width: 480px) {
+    .slick-slide > div {
+      margin: 0 auto;
+    }
   }
   .review-slide {
     max-width: 370px;

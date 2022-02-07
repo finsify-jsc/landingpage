@@ -10,7 +10,7 @@ const FigureIntro: React.FC = ({ children }) => (
 
 export const Intro = () => {
   return (
-    <section className="container bg-monochrome-white mt-14 lg:pt-0">
+    <section className="container bg-monochrome-white mt-14 lg:mt-0">
       <FigureIntro>
         {IntroData &&
           IntroData.map(({ image, description }) => {
