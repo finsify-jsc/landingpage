@@ -35,7 +35,7 @@ function BlogPostPage(props: Props): JSX.Element {
                 Back to Jobs
               </p>
             </Link>
-            <h1 className="text-24 my-2 leading-32 text-dark-brown lg:hidden">
+            <h1 className="text-24 my-2 leading-32 text-dark-tiny lg:hidden">
               {position} (Lương - {salary})
             </h1>
             <p className="flex text-dark-brown items-center">
@@ -63,7 +63,7 @@ function BlogPostPage(props: Props): JSX.Element {
               Tầng 4, 101 Láng Hạ, Đống Đa, Hà Nội
             </p>
 
-            <p className="inline-block text-16 px-8 py-4 leading-24 rounded-xl text-dark-brown bg-green-light">
+            <p className="inline-block text-16 px-8 py-4 mt-2 leading-24 rounded-xl text-dark-brown bg-green-light">
               Ứng viên vui lòng gửi email kèm CV đến địa chỉ{' '}
               <a
                 style={{ textDecoration: 'none' }}
