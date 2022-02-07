@@ -27,17 +27,17 @@ function BlogListPage(props: Props): JSX.Element {
     <Layout title={title} description={blogDescription}>
       <div className="container mt-6">
         <div className="grid grid-cols-1 w-full text-center">
-          <h1 className="font-ibm font-medium text-32 leading-40 text-dark-tiny">
+          <h1 className="font-ibm font-medium text-32 lg:text-64 leading-40 lg:leading-83 text-dark-tiny">
             Join us &
           </h1>
-          <h1 className="lg:inline font-ibm font-medium text-32 leading-40 text-dark-tiny">
+          <h1 className="lg:inline font-ibm font-medium text-32 lg:text-64 leading-40 lg:leading-83 text-dark-tiny">
             Make{' '}
-            <span className="font-ibm font-medium text-32 leading-40 text-green-ml">
+            <span className="font-ibm font-medium text-32 lg:text-64 leading-40 lg:leading-83 text-green-ml">
               awesome <br className="lg:hidden" /> products.
             </span>
           </h1>
         </div>
-        <main className="lg:px-10 grid grid-cols-1 gap-y-4 mt-8">
+        <main className="lg:px-10 grid grid-cols-12 gap-y-4 mt-8 mb-8">
           {items.map(({ content: BlogPostContent }) => (
             <BlogPostItem
               key={BlogPostContent.metadata.permalink}

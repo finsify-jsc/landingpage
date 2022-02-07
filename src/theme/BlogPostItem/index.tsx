@@ -47,7 +47,7 @@ function BlogPostItem(props: Props): JSX.Element {
     return (
       <article
         style={{ border: '1px solid #F1F1F1' }}
-        className="px-6 py-4 w-full rounded-lg"
+        className="px-6 py-4 col-span-full md:col-span-8 md:col-start-3 rounded-lg"
       >
         <Link
           style={{
