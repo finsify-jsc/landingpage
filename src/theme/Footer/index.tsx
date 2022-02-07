@@ -39,7 +39,7 @@ const Footer = () => {
               </a>
             ))}
           </div>
-          <ul className="flex items-center mt-5 mb-3 lg:mt-0 lg:mb-0 gap-x-2">
+          <ul className="flex items-center mt-5 mb-8 lg:mt-0 lg:mb-0 gap-x-2">
             {socialLinks.map(({ Icon, link }) => (
               <li key={link}>
                 <Link to={link} className="cursor-pointer hover:no-underline">
