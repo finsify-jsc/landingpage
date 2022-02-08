@@ -1,3 +1,4 @@
+import Translate from '@docusaurus/Translate';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import clsx from 'clsx';
 import React from 'react';
@@ -20,12 +21,14 @@ export const Details = () => {
       <Figure>
         <figcaption className="col-span-full md:col-span-4 lg:col-span-5 order-2">
           <h3 className="text-26 font-medium lg:text-40 lg:leading-52 leading-32 text-dark-tiny">
-            Simple money tracker
+            <Translate id="details.one">Simple money tracker</Translate>
           </h3>
           <p className="mt-2 text-monochrome-shade">
-            It takes seconds to record daily transactions. Put them into clear
-            and visualized categories such as Expense: Food, Shopping or Income:
-            Salary, Gift.
+            <Translate id="details.one.desc">
+              It takes seconds to record daily transactions. Put them into clear
+              and visualized categories such as Expense: Food, Shopping or
+              Income: Salary, Gift.
+            </Translate>
           </p>
         </figcaption>
         <div className="order-2 md:order-1 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-end lg:self-center">
@@ -40,11 +43,13 @@ export const Details = () => {
       <Figure>
         <figcaption className="col-span-full md:col-span-4 lg:col-start-2 lg:col-span-5 order-2 md:order-1">
           <h3 className="text-26 font-medium lg:text-40 lg:leading-52 leading-32 text-dark-tiny">
-            Painless budgeting
+            <Translate id="details.two">Painless budgeting</Translate>
           </h3>
           <p className="mt-2 text-monochrome-shade">
-            Set budgets that are easy to stick to, based on your own spending
-            habits. You’re one step closer to that stuff you want to buy.
+            <Translate id="details.one.desc">
+              Set budgets that are easy to stick to, based on your own spending
+              habits. You’re one step closer to that stuff you want to buy.
+            </Translate>
           </p>
         </figcaption>
         <div
@@ -62,11 +67,16 @@ export const Details = () => {
       <Figure>
         <figcaption className="col-span-full md:col-span-4 lg:col-span-5 order-2">
           <h3 className="text-26 font-medium lg:text-40 lg:leading-52 leading-32 text-dark-tiny">
-            The whole picture in one place
+            <Translate id="details.three">
+              The whole picture in one place
+            </Translate>
           </h3>
           <p className="mt-2 text-monochrome-shade">
-            One report to give a clear view on your spending patterns.
-            Understand where your money comes and goes with easy-to-read graphs.
+            <Translate id="details.three.desc">
+              One report to give a clear view on your spending patterns.
+              Understand where your money comes and goes with easy-to-read
+              graphs.
+            </Translate>
           </p>
         </figcaption>
         <div

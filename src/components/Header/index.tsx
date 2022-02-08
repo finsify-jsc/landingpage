@@ -1,5 +1,7 @@
 import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import Translate, { translate } from '@docusaurus/Translate';
+
 import clsx from 'clsx';
 import React, { useEffect, useRef } from 'react';
 import $ from 'jquery';
@@ -56,14 +58,14 @@ export const Header = ({ to }) => {
     <div className="container md:pt-20 pb:12 lg:mb-24 md:h-full">
       <div className="md:px-14 lg:px-44">
         <h1 className="font-ibm lg:text-64 lg:leading-83 font-medium text-36 md:text-64 text-green-ml leading-52 md:leading-83 mb-1 text-center">
-          Simple way
+          <Translate>Simple way</Translate>
         </h1>
         <p className="font-ibm text-36 text-dark-brown leading-48 md:leading-56 md:text-40 text-center">
           <h1 className="font-ibm lg:text-64 lg:leading-83 text-dark-brown font-light text-36 leading-48 md:inline">
-            to manage{' '}
+            <Translate>to manage</Translate>{' '}
           </h1>
           <h1 className="font-ibm lg:text-64 lg:leading-83 font-medium text-36 leading-48 md:inline text-green-ml">
-            personal finances
+            <Translate>personal finances</Translate>
           </h1>
         </p>
 
@@ -73,14 +75,14 @@ export const Header = ({ to }) => {
             className="button-ml text-16 md:w-full"
             to={useBaseUrl(to)}
           >
-            Try on browser
+            <Translate>Try on browser</Translate>
           </Link>
           <Link
             style={{ textDecoration: 'none' }}
             className="button-ml-primary bg-green-ml text-16 md:w-full"
             to={useBaseUrl(to)}
           >
-            Download for free
+            <Translate>Download for free</Translate>
           </Link>
         </div>
         <div
@@ -95,14 +97,14 @@ export const Header = ({ to }) => {
               className="button-ml text-16 md:w-full"
               to={useBaseUrl(to)}
             >
-              Try on browser
+              <Translate>Try on browser</Translate>
             </Link>
             <Link
               style={{ textDecoration: 'none' }}
               className="button-ml-primary bg-green-ml text-16 md:w-full"
               to={useBaseUrl(to)}
             >
-              Download for free
+              <Translate>Download for free</Translate>
             </Link>
           </div>
         </div>

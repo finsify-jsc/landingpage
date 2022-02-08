@@ -17,6 +17,7 @@ import clsx from 'clsx';
 import Head from '@docusaurus/Head';
 import { useSessionStorage } from '../../hooks/use-session-storage';
 import styles from './styles.module.scss';
+import Translate, { translate } from '@docusaurus/Translate';
 
 const Navbar = () => {
   const {
@@ -37,10 +38,129 @@ const Navbar = () => {
       })}
     >
       <Head>
-        {/* <meta
-          name="google-site-verification"
-          content="Exn7kPLIy4JTsgoCYicqJbRNhglNbVv20lkzpVDzUU0"
-        /> */}
+        <meta name="author" content="Finsify Technology Co., Ltd" />
+        <meta
+          property="al:android:url"
+          content="https://moneylover.me/download"
+        />
+        <meta property="al:android:package" content="com.bookmark.money" />
+        <meta property="al:android:app_name" content="MoneyLover" />
+
+        <meta
+          name="keywords"
+          content={translate({
+            id: 'meta.keywords',
+          })}
+        />
+        <meta
+          name="description"
+          content={translate({ id: 'meta.description' })}
+        />
+        <meta property="og:title" content={translate({ id: 'og.title' })} />
+        <meta
+          property="og:description"
+          content={translate({ id: 'og.description' })}
+        />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://moneylover.me/" />
+        <meta property="og:site_name" content="Moneylover" />
+        <meta
+          property="og:image"
+          content="https://moneylover.me/source/ml-cover.png"
+        />
+        <meta property="fb:app_id" content="192450854108398" />
+        <link
+          rel="apple-touch-icon-precomposed"
+          sizes="57x57"
+          href={useBaseUrl('img/favicons/apple-icon-57x57.png')}
+        />
+        <link
+          rel="apple-touch-icon-precomposed"
+          sizes="114x114"
+          href={useBaseUrl('img/favicons/apple-icon-114x114.png')}
+        />
+        <link
+          rel="apple-touch-icon-precomposed"
+          sizes="72x72"
+          href={useBaseUrl('img/favicons/apple-icon-72x72.png')}
+        />
+        <link
+          rel="apple-touch-icon-precomposed"
+          sizes="144x144"
+          href={useBaseUrl('img/favicons/apple-icon-144x144.png')}
+        />
+        <link
+          rel="apple-touch-icon-precomposed"
+          sizes="60x60"
+          href={useBaseUrl('img/favicons/apple-icon-60x60.png')}
+        />
+        <link
+          rel="apple-touch-icon-precomposed"
+          sizes="120x120"
+          href={useBaseUrl('img/favicons/apple-icon-120x120.png')}
+        />
+        <link
+          rel="apple-touch-icon-precomposed"
+          sizes="76x76"
+          href={useBaseUrl('img/favicons/apple-icon-76x76.png')}
+        />
+        <link
+          rel="apple-touch-icon-precomposed"
+          sizes="152x152"
+          href={useBaseUrl('img/favicons/apple-icon-152x152.png')}
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          href={useBaseUrl('img/favicons/favicon-196x196.png')}
+          sizes="196x196"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          href={useBaseUrl('img/favicons/favicon-96x96.png')}
+          sizes="96x96"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          href={useBaseUrl('img/favicons/favicon-32x32.png')}
+          sizes="32x32"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          href={useBaseUrl('img/favicons/favicon-16x16.png')}
+          sizes="16x16"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          href={useBaseUrl('img/favicons/favicon-128.png')}
+          sizes="128x128"
+        />
+        <meta name="application-name" content="Money Lover" />
+        <meta name="msapplication-TileColor" content="#FFFFFF" />
+        <meta
+          name="msapplication-TileImage"
+          content={useBaseUrl('img/favicons/ms-icon-144x144.png')}
+        />
+        <meta
+          name="msapplication-square70x70logo"
+          content={useBaseUrl('img/favicons/ms-icon-70x70.png')}
+        />
+        <meta
+          name="msapplication-square150x150logo"
+          content={useBaseUrl('img/favicons/ms-icon-150x150.png')}
+        />
+        <meta
+          name="msapplication-wide310x150logo"
+          content={useBaseUrl('img/favicons/mstile-310x150.png')}
+        />
+        <meta
+          name="msapplication-square310x310logo"
+          content={useBaseUrl('img/favicons/ms-icon-310x310.png')}
+        />
       </Head>
       <div className="absolute top-0 left-0 z-40 w-full bg-monochrome-white">
         <nav className="flex items-center justify-between h-22 container">
@@ -99,7 +219,7 @@ const Navbar = () => {
                       to={useBaseUrl(to)}
                       onClick={() => setIsNavbarVisible(false)}
                     >
-                      {label}
+                      <Translate>{label}</Translate>
                     </Link>
                   </li>
                 ))}

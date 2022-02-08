@@ -1,3 +1,4 @@
+import Translate from '@docusaurus/Translate';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import React from 'react';
 import { FeatureData } from './data';
@@ -6,7 +7,7 @@ export const FeatureList = () => {
   return (
     <section className="container mt-14 lg:mt-44">
       <h1 className="text-26 lg:text-40 lg:leading-52 text-dark-tiny leading-32 font-medium text-center">
-        Features our users love
+        <Translate>Features our users love</Translate>
       </h1>
       <div className="grid mt-6 lg:mt-12 gap-y-8 lg:gap-x-10 lg:gap-y-12 grid-cols-1 lg:grid-cols-3">
         {FeatureData &&

@@ -11,6 +11,15 @@ module.exports = {
   favicon: '/img/favicon.ico',
   organizationName: 'MoneyLover',
   projectName: 'MoneyLoverLandingPage',
+  i18n: {
+    defaultLocale: 'vi',
+    locales: ['en', 'vi'],
+    localeConfigs: {
+      en: { label: 'English' },
+
+      vi: { label: 'Tiếng Việt' },
+    },
+  },
   themeConfig: {
     gtag: {
       trackingID: 'UA-147653671-1',
@@ -26,6 +35,10 @@ module.exports = {
     },
     navbar: {
       items: [
+        {
+          type: 'localeDropdown',
+          position: 'left',
+        },
         {
           to: '/',
           label: 'About us',

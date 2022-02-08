@@ -43,12 +43,12 @@ export const Reviews = () => {
   return (
     <section className="container mt-14 lg:mt-44">
       <style>{css}</style>
-      <h2 className="text-dark-tiny text-26lg:text-40 lg:leading-52 font-medium leading-32 text-center">
+      <h2 className="text-dark-tiny text-26 lg:text-40 lg:leading-52 font-medium leading-32 text-center">
         {' '}
         See what others have to say{' '}
       </h2>
 
-      <p className="flex justify-center mt-4 lg:mb-12">
+      <p className="flex justify-center mt-4 lg:mb-8">
         <img src={useBaseUrl('/img/Stars.svg')} alt="" />
         <p className="pl-1">4.9 Đánh giá từ người dùng</p>
       </p>

@@ -1,0 +1,132 @@
+{
+  "title": {
+    "message": "Ứng dụng quản tài chính cá nhân số 1 thế giới - Money Lover"
+  },
+  "Simple way": {
+    "message": "Cách đơn giản nhất"
+  },
+  "to manage": {
+    "message": "để quản lí"
+  },
+  "personal finances": {
+    "message": "tài chính cá nhân"
+  },
+  "Try on browser": {
+    "message": "Phiên bản browser"
+  },
+  "Download for free": {
+    "message": "Tải về miễn phí"
+  },
+  "intros.secured": {
+    "message": "Thông tin bảo mật 100%"
+  },
+  "intros.users": {
+    "message": "Hơn 1 triệu người dùng"
+  },
+  "intros.review": {
+    "message": "Hơn 100,000 đánh giá 5 sao"
+  },
+  "intros.recommend": {
+    "message": "Được đề xuất bởi Apple & Google"
+  },
+  "details.one": {
+    "message": "Ghi chép các khoản thu chi trở nên dễ dàng hơn"
+  },
+  "details.one.desc": {
+    "message": "Bạn chỉ tốn vài phút để ghi chép lại chi tiêu hàng ngày của mình, và phân loại vào các mục như là: Thức Ăn, Mua sắm; hay là thêm các khoản thu nhập như Lương, Quà tặng, v.v..."
+  },
+  "details.two": {
+    "message": "Không còn nỗi lo chi tiêu ngoài tầm kiểm soát"
+  },
+  "details.two.desc": {
+    "message": "Dựa trên thói quen tiêu dùng của bản thân, bạn có thể tạo một ngân sách để chi tiêu trong một khoảng thời gian nhất định. Ứng dụng sẽ thường xuyên nhắc nhở về tiến độ chi tiêu của bạn, giữ cho các khoản chi luôn trong tầm kiểm soát."
+  },
+  "details.three": {
+    "message": "Theo dõi và quản lý tiền bạc hiệu quả"
+  },
+  "details.three.desc": {
+    "message": "Money Lover tự động tạo cho bạn những biểu đồ báo cáo cực kỳ dễ nhìn, dễ hiểu, dễ nhớ, cho bạn một cái nhìn rõ ràng về các khoản thu chi của bản thân. Chẳng còn hoang mang không rõ 'tiền về nơi đâu' nữa!"
+  },
+  "Features our users love": {
+    "message": "Các tính năng nổi bật"
+  },
+  "features.multiple.devices": {
+    "message": "Sử dụng trên nhiều thiết bị một lúc"
+  },
+  "features.multiple.devices.desc": {
+    "message": "Money Lover có thể đồng bộ trên tất cả thiết bị và các nền tảng với tiêu chuẩn bảo mật chặt chẽ."
+  },
+  "features.recurring.transaction": {
+    "message": "Tự động nhắc nhở các khoản thu chi định kì"
+  },
+  "features.recurring.transaction.desc": {
+    "message": "Nhắc nhở bạn về các khoản thu chi định kỳ hàng tuần, hàng tháng... trước ngày giao dịch."
+  },
+  "features.travel.mode": {
+    "message": "Chuyển đổi tiền tệ khi đi du lịch"
+  },
+  "features.travel.mode.desc": {
+    "message": "Chuyển đổi tiền tệ nhanh chóng, tỉ giá được cập nhật sát sao, hỗ trợ tất cả loại tiền tệ."
+  },
+  "features.saving.plan": {
+    "message": "Tiết kiệm cho dự định tương lai"
+  },
+  "features.saving.plan.desc": {
+    "message": "Được nhắc nhở thường xuyên về khoản tiết kiệm, bạn sẽ nhanh chóng đạt được mục tiêu tài chính mà mình đề ra."
+  },
+  "features.debt.and.loan": {
+    "message": "Không phải bận tâm về vay - nợ"
+  },
+  "features.debt.and.loan.desc": {
+    "message": "Money lover sẽ giúp bạn ghi nhớ các khoản vay, nợ; theo dõi tiến độ trả tiền dễ dàng khi phải trả nhiều lần."
+  },
+  "features.scan.receipt": {
+    "message": "Quét hóa đơn tiện lợi"
+  },
+  "features.scan.receipt.desc": {
+    "message": "Bạn chỉ cần chụp lại hóa đơn và chờ ứng dụng tự động cập nhật và phân loại giao dịch vào ví của bạn."
+  },
+  "See what others have to say": {
+    "message": ""
+  },
+  "4.9 Based on user reviews": {
+    "message": "4.9 Based on user reviews"
+  },
+  "Perfect app. My husband and I use it to track all our expenses and income. We generate our household accounts and budget using this fab app. Furthermore, the developers are hands-on and extremely helpful. Do not look any further. Get this app now!.": {
+    "message": "Money Lover quả là một ứng dụng hoàn hảo! Tôi và chồng đều sử dụng nó để quản lý và theo dõi tất cả thu chi cá nhân. Chúng tôi còn có thể lập các tài khoản và ngân sách cho gia đình chung của cả hai khi sử dụng một ứng dụng hoàn hảo như Money Lover. Hơn thế nữa, những người phát triển ứng dụng còn rất thực tế và cực kì có ích."
+  },
+  "A simple, accessible app that allows you to budget across weeks, months and years. The neat financial calendar lets you set up alerts and keep tabs on all transactions. Plus, it works with all currencies.": {
+    "message": "Một ứng dụng đơn giản và dễ dàng truy cập cho phép bạn lập ngân sách hàng tuần, hàng tháng, hàng năm. Lịch trình tài chính rõ ràng giúp người dùng thiết lập báo động và gắn nhãn dán lên tất cả các giao dịch của mình."
+  },
+  "This will keep you organized and in control, of money you do have and money you will have. This application is easy to use and will help you keep track of every dollar.": {
+    "message": "Ứng dụng này đã khiến tôi trở nên ngăn nắp và cẩn thận hơn, đặc biệt là với những vấn đề về tiền bạc. Nó có các tính năng rất thông minh và dễ dàng để sử dụng. Nếu bạn đang gặp khó khăn trong việc quản lý tài chính của mình thì Money Lover sẽ là một sự lựa chọn hoàn hảo đấy. Thử ngay để cảm nhận sự khác biệt!"
+  },
+  "Take your finances to the next level!": {
+    "message": ""
+  },
+  "Don't hesitate, money matters.": {
+    "message": ""
+  },
+
+  "About us": {
+    "message": "Về chúng tôi"
+  },
+  "Privacy policy": {
+    "message": "Quyền riêng tư"
+  },
+  "Career": {
+    "message": "Tuyển dụng"
+  },
+  "meta.keywords": {
+    "message": "ứng dụng quản lý chi tiêu, quản lý chi tiêu, sổ thu chi, tiết kiệm tiền, quản lý tài chính cá nhân, phần mềm quản lý tài chính cá nhân, ứng dụng quản lý chi tiêu"
+  },
+  "meta.description": {
+    "message": "Với Money Lover,  bạn sẽ dễ dàng theo dõi các khoản thu chi và lên các kế hoạch chi tiêu một cách thông minh. Hãy tải Money Lover ngay hôm nay!"
+  },
+  "og.title": {
+    "message": "Bí kíp để thành công trong quản lý tài chính cá nhân."
+  },
+  "og.description": {
+    "message": "Cùng tìm hiểu các lí do vì sao Money Lover trở thành ứng dụng số 1 thế giới giúp người dùng quản lý tiền bạc một cách hiệu quả."
+  }
+}

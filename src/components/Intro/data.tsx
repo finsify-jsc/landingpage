@@ -1,18 +1,32 @@
+import { translate } from '@docusaurus/Translate';
+
 export const IntroData = [
   {
     image: '/img/introfeature/1.svg',
-    description: '100% Secured data',
+    description: translate({
+      id: 'intros.secured',
+      message: '100% Secured data',
+    }),
   },
   {
     image: '/img/introfeature/2.svg',
-    description: '1 Millions+ users',
+    description: translate({
+      id: 'intros.users',
+      message: '1 Millions+ users',
+    }),
   },
   {
     image: '/img/introfeature/3.svg',
-    description: '100K+ 5-star Reviews',
+    description: translate({
+      id: 'intros.review',
+      message: '100K+ 5-star Reviews',
+    }),
   },
   {
     image: '/img/introfeature/4.svg',
-    description: 'App of the day',
+    description: translate({
+      id: 'intros.recommend',
+      message: 'App of the day',
+    }),
   },
 ];
