@@ -44,9 +44,8 @@ export const Reviews = () => {
   return (
     <section className="container mt-14 lg:mt-44">
       <style>{css}</style>
-      <h2 className="text-dark-tiny text-26 lg:text-40 lg:leading-52 font-medium leading-32 text-center">
-        {' '}
-        See what others have to say{' '}
+      <h2 className="text-dark-tiny tracking-tight text-26 lg:text-40 lg:leading-52 font-medium leading-32 text-center">
+        <Translate id="reviews">See what others have to say</Translate>
       </h2>
 
       <p className="flex justify-center mt-4 lg:mb-8">

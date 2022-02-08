@@ -21,10 +21,10 @@ module.exports = {
     },
   },
   themeConfig: {
-    gtag: {
-      trackingID: 'UA-147653671-1',
-      anonymizeIP: true,
-    },
+    // gtag: {
+    //   trackingID: 'UA-147653671-1',
+    //   anonymizeIP: true,
+    // },
     colorMode: {
       defaultMode: 'light',
       disableSwitch: true,
@@ -40,7 +40,7 @@ module.exports = {
           position: 'left',
         },
         {
-          to: '/',
+          to: 'https://finsify.com/',
           label: 'About us',
         },
         {
@@ -56,15 +56,15 @@ module.exports = {
           items: [
             {
               label: 'About us',
-              href: '/',
+              href: 'https://finsify.com/',
             },
             {
               label: 'Privacy policy',
-              href: '/',
+              href: 'https://moneylover.me/policy.html',
             },
             {
               label: 'Career',
-              href: '/',
+              href: '/career',
             },
           ],
         },

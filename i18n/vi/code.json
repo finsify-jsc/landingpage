@@ -12,7 +12,7 @@
     "message": "tài chính cá nhân"
   },
   "Try on browser": {
-    "message": "Phiên bản browser"
+    "message": "Phiên bản web"
   },
   "Download for free": {
     "message": "Tải về miễn phí"
@@ -108,13 +108,13 @@
     "message": ""
   },
 
-  "About us": {
+  "about": {
     "message": "Về chúng tôi"
   },
-  "Privacy policy": {
+  "privacy.policy": {
     "message": "Quyền riêng tư"
   },
-  "Career": {
+  "career": {
     "message": "Tuyển dụng"
   },
   "meta.keywords": {

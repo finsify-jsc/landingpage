@@ -6,16 +6,10 @@
  */
 import React from 'react';
 import Link from '@docusaurus/Link';
-import { useThemeConfig } from '@docusaurus/theme-common';
-import useBaseUrl from '@docusaurus/useBaseUrl';
 import { socialLinks } from '../social-links';
 import clsx from 'clsx';
-
+import { FooterLink } from './FooterLink';
 const Footer = () => {
-  const {
-    footer: { links },
-  } = useThemeConfig();
-
   return (
     <footer
       className={clsx(
@@ -29,10 +23,11 @@ const Footer = () => {
         </p>
         <div className="mt-4 lg:mt-0 grid grid-cols-1 lg:grid-cols-4 lg:gap-x-5">
           <div className="flex lg:col-span-3 lg:justify-end lg:gap-x-4 justify-between items-center">
-            {links[0].items.map(({ label, href }) => (
+            {FooterLink.map(({ label, to }) => (
               <a
                 key={Math.random()}
-                href={href}
+                href={to}
+                target="_blank"
                 className="text-16 font-normal text-dark-brown hover:no-underline"
               >
                 {label}
@@ -47,17 +42,6 @@ const Footer = () => {
                 </Link>
               </li>
             ))}
-
-            <li className="ml-auto lg:ml-0 lg:fixed lg:bottom-26 lg:right-10">
-              <button className="flex items-center hover:bg-green-dark active:bg-green-dark gap-x-2 px-4 py-3 bg-green-ml text-monochrome-white font-bold rounded-3xl">
-                <img
-                  className="inline-block"
-                  src={useBaseUrl('/img/Support.svg')}
-                  alt=""
-                />
-                Support
-              </button>
-            </li>
           </ul>
         </div>
       </section>

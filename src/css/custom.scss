@@ -62,3 +62,7 @@ svg {
 
 @import './index';
 @import 'index.css';
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}

@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import { useLocation } from '@docusaurus/router';
 import Link from '@docusaurus/Link';
@@ -15,18 +15,14 @@ import useHideableNavbar from '@theme/hooks/useHideableNavbar';
 import useLockBodyScroll from '@theme/hooks/useLockBodyScroll';
 import clsx from 'clsx';
 import Head from '@docusaurus/Head';
-import { useSessionStorage } from '../../hooks/use-session-storage';
 import styles from './styles.module.scss';
 import Translate, { translate } from '@docusaurus/Translate';
-
+import { NavBar } from './navbar';
 const Navbar = () => {
-  const {
-    navbar: { items },
-  } = useThemeConfig();
   const { pathname } = useLocation();
   const [isNavbarVisible, setIsNavbarVisible] = useState(false);
   useLockBodyScroll(isNavbarVisible);
-  const links = [...items];
+  const links = [...NavBar];
   const { navbarRef, isNavbarVisible: isHeaderVisibleAfterScroll } =
     useHideableNavbar(true);
 
@@ -188,6 +184,38 @@ const Navbar = () => {
                 </li>
               ))}
             </ul>
+            <div className="dropdown inline-block relative">
+              <button className="text-dark-brown py-2 px-6 rounded inline-flex items-center">
+                <span className="mr-1">Ngôn ngữ</span>
+                <svg
+                  class="fill-current h-4 w-4"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 20 20"
+                >
+                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+                </svg>
+              </button>
+              <ul className="dropdown-menu w-full hidden absolute pt-1">
+                <li className="text-center">
+                  <Link
+                    style={{ textDecoration: 'none' }}
+                    className="text-16 font-medium text-dark-brown"
+                    href="/"
+                  >
+                    Tiếng Việt
+                  </Link>
+                </li>
+                <li className="text-center">
+                  <Link
+                    style={{ textDecoration: 'none' }}
+                    className="text-16 font-medium text-dark-brown"
+                    href="/en"
+                  >
+                    English
+                  </Link>
+                </li>
+              </ul>
+            </div>
             <button
               aria-label="menu button"
               style={{
@@ -225,6 +253,44 @@ const Navbar = () => {
                 ))}
               </ul>
             </div>
+            {/* <div className="dropdown inline-block relative">
+              <button className="bg-gray-300 text-gray-700 font-semibold py-2 px-4 rounded inline-flex items-center">
+                <span className="mr-1">Dropdown</span>
+                <svg
+                  className="fill-current h-4 w-4"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 20 20"
+                >
+                  <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />{' '}
+                </svg>
+              </button>
+              <ul className="dropdown-menu absolute hidden text-gray-700 pt-1">
+                <li className="">
+                  <a
+                    className="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                    href="#"
+                  >
+                    One
+                  </a>
+                </li>
+                <li className="">
+                  <a
+                    className="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                    href="#"
+                  >
+                    Two
+                  </a>
+                </li>
+                <li className="">
+                  <a
+                    className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                    href="#"
+                  >
+                    Three is the magic number
+                  </a>
+                </li>
+              </ul>
+            </div> */}
           </div>
           <div
             className="w-full h-full bg-monochrome-black bg-opacity-50"
@@ -232,6 +298,10 @@ const Navbar = () => {
           />
         </nav>
       )}
+      <script
+        src="https://unpkg.com/@themesberg/flowbite@latest/dist/flowbite.bundle.js"
+        defer
+      ></script>
     </header>
   );
 };

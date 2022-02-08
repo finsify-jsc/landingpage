@@ -57,14 +57,14 @@ export const Header = ({ to }) => {
   return (
     <div className="container md:pt-20 pb:12 lg:mb-24 md:h-full">
       <div className="md:px-14 lg:px-44">
-        <h1 className="font-ibm lg:text-64 lg:leading-83 font-medium text-36 md:text-64 text-green-ml leading-52 md:leading-83 mb-1 text-center">
+        <h1 className="font-ibm tracking-tight lg:text-64 lg:leading-83 font-medium text-36 md:text-64 text-green-ml leading-52 md:leading-83 mb-1 text-center">
           <Translate>Simple way</Translate>
         </h1>
         <p className="font-ibm text-36 text-dark-brown leading-48 md:leading-56 md:text-40 text-center">
-          <h1 className="font-ibm lg:text-64 lg:leading-83 text-dark-brown font-light text-36 leading-48 md:inline">
+          <h1 className="font-ibm tracking-tight lg:text-64 lg:leading-83 text-dark-brown font-light text-36 leading-48 md:inline">
             <Translate>to manage</Translate>{' '}
           </h1>
-          <h1 className="font-ibm lg:text-64 lg:leading-83 font-medium text-36 leading-48 md:inline text-green-ml">
+          <h1 className="font-ibm tracking-tight lg:text-64 lg:leading-83 font-medium text-36 leading-48 md:inline text-green-ml">
             <Translate>personal finances</Translate>
           </h1>
         </p>

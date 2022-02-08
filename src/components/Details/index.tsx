@@ -20,7 +20,7 @@ export const Details = () => {
     <section className="container mt-14 lg:mt-44 bg-monochrome-white">
       <Figure>
         <figcaption className="col-span-full md:col-span-4 lg:col-span-5 order-2">
-          <h3 className="text-26 font-medium lg:text-40 lg:leading-52 leading-32 text-dark-tiny">
+          <h3 className="text-26 tracking-tight font-medium lg:text-40 lg:leading-52 leading-32 text-dark-tiny">
             <Translate id="details.one">Simple money tracker</Translate>
           </h3>
           <p className="mt-2 text-monochrome-shade">
@@ -42,7 +42,7 @@ export const Details = () => {
       </Figure>
       <Figure>
         <figcaption className="col-span-full md:col-span-4 lg:col-start-2 lg:col-span-5 order-2 md:order-1">
-          <h3 className="text-26 font-medium lg:text-40 lg:leading-52 leading-32 text-dark-tiny">
+          <h3 className="text-26 tracking-tight font-medium lg:text-40 lg:leading-52 leading-32 text-dark-tiny">
             <Translate id="details.two">Painless budgeting</Translate>
           </h3>
           <p className="mt-2 text-monochrome-shade">
@@ -66,7 +66,7 @@ export const Details = () => {
       </Figure>
       <Figure>
         <figcaption className="col-span-full md:col-span-4 lg:col-span-5 order-2">
-          <h3 className="text-26 font-medium lg:text-40 lg:leading-52 leading-32 text-dark-tiny">
+          <h3 className="text-26 tracking-tighter font-medium lg:text-40 lg:leading-52 leading-32 text-dark-tiny">
             <Translate id="details.three">
               The whole picture in one place
             </Translate>
