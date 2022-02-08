@@ -3,6 +3,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
+import Translate from '@docusaurus/Translate';
 
 export const Reviews = () => {
   const settings = {
@@ -50,35 +51,42 @@ export const Reviews = () => {
 
       <p className="flex justify-center mt-4 lg:mb-8">
         <img src={useBaseUrl('/img/Stars.svg')} alt="" />
-        <p className="pl-1">4.9 Đánh giá từ người dùng</p>
+        <p className="pl-1">
+          <Translate id="reviews.star">4.9 Based on user reviews</Translate>
+        </p>
       </p>
       <Slider {...settings}>
-        <div className="review-slide px-4 py-6 lg:p-6 text-center">
-          <p className="text-dark-brown">
-            Perfect app. My husband and I use it to track all our expenses and
-            income. We generate our household accounts and budget using this fab
-            app. Furthermore, the developers are hands-on and extremely helpful.
-            Do not look any further. Get this app now!.
+        <div className="review-slide lg:h-screen grid grid-rows-6 px-4 py-6 lg:p-6 text-center">
+          <p className="text-dark-brown lg:h-screen">
+            <Translate id="reviews.one">
+              Perfect app. My husband and I use it to track all our expenses and
+              income. We generate our household accounts and budget using this
+              fab app. Furthermore, the developers are hands-on and extremely
+              helpful. Do not look any further. Get this app now!.
+            </Translate>
+          </p>
+          <p className="pt-4 font-bold leading-20">Lorna Mifsud Cachia</p>
+        </div>
+        <div className="review-slide lg:h-screen grid grid-rows-6 px-4 py-6 lg:p-6 text-center">
+          <p className="text-dark-brown lg:h-screen">
+            <Translate id="reviews.two">
+              This will keep you organized and in control, of money you do have
+              and money you will have. This application is easy to use and will
+              help you keep track of every dollar.
+            </Translate>
           </p>
           <p className="pt-4 font-bold leading-20">Minh & Tam</p>
         </div>
-        <div className="review-slide px-4 py-6 lg:p-6 text-center">
-          <p className="text-dark-brown">
-            Perfect app. My husband and I use it to track all our expenses and
-            income. We generate our household accounts and budget using this fab
-            app. Furthermore, the developers are hands-on and extremely helpful.
-            Do not look any further. Get this app now!.
+        <div className="review-slide lg:h-screen grid grid-rows-6 px-4 py-6 lg:p-6 text-center">
+          <p className="text-dark-brown lg:h-screen">
+            <Translate id="reviews.three">
+              A simple, accessible app that allows you to budget across weeks,
+              months and years. The neat financial calendar lets you set up
+              alerts and keep tabs on all transactions. Plus, it works with all
+              currencies.
+            </Translate>
           </p>
-          <p className="pt-4 font-bold leading-20">Minh & Tam</p>
-        </div>
-        <div className="review-slide px-4 py-6 lg:p-6 text-center">
-          <p className="text-dark-brown">
-            Perfect app. My husband and I use it to track all our expenses and
-            income. We generate our household accounts and budget using this fab
-            app. Furthermore, the developers are hands-on and extremely helpful.
-            Do not look any further. Get this app now!.
-          </p>
-          <p className="pt-4 font-bold leading-20">Minh & Tam</p>
+          <p className="pt-4 font-bold leading-20">Jeveny Johnson</p>
         </div>
       </Slider>
     </section>
@@ -91,9 +99,12 @@ const css = `
         margin: 0 15px;
       }
   }
-
+  .review-slide p {
+    max-height: 240px;
+  }
   .review-slide {
     max-width: 370px;
+    max-height: 324px;
     margin-top: 24px;
     border: 1px solid #f0f0f0 !important;
     border-radius: 8px;
