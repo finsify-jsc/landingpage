@@ -38,7 +38,7 @@ const Footer = () => {
             {socialLinks.map(({ Icon, link }) => (
               <li key={link}>
                 <Link to={link} className="cursor-pointer hover:no-underline">
-                  <Icon />
+                  <Icon width={32} height={32} />
                 </Link>
               </li>
             ))}

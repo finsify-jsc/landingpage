@@ -34,20 +34,54 @@ const Navbar = () => {
   }
 
   const localeItems = locales.map((locale) => {
-    const to =
-      locale === currentLocale ? `pathname:///` : `pathname://${locale}`;
     return {
       locale,
-      isNavLink: true,
-      label: getLocaleLabel(locale),
-      to,
-      target: '_self',
-      autoAddBaseUrl: false,
-      className: locale === currentLocale ? 'dropdown__link--active' : 'hidden',
     };
   });
-  console.log(localeItems);
 
+  const renderLangLink = (locale) => {
+    if (!pathname.startsWith('/en') && locale === 'vi') {
+      return (
+        <li>
+          <Link
+            style={{ textDecoration: 'none' }}
+            target="_self"
+            className={clsx(
+              'text-16 font-medium text-dark-brown flex items-center gap-1',
+            )}
+            to={useBaseUrl(`pathname://en`)}
+          >
+            <img
+              className="w-6 inline-block"
+              src={useBaseUrl(`/img/en.svg`)}
+              alt="English"
+            />
+            English
+          </Link>
+        </li>
+      );
+    } else if (pathname.startsWith('/en') && locale === 'en') {
+      return (
+        <li>
+          <Link
+            style={{ textDecoration: 'none' }}
+            target="_self"
+            className={clsx(
+              'text-16 font-medium text-dark-brown flex items-center gap-1',
+            )}
+            to={useBaseUrl('pathname://')}
+          >
+            <img
+              className="w-6 inline-block"
+              src={useBaseUrl(`/img/vi.svg`)}
+              alt="Tiếng Việt"
+            />
+            Tiếng Việt
+          </Link>
+        </li>
+      );
+    }
+  };
   const { pathname } = useLocation();
   const [isNavbarVisible, setIsNavbarVisible] = useState(false);
   useLockBodyScroll(isNavbarVisible);
@@ -213,62 +247,7 @@ const Navbar = () => {
                 </li>
               ))}
               {localeItems &&
-                localeItems.map(({ to, label, locale }) => {
-                  console.log(useBaseUrl(to));
-
-                  return (
-                    <li>
-                      <Link
-                        style={{ textDecoration: 'none' }}
-                        target="_self"
-                        className={clsx(
-                          'text-16 font-medium text-dark-brown flex items-center gap-1',
-                          (pathname === '/' && locale === 'vi') ||
-                            (pathname === '/en' && locale === 'en')
-                            ? 'hidden'
-                            : '',
-                        )}
-                        to={useBaseUrl(to)}
-                      >
-                        <img
-                          className="w-6 inline-block"
-                          src={useBaseUrl(`/img/${locale}.svg`)}
-                          alt={label}
-                        />
-                        {label}
-                      </Link>
-                    </li>
-                  );
-                })}
-              {/* <li className="dropdown relative">
-                <button className="text-dark-brown py-2 px-6 rounded inline-flex items-center">
-                  <span className="mr-1">Ngôn ngữ</span>
-                  <svg
-                    className="fill-current h-4 w-4"
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 20 20"
-                  >
-                    <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
-                  </svg>
-                </button>
-                <ul className="dropdown-menu w-full hidden absolute pt-1">
-                  {localeItems &&
-                    localeItems.map(({ to, label, target }) => {
-                      return (
-                        <li className="text-center">
-                          <Link
-                            style={{ textDecoration: 'none' }}
-                            target="_self"
-                            className="text-16 font-medium text-dark-brown"
-                            to={useBaseUrl(to)}
-                          >
-                            {label}
-                          </Link>
-                        </li>
-                      );
-                    })}
-                </ul>
-              </li> */}
+                localeItems.map(({ locale }) => renderLangLink(locale))}
             </ul>
 
             <button
@@ -306,35 +285,8 @@ const Navbar = () => {
                     </Link>
                   </li>
                 ))}
-                <li className="dropdown border-t border-monochrome-medium-tint relative w-full">
-                  <button className="flex items-center text-16 font-medium text-dark-brown leading-24 py-4 w-full">
-                    <span className="mr-1">Ngôn ngữ</span>
-                    <svg
-                      className="fill-current h-4 w-4"
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 20 20"
-                    >
-                      <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
-                    </svg>
-                  </button>
-                  <ul className="dropdown-menu w-full hidden absolute pt-1">
-                    {localeItems &&
-                      localeItems.map(({ to, label, target }) => {
-                        return (
-                          <li className="text-center">
-                            <Link
-                              style={{ textDecoration: 'none' }}
-                              target="_self"
-                              className="text-16 font-medium text-dark-brown"
-                              to={useBaseUrl(to)}
-                            >
-                              {label}
-                            </Link>
-                          </li>
-                        );
-                      })}
-                  </ul>
-                </li>
+                {localeItems &&
+                  localeItems.map(({ locale }) => renderLangLink(locale))}
               </ul>
             </div>
           </div>
