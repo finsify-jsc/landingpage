@@ -19,10 +19,16 @@ export const CTA = () => {
           Don&rsquo;t hesite, money matters.
         </p>
         <div className="flex justify-center lg:justify-start w-full">
-          <a href="/" className="mr-1">
+          <a
+            href="https://itunes.apple.com/app/apple-store/id486312413?pt=694013&ct=landing&mt=8"
+            className="mr-1"
+          >
             <img src={useBaseUrl('img/marketplace/appstore.svg')} alt="" />
           </a>
-          <a href="/" className="ml-1">
+          <a
+            href="https://play.google.com/store/apps/details?id=com.bookmark.money&referrer=utm_source%3Dlanding"
+            className="ml-1"
+          >
             <img src={useBaseUrl('img/marketplace/google-play.svg')} alt="" />
           </a>
         </div>

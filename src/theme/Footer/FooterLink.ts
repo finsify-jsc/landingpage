@@ -11,6 +11,6 @@ export const FooterLink = [
   },
   {
     label: translate({ id: "privacy.policy", message: "Privacy policy" }),
-    to: "https://moneylover.me/policy.html",
+    to: "/policy",
   },
 ];
