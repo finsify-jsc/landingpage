@@ -42,7 +42,7 @@ const Navbar = () => {
   const renderLangLink = (locale) => {
     if (!pathname.startsWith('/en') && locale === 'vi') {
       return (
-        <li className="border-t border-monochrome-medium-tint md:border-0">
+        <li className="border-t border-monochrome-medium-tint md:border-none">
           <Link
             style={{ textDecoration: 'none' }}
             target="_self"
@@ -62,7 +62,7 @@ const Navbar = () => {
       );
     } else if (pathname.startsWith('/en') && locale === 'en') {
       return (
-        <li className="border-t border-monochrome-medium-tint md:border-0">
+        <li className="border-t border-monochrome-medium-tint md:border-none">
           <Link
             style={{ textDecoration: 'none' }}
             target="_self"
@@ -92,9 +92,13 @@ const Navbar = () => {
   return (
     <header
       ref={navbarRef}
-      className={clsx('fixed top-0 inset-x-0 z-50 h-20', styles.header, {
-        [styles.headerHidden]: !isHeaderVisibleAfterScroll,
-      })}
+      className={clsx(
+        'fixed top-0 inset-x-0 z-50 h-20 bg-transparent border-none',
+        styles.header,
+        {
+          [styles.headerHidden]: !isHeaderVisibleAfterScroll,
+        },
+      )}
     >
       <Head>
         <meta name="author" content="Finsify Technology Co., Ltd" />
@@ -224,6 +228,7 @@ const Navbar = () => {
           id="ze-snippet"
           src="https://static.zdassets.com/ekr/snippet.js?key=cb0be492-0505-495c-8751-093cf97db217"
         ></script>
+        <script src={useBaseUrl('/config-zendesk.js')}></script>
       </Head>
       <div className="absolute top-0 left-0 z-40 w-full bg-monochrome-white">
         <nav className="flex items-center justify-between h-20 container">
@@ -275,7 +280,7 @@ const Navbar = () => {
         </nav>
       </div>
       {isNavbarVisible && (
-        <nav className="visible md:invisible fixed w-full h-full left-0 top-14">
+        <nav className="visible md:invisible fixed w-full h-20 left-0 top-14">
           <div className="bg-monochrome-white">
             <div className="container mt-4 pt-2 pb-4">
               <ul>
