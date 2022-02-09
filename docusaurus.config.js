@@ -4,13 +4,15 @@ const path = require('path');
 module.exports = {
   title: 'MoneyLover',
   tagline: 'MoneyLover',
-  url: 'https://MoneyLover.github.io',
+  url: 'https://finsify-be.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
-  organizationName: 'MoneyLover',
-  projectName: 'MoneyLoverLandingPage',
+  organizationName: 'finsify-be',
+  projectName: 'landingpage',
+  deploymentBranch: 'main',
+  trailingSlash: true,
   i18n: {
     defaultLocale: 'vi',
     locales: ['en', 'vi'],
