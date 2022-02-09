@@ -42,12 +42,12 @@ const Navbar = () => {
   const renderLangLink = (locale) => {
     if (!pathname.startsWith('/en') && locale === 'vi') {
       return (
-        <li>
+        <li className="border-t border-monochrome-medium-tint md:border-0">
           <Link
             style={{ textDecoration: 'none' }}
             target="_self"
             className={clsx(
-              'text-16 font-medium text-dark-brown flex items-center gap-1',
+              'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 w-full h-full gap-x-2',
             )}
             to={useBaseUrl(`pathname://en`)}
           >
@@ -62,12 +62,12 @@ const Navbar = () => {
       );
     } else if (pathname.startsWith('/en') && locale === 'en') {
       return (
-        <li>
+        <li className="border-t border-monochrome-medium-tint md:border-0">
           <Link
             style={{ textDecoration: 'none' }}
             target="_self"
             className={clsx(
-              'text-16 font-medium text-dark-brown flex items-center gap-1',
+              'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 w-full h-full gap-x-2',
             )}
             to={useBaseUrl('pathname:///')}
           >
@@ -220,11 +220,19 @@ const Navbar = () => {
           name="msapplication-square310x310logo"
           content={useBaseUrl('img/favicons/ms-icon-310x310.png')}
         />
+        <script
+          id="ze-snippet"
+          src="https://static.zdassets.com/ekr/snippet.js?key=cb0be492-0505-495c-8751-093cf97db217"
+        ></script>
       </Head>
       <div className="absolute top-0 left-0 z-40 w-full bg-monochrome-white">
         <nav className="flex items-center justify-between h-20 container">
           <Link to={useBaseUrl('/')}>
-            <img src={useBaseUrl('/img/logo.svg')} alt="Money Lover" />
+            <img
+              className="h-8 md:h-10"
+              src={useBaseUrl('/img/logo.svg')}
+              alt="Money Lover"
+            />
           </Link>
           <div className="md:flex items-center">
             <ul className="invisible md:visible fixed md:static flex flex-row gap-6 items-center mt-1">
@@ -296,10 +304,6 @@ const Navbar = () => {
           />
         </nav>
       )}
-      <script
-        src="https://unpkg.com/@themesberg/flowbite@latest/dist/flowbite.bundle.js"
-        defer
-      ></script>
     </header>
   );
 };
