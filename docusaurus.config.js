@@ -5,7 +5,7 @@ module.exports = {
   title: 'MoneyLover',
   tagline: 'MoneyLover',
   url: 'https://finsify-be.github.io',
-  baseUrl: '/',
+  baseUrl: '/landingpage/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
