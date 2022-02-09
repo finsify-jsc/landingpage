@@ -67,11 +67,7 @@ const Navbar = () => {
             className={clsx(
               'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 w-full h-full gap-x-2',
             )}
-<<<<<<< HEAD
-            to="/"
-=======
             href={`/`}
->>>>>>> fd7971c17ef8f06c4ef062324b6beaa6018e9cd2
           >
             <img
               className="w-6 inline-block"
