@@ -11,8 +11,6 @@ module.exports = {
   favicon: '/img/favicon.ico',
   organizationName: 'finsify-be',
   projectName: 'landingpage',
-  deploymentBranch: 'main',
-  trailingSlash: true,
   i18n: {
     defaultLocale: 'vi',
     locales: ['en', 'vi'],
