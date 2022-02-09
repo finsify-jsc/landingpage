@@ -11,14 +11,14 @@
     <entry>
         <title type="html"><![CDATA[dev]]></title>
         <id>first-blog-post-1</id>
-        <link href="https://finsify-be.github.io/career/first-blog-post-1"/>
+        <link href="https://finsify-be.github.io/landingpage/career/first-blog-post-1"/>
         <updated>2020-12-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Mô tả công việc]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[lineprot]]></title>
         <id>first-blog-post</id>
-        <link href="https://finsify-be.github.io/career/first-blog-post"/>
+        <link href="https://finsify-be.github.io/landingpage/career/first-blog-post"/>
         <updated>2019-12-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
     </entry>
