@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>MoneyLover Blog</title>
+        <link>https://finsify-be.github.io/career</link>
+        <description>MoneyLover Blog</description>
+        <lastBuildDate>Sat, 19 Dec 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2022 Blogasaurus by Palash Shrivastava</copyright>
+        <item>
+            <title><![CDATA[dev]]></title>
+            <link>https://finsify-be.github.io/career/first-blog-post-1</link>
+            <guid>first-blog-post-1</guid>
+            <pubDate>Sat, 19 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Mô tả công việc]]></description>
+        </item>
+        <item>
+            <title><![CDATA[lineprot]]></title>
+            <link>https://finsify-be.github.io/career/first-blog-post</link>
+            <guid>first-blog-post</guid>
+            <pubDate>Thu, 19 Dec 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+        </item>
+    </channel>
+</rss>
