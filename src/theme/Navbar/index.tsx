@@ -69,7 +69,7 @@ const Navbar = () => {
             className={clsx(
               'text-16 font-medium text-dark-brown flex items-center gap-1',
             )}
-            to={useBaseUrl('pathname://')}
+            to={useBaseUrl('pathname:///')}
           >
             <img
               className="w-6 inline-block"

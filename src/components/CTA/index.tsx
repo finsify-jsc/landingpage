@@ -27,7 +27,7 @@ export const CTA = () => {
           </a>
         </div>
         <img
-          className="invisible lg:visible absolute bottom-0 w-60 lg:right-28"
+          className="invisible lg:visible absolute bottom-0 lg:right-28"
           src={useBaseUrl('img/MOCKUP.png')}
           alt=""
         />
