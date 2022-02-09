@@ -22,7 +22,7 @@ function Home() {
     <Layout
       title={translate({
         id: 'title',
-        message: 'Ứng dụng quản tài chính cá nhân số 1 thế giới - Money Lover',
+        message: 'No.1 Expense Manager & Budget Planner - Money Lover',
       })}
       description="Simple way to manage personal finances"
     >

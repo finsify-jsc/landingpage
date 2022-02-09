@@ -7,10 +7,14 @@
  */
 
 import React, { useState } from 'react';
+
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import { useLocation } from '@docusaurus/router';
 import Link from '@docusaurus/Link';
-import { useThemeConfig } from '@docusaurus/theme-common';
+import {
+  useThemeConfig,
+  useAlternatePageUtils,
+} from '@docusaurus/theme-common';
 import useHideableNavbar from '@theme/hooks/useHideableNavbar';
 import useLockBodyScroll from '@theme/hooks/useLockBodyScroll';
 import clsx from 'clsx';
@@ -18,7 +22,34 @@ import Head from '@docusaurus/Head';
 import styles from './styles.module.scss';
 import Translate, { translate } from '@docusaurus/Translate';
 import { NavBar } from './navbar';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 const Navbar = () => {
+  const {
+    i18n: { currentLocale, locales, localeConfigs },
+  } = useDocusaurusContext();
+  const alternatePageUtils = useAlternatePageUtils();
+
+  function getLocaleLabel(locale: string) {
+    return localeConfigs[locale].label;
+  }
+
+  const localeItems = locales.map((locale) => {
+    const to = `pathname://${alternatePageUtils.createUrl({
+      locale,
+      fullyQualified: false,
+    })}`;
+    return {
+      isNavLink: true,
+      label: getLocaleLabel(locale),
+      to,
+      target: '_self',
+      autoAddBaseUrl: false,
+      className: locale === currentLocale ? 'dropdown__link--active' : '',
+    };
+  });
+
+  console.log(localeItems);
+
   const { pathname } = useLocation();
   const [isNavbarVisible, setIsNavbarVisible] = useState(false);
   useLockBodyScroll(isNavbarVisible);
@@ -188,7 +219,7 @@ const Navbar = () => {
               <button className="text-dark-brown py-2 px-6 rounded inline-flex items-center">
                 <span className="mr-1">Ngôn ngữ</span>
                 <svg
-                  class="fill-current h-4 w-4"
+                  className="fill-current h-4 w-4"
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 20 20"
                 >
@@ -196,24 +227,21 @@ const Navbar = () => {
                 </svg>
               </button>
               <ul className="dropdown-menu w-full hidden absolute pt-1">
-                <li className="text-center">
-                  <Link
-                    style={{ textDecoration: 'none' }}
-                    className="text-16 font-medium text-dark-brown"
-                    href="/"
-                  >
-                    Tiếng Việt
-                  </Link>
-                </li>
-                <li className="text-center">
-                  <Link
-                    style={{ textDecoration: 'none' }}
-                    className="text-16 font-medium text-dark-brown"
-                    href="/en"
-                  >
-                    English
-                  </Link>
-                </li>
+                {localeItems &&
+                  localeItems.map(({ to, label, target }) => {
+                    return (
+                      <li className="text-center">
+                        <Link
+                          style={{ textDecoration: 'none' }}
+                          target="_self"
+                          className="text-16 font-medium text-dark-brown"
+                          to={useBaseUrl(to)}
+                        >
+                          {label}
+                        </Link>
+                      </li>
+                    );
+                  })}
               </ul>
             </div>
             <button

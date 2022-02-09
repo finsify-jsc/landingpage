@@ -1,4 +1,122 @@
 {
+  "title": {
+    "message": "No.1 Expense Manager &amp; Budget Planner - Money Lover"
+  },
+  "Simple way": {
+    "message": "Simple way"
+  },
+  "to manage": {
+    "message": "to manage"
+  },
+  "personal finances": {
+    "message": "personal finances"
+  },
+  "Try on browser": {
+    "message": ""
+  },
+  "Download for free": {
+    "message": ""
+  },
+  "intros.secured": {
+    "message": "100% Secured data"
+  },
+  "intros.users": {
+    "message": "1 Million+ users"
+  },
+  "intros.review": {
+    "message": "100K+ 5-star Reviews"
+  },
+  "intros.recommend": {
+    "message": "App of the day"
+  },
+  "details.one": {
+    "message": "Simple money tracker"
+  },
+  "details.one.desc": {
+    "message": "It takes seconds to record daily transactions. Put them into clear and visualized categories such as Expense: Food, Shopping or Income: Salary, Gift."
+  },
+  "details.two": {
+    "message": "Painless budgeting"
+  },
+  "details.two.desc": {
+    "message": "Set budgets that are easy to stick to, based on your own spending habits. You’re one step closer to that stuff you want to buy."
+  },
+  "details.three": {
+    "message": "The whole picture in one place"
+  },
+  "details.three.desc": {
+    "message": "One report to give a clear view on your spending patterns. Understand where your money comes and goes with easy-to-read graphs."
+  },
+  "Features our users love": {
+    "message": ""
+  },
+  "features.multiple.devices": {
+    "message": "Multiple devices"
+  },
+  "features.multiple.devices.desc": {
+    "message": "Safely synchronize across devices with Bank standard security."
+  },
+  "features.recurring.transaction": {
+    "message": "Recurring transaction"
+  },
+  "features.recurring.transaction.desc": {
+    "message": "Get notified of recurring bills and transactions before due date."
+  },
+  "features.travel.mode": {
+    "message": "Travel mode"
+  },
+  "features.travel.mode.desc": {
+    "message": "All currencies supported with up-to-date exchange rate."
+  },
+  "features.saving.plan": {
+    "message": "Saving plan"
+  },
+  "features.saving.plan.desc": {
+    "message": "Keep track on savings process to meet your financial goals."
+  },
+  "features.debt.and.loan": {
+    "message": "Debt and loan"
+  },
+  "features.debt.and.loan.desc": {
+    "message": "Manage your debts, loans and payment process in one place."
+  },
+  "features.scan.receipt": {
+    "message": "Scan receipt"
+  },
+  "features.scan.receipt.desc": {
+    "message": "Take pictures of your receipts to auto-process and organize them."
+  },
+  "reviews": {
+    "message": "See what others have to say"
+  },
+  "reviews.star": {
+    "message": "4.9 Based on user reviews"
+  },
+  "reviews.one": {
+    "message": "Perfect app. My husband and I use it to track all our expenses and income. We generate our household accounts and budget using this fab app. Furthermore, the developers are hands-on and extremely helpful. Do not look any further. Get this app now!."
+  },
+  "reviews.two": {
+    "message": "This will keep you organized and in control, of money you do have and money you will have. This application is easy to use and will help you keep track of every dollar."
+  },
+  "reviews.three": {
+    "message": "A simple, accessible app that allows you to budget across weeks, months and years. The neat financial calendar lets you set up alerts and keep tabs on all transactions. Plus, it works with all currencies."
+  },
+  "Take your finances to the next level!": {
+    "message": ""
+  },
+  "Don't hesitate, money matters.": {
+    "message": ""
+  },
+
+  "about": {
+    "message": "About us"
+  },
+  "privacy.policy": {
+    "message": "Privacy Policy"
+  },
+  "career": {
+    "message": "Career"
+  },
   "meta.keywords": {
     "message": "expense manager, budget planner, expense tracker, budgeting app, money manager, money management, personal finanance management software, saving planner"
   },
