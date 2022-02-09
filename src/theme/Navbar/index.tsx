@@ -40,7 +40,7 @@ const Navbar = () => {
   });
 
   const renderLangLink = (locale) => {
-    if (!pathname.startsWith('/en') && locale === 'vi') {
+    if (!pathname.includes('/en') && locale === 'vi') {
       return (
         <li className="border-t border-monochrome-medium-tint md:border-none">
           <a
@@ -48,7 +48,7 @@ const Navbar = () => {
             className={clsx(
               'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 w-full h-full gap-x-2',
             )}
-            href="/en"
+            href={useBaseUrl('/en')}
           >
             <img
               className="w-6 inline-block"
@@ -59,7 +59,7 @@ const Navbar = () => {
           </a>
         </li>
       );
-    } else if (pathname.startsWith('/en') && locale === 'en') {
+    } else if (pathname.includes('/en') && locale === 'en') {
       return (
         <li className="border-t border-monochrome-medium-tint md:border-none">
           <a
@@ -67,7 +67,7 @@ const Navbar = () => {
             className={clsx(
               'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 w-full h-full gap-x-2',
             )}
-            href={`/`}
+            href={useBaseUrl('/')}
           >
             <img
               className="w-6 inline-block"
