@@ -10,6 +10,10 @@ export const FooterLink = [
     label: translate({ id: "career", message: "Career" }),
   },
   {
+    to: "/career",
+    label: translate({ message: "Blog" }),
+  },
+  {
     label: translate({ id: "privacy.policy", message: "Privacy policy" }),
     to: "/policy",
   },
