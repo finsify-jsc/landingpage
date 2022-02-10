@@ -65,7 +65,7 @@ const Navbar = () => {
           <a
             style={{ textDecoration: 'none' }}
             className={clsx(
-              'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 w-full h-full gap-x-2',
+              'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 w-full h-full',
             )}
             href="/"
           >
@@ -238,19 +238,13 @@ const Navbar = () => {
             />
           </Link>
           <div className="md:flex items-center">
-            <ul className="invisible md:visible fixed md:static flex flex-row gap-6 items-center mt-1">
+            <ul className="invisible md:visible fixed md:static flex flex-row gap-6 lg:gap-x-8 items-center mt-1">
               {links.map(({ to = '', label = '' }: any) => (
                 <li key={to}>
                   <Link
                     style={{ textDecoration: 'none' }}
-                    className={`flex items-center
-                      text-16 text-dark-brown
-                      ${
-                        pathname.includes(to.split('/')[0])
-                          ? styles.activeTab
-                          : styles.tab
-                      }
-                      `}
+                    className={`flex items-center font-medium 
+                      text-16 text-dark-brown`}
                     to={useBaseUrl(to)}
                   >
                     {label}
