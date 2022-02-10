@@ -24,13 +24,13 @@
     "message": "Hơn 1 triệu người dùng"
   },
   "intros.review": {
-    "message": "Hơn 100,000 đánh giá 5 sao"
+    "message": "100,000+ đánh giá 5 sao"
   },
   "intros.recommend": {
-    "message": "Được đề xuất bởi Apple & Google"
+    "message": "Apple & Google đề xuất"
   },
   "details.one": {
-    "message": "Ghi chép các khoản thu chi trở nên dễ dàng hơn"
+    "message": "Ghi chép thu chi trở nên dễ dàng hơn"
   },
   "details.one.desc": {
     "message": "Bạn chỉ tốn vài phút để ghi chép lại chi tiêu hàng ngày của mình, và phân loại vào các mục như là: Thức Ăn, Mua sắm; hay là thêm các khoản thu nhập như Lương, Quà tặng, v.v..."
@@ -39,10 +39,10 @@
     "message": "Không còn nỗi lo chi tiêu ngoài tầm kiểm soát"
   },
   "details.two.desc": {
-    "message": "Dựa trên thói quen tiêu dùng của bản thân, bạn có thể tạo một ngân sách để chi tiêu trong một khoảng thời gian nhất định. Ứng dụng sẽ thường xuyên nhắc nhở về tiến độ chi tiêu của bạn, giữ cho các khoản chi luôn trong tầm kiểm soát."
+    "message": "Bạn chỉ tốn vài phút để ghi chép lại chi tiêu hàng ngày của mình, và phân loại vào các mục như là: Thức Ăn, Mua sắm; hay là thêm các khoản thu nhập như Lương, Quà tặng, v.v..."
   },
   "details.three": {
-    "message": "Theo dõi và quản lý tiền bạc hiệu quả"
+    "message": "Theo dõi và quản lý tiền hiệu quả"
   },
   "details.three.desc": {
     "message": "Money Lover tự động tạo cho bạn những biểu đồ báo cáo cực kỳ dễ nhìn, dễ hiểu, dễ nhớ, cho bạn một cái nhìn rõ ràng về các khoản thu chi của bản thân. Chẳng còn hoang mang không rõ 'tiền về nơi đâu' nữa!"
@@ -102,10 +102,10 @@
     "message": "Một ứng dụng đơn giản và dễ dàng truy cập cho phép bạn lập ngân sách hàng tuần, hàng tháng, hàng năm. Lịch trình tài chính rõ ràng giúp người dùng thiết lập báo động và gắn nhãn dán lên tất cả các giao dịch của mình."
   },
   "Take your finances to the next level!": {
-    "message": "Take your finances to the next level!"
+    "message": "Quản lý tài chính cá nhân thật dễ dàng"
   },
   "Don't hesitate, money matters.": {
-    "message": "Don't hesitate, money matters."
+    "message": "Tiền bạc chẳng còn là vấn đề với MoneyLover."
   },
   "about": {
     "message": "Về chúng tôi"
