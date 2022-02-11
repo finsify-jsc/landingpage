@@ -8,7 +8,7 @@ const Figure: React.FC = ({ children }) => (
   <figure
     className={clsx(
       styles.figure,
-      'grid grid-cols-8 lg:grid-cols-12 items-center justify-items-start gap-y-4 lg:gap-y-0 lg:gap-x-14 pb-14 md:py-0',
+      'grid grid-cols-8 lg:grid-cols-12 items-center justify-items-start gap-y-4 lg:gap-y-0 pb-14 md:py-0',
     )}
   >
     {children}
@@ -19,7 +19,7 @@ export const Details = () => {
   return (
     <section className="container mt-14 lg:mt-44 bg-monochrome-white">
       <Figure>
-        <figcaption className="col-span-full md:col-span-4 lg:col-span-5 order-2">
+        <figcaption className="col-span-full lg:col-span-6 lg:place-self-center lg:self-center order-2">
           <h3 className="text-26 tracking-tight font-medium lg:text-40 lg:leading-52 leading-32 text-dark-tiny">
             <Translate id="details.one">Simple money tracker</Translate>
           </h3>
@@ -31,17 +31,17 @@ export const Details = () => {
             </Translate>
           </p>
         </figcaption>
-        <div className="order-2 md:order-1 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-end lg:self-center">
-          <div className={clsx(styles.imgWrapper, 'md:w-4/6 mx-auto')}>
+        <div className="order-2 md:order-1 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-center lg:self-center">
+          <div className={clsx(styles.imgWrapper, 'md:w-4/6 lg:w-3/4 mx-auto')}>
             <img
-              src={useBaseUrl('img/details/Transaction.png')}
+              src={useBaseUrl('img/details/Transaction@4x.png')}
               alt="coverage"
             />
           </div>
         </div>
       </Figure>
       <Figure>
-        <figcaption className="col-span-full md:col-span-4 lg:col-start-2 lg:col-span-5 order-2 md:order-1">
+        <figcaption className="col-span-full md:col-span-4 lg:col-span-6 lg:place-self-center lg:self-center order-2 md:order-1">
           <h3 className="text-26 tracking-tight font-medium lg:text-40 lg:leading-52 leading-32 text-dark-tiny">
             <Translate id="details.two">Painless budgeting</Translate>
           </h3>
@@ -52,20 +52,17 @@ export const Details = () => {
             </Translate>
           </p>
         </figcaption>
-        <div
-          className="order-2 md:order-2 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-start lg:self-center"
-          style={{ width: '100%' }}
-        >
-          <div className={clsx(styles.imgWrapper, 'md:w-4/6')}>
+        <div className="order-2 md:order-2 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-center lg:self-center">
+          <div className={clsx(styles.imgWrapper, 'md:w-4/6 lg:w-3/4 mx-auto')}>
             <img
-              src={useBaseUrl('img/details/budget.png')}
+              src={useBaseUrl('img/details/budget@4x.png')}
               alt="risks and tests to run"
             />
           </div>
         </div>
       </Figure>
       <Figure>
-        <figcaption className="col-span-full md:col-span-4 lg:col-span-5 order-2">
+        <figcaption className="col-span-full md:col-span-4 lg:col-span-6 lg:place-self-center lg:self-center order-2">
           <h3 className="text-26 tracking-tighter font-medium lg:text-40 lg:leading-52 leading-32 text-dark-tiny">
             <Translate id="details.three">
               The whole picture in one place
@@ -79,13 +76,10 @@ export const Details = () => {
             </Translate>
           </p>
         </figcaption>
-        <div
-          className="order-2 md:order-1 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-end lg:self-center"
-          style={{ width: '100%' }}
-        >
-          <div className={clsx(styles.imgWrapper, 'md:w-4/6 mx-auto')}>
+        <div className="order-2 md:order-1 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-center lg:self-center">
+          <div className={clsx(styles.imgWrapper, 'md:w-4/6 lg:w-3/4 mx-auto')}>
             <img
-              src={useBaseUrl('img/details/REPORT.png')}
+              src={useBaseUrl('img/details/REPORT@4x.png')}
               alt="time savings"
             />
           </div>

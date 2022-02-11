@@ -70,17 +70,18 @@ export const Header = ({ to }) => {
         </p>
 
         <div className="grid grid-cols-2 gap-x-2 md:flex md:justify-center mt-9 lg:mt-12">
-          <Link
+          <a
             style={{ textDecoration: 'none' }}
             className="button-ml text-16 md:w-full"
-            to={useBaseUrl(to)}
+            target="_blank"
+            href="https://web.moneylover.me"
           >
             <Translate>Try on browser</Translate>
-          </Link>
+          </a>
           <Link
             style={{ textDecoration: 'none' }}
             className="button-ml-primary bg-green-ml text-16 md:w-full"
-            to={useBaseUrl(to)}
+            to="#cta"
           >
             <Translate>Download for free</Translate>
           </Link>
@@ -91,18 +92,18 @@ export const Header = ({ to }) => {
           className="invisible lg:invisible fixed bg-monochrome-white bottom-0 inset-x-0 z-10 flex justify-around"
         >
           <div className="grid grid-cols-2 gap-2 mx-4 my-4">
-            {' '}
-            <Link
+            <a
               style={{ textDecoration: 'none' }}
               className="button-ml text-16 md:w-full"
-              to={useBaseUrl(to)}
+              target="_blank"
+              href="https://web.moneylover.me"
             >
               <Translate>Try on browser</Translate>
-            </Link>
+            </a>
             <Link
               style={{ textDecoration: 'none' }}
               className="button-ml-primary bg-green-ml text-16 md:w-full"
-              to={useBaseUrl(to)}
+              to="#cta"
             >
               <Translate>Download for free</Translate>
             </Link>

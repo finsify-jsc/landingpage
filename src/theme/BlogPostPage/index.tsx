@@ -15,7 +15,7 @@ function BlogPostPage(props: Props): JSX.Element {
   const { content: BlogPostContents, sidebar } = props;
   const { frontMatter, metadata } = BlogPostContents;
   const { description, editUrl } = metadata;
-  const { position, salary, workTime } = frontMatter;
+  const { position, salary, workTime, deadline, experience } = frontMatter;
   return (
     <Layout
       title={`${position}
@@ -44,7 +44,15 @@ function BlogPostPage(props: Props): JSX.Element {
                 src={useBaseUrl('/img/job-icons/money.svg')}
                 alt="salary"
               />{' '}
-              {salary}
+              Mức lương : {salary}
+            </p>
+            <p className="flex text-dark-brown items-center">
+              <img
+                className="inline-block mr-2"
+                src={useBaseUrl('/img/job-icons/work.svg')}
+                alt="time"
+              />{' '}
+              Kinh nghiệm : {experience}
             </p>
             <p className="flex text-dark-brown items-center">
               <img
@@ -52,7 +60,16 @@ function BlogPostPage(props: Props): JSX.Element {
                 src={useBaseUrl('/img/job-icons/time.svg')}
                 alt="time"
               />{' '}
+              Hình thức làm việc :{' '}
               {workTime === true ? 'Toàn thời gian' : 'Bán thời gian'}{' '}
+            </p>
+            <p className="flex text-dark-brown items-center">
+              <img
+                className="inline-block mr-2"
+                src={useBaseUrl('/img/job-icons/time.svg')}
+                alt="time"
+              />{' '}
+              Thời hạn ứng tuyển : {deadline}
             </p>
             <p className="flex text-dark-brown items-center">
               <img
@@ -60,22 +77,20 @@ function BlogPostPage(props: Props): JSX.Element {
                 src={useBaseUrl('/img/job-icons/place.svg')}
                 alt="place"
               />{' '}
-              Tầng 4, 101 Láng Hạ, Đống Đa, Hà Nội
+              Địa điểm làm việc : Tầng 4, 101 Láng Hạ, Đống Đa, Hà Nội
             </p>
 
-            <p className="inline-block text-16 px-8 py-4 mt-2 leading-24 rounded-xl text-dark-brown bg-green-light">
-              Ứng viên vui lòng gửi email kèm CV đến địa chỉ{' '}
-              <a
-                style={{ textDecoration: 'none' }}
-                className="text-green-ml hover:text-green-ml"
-                href="mailto:talents@moneylover.me"
-              >
-                talents@moneylover.me
-              </a>
-            </p>
+            <a
+              style={{ textDecoration: 'none' }}
+              className="button-apply text-16 w-full mt-6"
+              target="_blank"
+              href="https://web.moneylover.me"
+            >
+              Ứng tuyển ngay
+            </a>
           </div>
 
-          <div className="lg:w-9/12 lg:mb-4 markdown">
+          <div className="lg:w-9/12 lg:mb-4 lg:pb-26 markdown">
             <h1 className="text-24 leading-32 text-dark-tiny hidden lg:block">
               {position} (Lương - {salary})
             </h1>

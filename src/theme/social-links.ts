@@ -1,5 +1,5 @@
 import FacebookIcon from "../../static/img/socials/fb.svg";
-import GGIcon from "../../static/img/socials/gg.svg";
+import IGIcon from "../../static/img/socials/ig.svg";
 import TwitterIcon from "../../static/img/socials/twitter.svg";
 
 export const socialLinks = [
@@ -8,7 +8,11 @@ export const socialLinks = [
     bg: "bg-fb",
     link: "https://www.facebook.com/moneylover.me",
   },
-  { Icon: GGIcon, bg: "bg-gg", link: "https://plus.google.com/+MoneyloverMe" },
+  {
+    Icon: IGIcon,
+    bg: "bg-ig",
+    link: "https://www.instagram.com/moneyloverapp/",
+  },
   {
     Icon: TwitterIcon,
     bg: "bg-twitter",

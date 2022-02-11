@@ -13,7 +13,7 @@ module.exports = {
       backgroundImage: () => ({
         fb: "url('/img/socials/fb.svg')",
         twiter: "url('/img/socials/twitter.svg')",
-        gg: "url('/img/socials/gg.svg')",
+        ig: "url('/img/socials/ig.svg')",
         menu: "url('/img/menu.svg')",
         close: "url('/img/close.svg')",
       }),

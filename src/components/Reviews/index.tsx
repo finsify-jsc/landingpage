@@ -51,7 +51,10 @@ export const Reviews = () => {
       <p className="flex justify-center mt-4 lg:mb-8">
         <img src={useBaseUrl('/img/Stars.svg')} alt="" />
         <p className="pl-1">
-          <Translate id="reviews.star">4.9 Based on user reviews</Translate>
+          <span className="font-bold">4.9</span>
+          <span className="text-dark-brown">
+            <Translate id="reviews.star">Based on user reviews</Translate>
+          </span>
         </p>
       </p>
       <Slider {...settings}>
