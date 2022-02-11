@@ -70,7 +70,7 @@ function BlogPostPage(props: Props): JSX.Element {
             <p className="flex text-dark-brown items-center">
               <img
                 className="inline-block mr-2"
-                src={useBaseUrl('/img/job-icons/time.svg')}
+                src={useBaseUrl('/img/job-icons/noti.svg')}
                 alt="time"
               />{' '}
               Thời hạn ứng tuyển : {deadline}
