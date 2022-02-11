@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[628],{5274:function(a){a.exports=JSON.parse('{"allTagsPath":"/landingpage/en/career/tags","slug":"docusaurus","name":"docusaurus","count":2,"permalink":"/landingpage/en/career/tags/docusaurus"}')}}]);
