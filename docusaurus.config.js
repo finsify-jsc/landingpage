@@ -21,10 +21,10 @@ module.exports = {
     },
   },
   themeConfig: {
-    // gtag: {
-    //   trackingID: 'UA-147653671-1',
-    //   anonymizeIP: true,
-    // },
+    gtag: {
+      trackingID: 'UA-39420218-18',
+      anonymizeIP: true,
+    },
     colorMode: {
       defaultMode: 'light',
       disableSwitch: true,
