@@ -100,7 +100,7 @@ function BlogPostPage(props: Props): JSX.Element {
             </a>
           </div>
 
-          <div className="lg:w-9/12 lg:mb-4 markdown">
+          <div className="lg:w-9/12 lg:mb-4 lg:pb-26 markdown">
             <h1 className="text-24 leading-32 text-dark-tiny hidden lg:block">
               {position} (Lương - {salary})
             </h1>
