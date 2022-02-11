@@ -125,10 +125,7 @@ const Navbar = () => {
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://moneylover.me/" />
         <meta property="og:site_name" content="Moneylover" />
-        <meta
-          property="og:image"
-          content="https://moneylover.me/source/ml-cover.png"
-        />
+        <meta property="og:image" content={useBaseUrl('/img/ml-cover.png')} />
         <meta property="fb:app_id" content="192450854108398" />
         <link
           rel="apple-touch-icon-precomposed"
