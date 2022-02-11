@@ -1,5 +1,5 @@
 ---
-slug: Android-developer
+slug: android-developer
 position: Lập trình viên Android
 salary: Không giới hạn
 net: true

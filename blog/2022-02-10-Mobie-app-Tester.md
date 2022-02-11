@@ -1,5 +1,5 @@
 ---
-slug: Mobie app Tester
+slug: mobie-app-tester
 position: Chuyên viên kiểm thử (Tester/QC)
 salary: Lên tới 22 Triệu VNĐ
 net: true

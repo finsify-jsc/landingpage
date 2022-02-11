@@ -23,10 +23,14 @@ function BlogPostPage(props: Props): JSX.Element {
       description={description}
     >
       {BlogPostContents && (
-        <section className="container lg:flex lg:space-x-10 items-start">
+        <section className="container lg:flex lg:mt-20 lg:space-x-10 items-start">
           <div className="lg:w-3/12 lg:sticky lg:top-27 mb-4 flex flex-col gap-y-4">
-            <Link to="/career">
-              <p className="flex text-dark-brown items-center">
+            <Link
+              style={{ textDecoration: 'none' }}
+              className="lg:mb-10"
+              to="/career"
+            >
+              <p className="flex text-dark-brown hover:text-green-ml items-center">
                 <img
                   className="inline-block pr-2"
                   src={useBaseUrl('/img/job-icons/arrow-back.svg')}
@@ -66,7 +70,7 @@ function BlogPostPage(props: Props): JSX.Element {
             <p className="flex text-dark-brown items-center">
               <img
                 className="inline-block mr-2"
-                src={useBaseUrl('/img/job-icons/time.svg')}
+                src={useBaseUrl('/img/job-icons/noti.svg')}
                 alt="time"
               />{' '}
               Thời hạn ứng tuyển : {deadline}
@@ -82,7 +86,7 @@ function BlogPostPage(props: Props): JSX.Element {
 
             <a
               style={{ textDecoration: 'none' }}
-              className="button-apply text-16 w-full mt-6"
+              className="button-apply text-16 w-full mt-2 mb-2"
               target="_blank"
               href="https://web.moneylover.me"
             >

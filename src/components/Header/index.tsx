@@ -69,7 +69,7 @@ export const Header = ({ to }) => {
           </h1>
         </p>
 
-        <div className="grid grid-cols-2 gap-x-2 md:flex md:justify-center mt-9 lg:mt-12">
+        <div className="grid grid-cols-2 gap-x-2 lg:gap-x-4 md:flex md:justify-center mt-9 lg:mt-12">
           <a
             style={{ textDecoration: 'none' }}
             className="button-ml text-16 md:w-full"

@@ -1,5 +1,5 @@
 ---
-slug: Business-Analyst
+slug: business-Analyst
 position: Business Analyst
 salary: Lên tới 22 Triệu VNĐ
 net: true

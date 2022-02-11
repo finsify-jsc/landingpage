@@ -51,8 +51,8 @@ export const Reviews = () => {
       <p className="flex justify-center mt-4 lg:mb-8">
         <img src={useBaseUrl('/img/Stars.svg')} alt="" />
         <p className="pl-1">
-          <span className="font-bold">4.9</span>
-          <span className="text-dark-brown">
+          <span className="font-bold pr-1">4.9</span>
+          <span style={{ color: '#7E7E7E' }} className="text-14">
             <Translate id="reviews.star">Based on user reviews</Translate>
           </span>
         </p>

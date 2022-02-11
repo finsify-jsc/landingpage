@@ -88,7 +88,7 @@ strong {
   h3,
   h4,
   h5 {
-    color: #555555;
+    color: #333;
     & > a.hash-link {
       display: none;
     }
@@ -107,10 +107,10 @@ strong {
   }
 
   h2 {
-    margin-top: 32px;
-    margin-bottom: 16px;
-    font-size: 24px !important;
-    line-height: 40px !important;
+    margin-top: 24px;
+    margin-bottom: 8px;
+    font-size: 20px !important;
+    line-height: 28px !important;
 
     &:first-of-type {
       margin-top: 0;
