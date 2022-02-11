@@ -23,13 +23,6 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mobie-app-leader-QC]]></title>
-        <id>Mobie-app-leader-QC</id>
-        <link href="https://landy.moneylover.me/en/career/Mobie-app-leader-QC"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Product-Owner]]></title>
         <id>Product-owner</id>
         <link href="https://landy.moneylover.me/en/career/Product-owner"/>
@@ -40,6 +33,13 @@
         <title type="html"><![CDATA[Scrum-master]]></title>
         <id>Scrum-master</id>
         <link href="https://landy.moneylover.me/en/career/Scrum-master"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobie-app-leader-QC]]></title>
+        <id>Mobie-app-leader-QC</id>
+        <link href="https://landy.moneylover.me/en/career/Mobie-app-leader-QC"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
@@ -65,17 +65,17 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[growth-hacker]]></title>
-        <id>growth-hacker</id>
-        <link href="https://landy.moneylover.me/en/career/growth-hacker"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ios-dev]]></title>
         <id>first-blog-post-1</id>
         <link href="https://landy.moneylover.me/en/career/first-blog-post-1"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[growth-hacker]]></title>
+        <id>growth-hacker</id>
+        <link href="https://landy.moneylover.me/en/career/growth-hacker"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
 </feed>
