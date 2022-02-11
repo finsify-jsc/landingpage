@@ -4,8 +4,8 @@ const path = require('path');
 module.exports = {
   title: 'MoneyLover',
   tagline: 'MoneyLover',
-  url: 'https://finsify-be.github.io',
-  baseUrl: '/landingpage/',
+  url: 'https://landy.moneylover.me',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
