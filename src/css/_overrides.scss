@@ -68,22 +68,22 @@ body {
 
 .container {
   max-width: 1200px !important;
+  box-sizing: border-box;
+  // @media screen and (max-width: 1024px) {
+  //   padding-right: 24px !important;
+  //   padding-left: 24px !important;
+  // }
 
-  @media screen and (max-width: 1024px) {
-    padding-right: 24px !important;
-    padding-left: 24px !important;
-  }
+  // @media screen and (max-width: 360px) {
+  //   padding-right: 16px !important;
+  //   padding-left: 16px !important;
+  // }
 
-  @media screen and (max-width: 360px) {
-    padding-right: 16px !important;
-    padding-left: 16px !important;
-  }
-
-  @media screen and (min-width: 1280px) {
-    padding-left: 116px !important;
-    padding-right: 116px !important;
-    box-sizing: content-box;
-  }
+  // @media screen and (min-width: 1280px) {
+  //   padding-left: 116px !important;
+  //   padding-right: 116px !important;
+  //   box-sizing: content-box;
+  // }
 }
 
 .table-of-contents {
