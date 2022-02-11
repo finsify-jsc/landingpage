@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[3587],{6119:function(s){s.exports=JSON.parse('{"allTagsPath":"/career/tags","slug":"business-analyst","name":"business analyst","count":1,"permalink":"/career/tags/business-analyst"}')}}]);

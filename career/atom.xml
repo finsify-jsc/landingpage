@@ -2,24 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landy.moneylover.me/career</id>
     <title>MoneyLover Blog</title>
-    <updated>2020-12-19T00:00:00.000Z</updated>
+    <updated>2022-02-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://landy.moneylover.me/career"/>
     <subtitle>MoneyLover Blog</subtitle>
     <icon>https://landy.moneylover.me/img/favicon.ico</icon>
     <rights>Copyright © 2022 Blogasaurus by Palash Shrivastava</rights>
     <entry>
-        <title type="html"><![CDATA[dev]]></title>
-        <id>first-blog-post-1</id>
-        <link href="https://landy.moneylover.me/career/first-blog-post-1"/>
-        <updated>2020-12-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mô tả công việc]]></summary>
+        <title type="html"><![CDATA[Android-developer]]></title>
+        <id>Android-developer</id>
+        <link href="https://landy.moneylover.me/career/Android-developer"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lineprot]]></title>
-        <id>first-blog-post</id>
-        <link href="https://landy.moneylover.me/career/first-blog-post"/>
-        <updated>2019-12-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <title type="html"><![CDATA[Mobie-app-Tester]]></title>
+        <id>Mobie app Tester</id>
+        <link href="https://landy.moneylover.me/career/Mobie app Tester"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobie-app-leader-QC]]></title>
+        <id>Mobie-app-leader-QC</id>
+        <link href="https://landy.moneylover.me/career/Mobie-app-leader-QC"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product-Owner]]></title>
+        <id>Product-owner</id>
+        <link href="https://landy.moneylover.me/career/Product-owner"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scrum-master]]></title>
+        <id>Scrum-master</id>
+        <link href="https://landy.moneylover.me/career/Scrum-master"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ui-Ux-Designer]]></title>
+        <id>Ui-Ux-Designer</id>
+        <link href="https://landy.moneylover.me/career/Ui-Ux-Designer"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[backend-developer]]></title>
+        <id>backend-developer</id>
+        <link href="https://landy.moneylover.me/career/backend-developer"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[business-analyst]]></title>
+        <id>Business-Analyst</id>
+        <link href="https://landy.moneylover.me/career/Business-Analyst"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[growth-hacker]]></title>
+        <id>growth-hacker</id>
+        <link href="https://landy.moneylover.me/career/growth-hacker"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ios-dev]]></title>
+        <id>first-blog-post-1</id>
+        <link href="https://landy.moneylover.me/career/first-blog-post-1"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mô tả công việc]]></summary>
     </entry>
 </feed>
