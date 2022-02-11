@@ -109,6 +109,36 @@
   }
 }
 
+.button-apply {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 14px 40px;
+  border-radius: 8px;
+  border: 1px solid map-get($green, ml);
+  box-sizing: border-box;
+  background-color: map-get($green, ml);
+  color: map-get($monochrome, white) !important;
+  text-decoration: none !important;
+  font-weight: $bold;
+  font-size: 16px;
+  line-height: 24px;
+  cursor: pointer;
+  white-space: nowrap;
+
+  &:visited {
+    color: map-get($monochrome, white) !important;
+  }
+
+  &:hover {
+    background-color: #0d8e22;
+  }
+
+  &:active {
+    background-color: #0d8e22;
+  }
+}
+
 .button-secondary {
   @extend .button-primary;
   border: 2px solid map-get($monochrome, white);
