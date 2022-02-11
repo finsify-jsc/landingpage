@@ -10,7 +10,7 @@ export const FooterLink = [
     label: translate({ id: "career", message: "Career" }),
   },
   {
-    to: "/career",
+    to: "https://note.moneylover.me/",
     label: translate({ message: "Blog" }),
   },
   {

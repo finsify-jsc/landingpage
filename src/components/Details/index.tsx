@@ -32,7 +32,7 @@ export const Details = () => {
           </p>
         </figcaption>
         <div className="order-2 md:order-1 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-center lg:self-center">
-          <div className={clsx(styles.imgWrapper, 'md:w-4/6 mx-auto')}>
+          <div className={clsx(styles.imgWrapper, 'md:w-4/6 lg:w-3/4 mx-auto')}>
             <img
               src={useBaseUrl('img/details/Transaction@4x.png')}
               alt="coverage"
@@ -53,7 +53,7 @@ export const Details = () => {
           </p>
         </figcaption>
         <div className="order-2 md:order-2 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-center lg:self-center">
-          <div className={clsx(styles.imgWrapper, 'md:w-4/6')}>
+          <div className={clsx(styles.imgWrapper, 'md:w-4/6 lg:w-3/4 mx-auto')}>
             <img
               src={useBaseUrl('img/details/budget@4x.png')}
               alt="risks and tests to run"
@@ -77,7 +77,7 @@ export const Details = () => {
           </p>
         </figcaption>
         <div className="order-2 md:order-1 col-span-full md:col-span-4 lg:col-span-6 lg:place-self-center lg:self-center">
-          <div className={clsx(styles.imgWrapper, 'md:w-4/6 mx-auto')}>
+          <div className={clsx(styles.imgWrapper, 'md:w-4/6 lg:w-3/4 mx-auto')}>
             <img
               src={useBaseUrl('img/details/REPORT@4x.png')}
               alt="time savings"
