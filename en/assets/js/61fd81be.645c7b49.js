@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[9493],{390:function(e){e.exports=JSON.parse('{"allTagsPath":"/en/career/tags","slug":"ui-ux","name":"ui/ux","count":1,"permalink":"/en/career/tags/ui-ux"}')}}]);
