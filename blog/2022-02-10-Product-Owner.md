@@ -1,5 +1,5 @@
 ---
-slug: Product-owner
+slug: product-owner
 position: Product Owner
 salary: Lên tới 35 Triệu VNĐ
 net: true

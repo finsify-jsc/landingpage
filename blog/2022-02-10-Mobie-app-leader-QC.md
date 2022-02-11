@@ -1,5 +1,5 @@
 ---
-slug: Mobie-app-leader-QC
+slug: mobie-app-leader-qc
 position: Trưởng nhóm QC
 salary: Lên tới 22 Triệu VND
 net: true

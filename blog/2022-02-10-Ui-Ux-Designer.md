@@ -1,5 +1,5 @@
 ---
-slug: Ui-Ux-Designer
+slug: ui-ux-designer
 position: Thiết kế Ui/Ux
 salary: Lên tới 22 Triệu VNĐ
 net: true
@@ -7,7 +7,7 @@ workTime: true
 experience: 1 Năm
 deadline: 20/02/2022
 
-tags: [Designer, Ui/ux, fintech, moneylover ]
+tags: [Designer, ui-ux, fintech, moneylover ]
 ---
 
 ## A. Mô tả công việc
