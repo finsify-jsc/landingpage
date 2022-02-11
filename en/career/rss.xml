@@ -9,6 +9,13 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2022 Blogasaurus by Palash Shrivastava</copyright>
         <item>
+            <title><![CDATA[Android-developer]]></title>
+            <link>https://landy.moneylover.me/en/career/Android-developer</link>
+            <guid>Android-developer</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[A. Mô tả công việc]]></description>
+        </item>
+        <item>
             <title><![CDATA[Mobie-app-Tester]]></title>
             <link>https://landy.moneylover.me/en/career/Mobie app Tester</link>
             <guid>Mobie app Tester</guid>
@@ -54,13 +61,6 @@
             <title><![CDATA[business-analyst]]></title>
             <link>https://landy.moneylover.me/en/career/Business-Analyst</link>
             <guid>Business-Analyst</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[A. Mô tả công việc]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Android-developer]]></title>
-            <link>https://landy.moneylover.me/en/career/Android-developer</link>
-            <guid>Android-developer</guid>
             <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
