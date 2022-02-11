@@ -8,7 +8,11 @@ export const socialLinks = [
     bg: "bg-fb",
     link: "https://www.facebook.com/moneylover.me",
   },
-  { Icon: IGIcon, bg: "bg-ig", link: "https://plus.google.com/+MoneyloverMe" },
+  {
+    Icon: IGIcon,
+    bg: "bg-ig",
+    link: "https://www.instagram.com/moneyloverapp/",
+  },
   {
     Icon: TwitterIcon,
     bg: "bg-twitter",
