@@ -80,16 +80,6 @@ function BlogPostPage(props: Props): JSX.Element {
               Địa điểm làm việc : Tầng 4, 101 Láng Hạ, Đống Đa, Hà Nội
             </p>
 
-            <p className="inline-block text-16 px-8 py-4 mt-2 leading-24 rounded-xl text-dark-brown bg-green-light">
-              Ứng viên vui lòng gửi email kèm CV đến địa chỉ{' '}
-              <a
-                style={{ textDecoration: 'none' }}
-                className="text-green-ml hover:text-green-ml"
-                href="mailto:talents@moneylover.me"
-              >
-                talents@moneylover.me
-              </a>
-            </p>
             <a
               style={{ textDecoration: 'none' }}
               className="button-apply text-16 w-full mt-6"
