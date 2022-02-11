@@ -86,7 +86,7 @@ function BlogPostPage(props: Props): JSX.Element {
 
             <a
               style={{ textDecoration: 'none' }}
-              className="button-apply text-16 w-full mt-6"
+              className="button-apply text-16 w-full mt-2 mb-2"
               target="_blank"
               href="https://web.moneylover.me"
             >
