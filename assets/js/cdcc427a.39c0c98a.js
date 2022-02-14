@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[5751],{2413:function(e){e.exports=JSON.parse('{"allTagsPath":"/career/tags","slug":"fintech","name":"fintech","count":9,"permalink":"/career/tags/fintech"}')}}]);

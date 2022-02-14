@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[6506],{1493:function(e){e.exports=JSON.parse('{"allTagsPath":"/en/career/tags","slug":"backend","name":"backend","count":2,"permalink":"/en/career/tags/backend"}')}}]);
