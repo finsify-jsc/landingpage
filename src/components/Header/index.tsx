@@ -6,7 +6,7 @@ import clsx from 'clsx';
 import React, { useEffect, useRef } from 'react';
 import $ from 'jquery';
 
-export const Header = ({ to }) => {
+export const Header = ({ to, sendGaEvent }) => {
   const pinnedButton = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -74,6 +74,7 @@ export const Header = ({ to }) => {
             style={{ textDecoration: 'none' }}
             className="button-ml text-16 md:w-full"
             target="_blank"
+            onClick={sendGaEvent('tryOnWeb')}
             href="https://web.moneylover.me"
           >
             <Translate>Try on browser</Translate>
@@ -82,6 +83,7 @@ export const Header = ({ to }) => {
             style={{ textDecoration: 'none' }}
             className="button-ml-primary bg-green-ml text-16 md:w-full"
             to="#cta"
+            onClick={sendGaEvent('download')}
           >
             <Translate>Download for free</Translate>
           </Link>
@@ -96,6 +98,7 @@ export const Header = ({ to }) => {
               style={{ textDecoration: 'none' }}
               className="button-ml text-16 md:w-full"
               target="_blank"
+              onClick={sendGaEvent('tryOnWeb')}
               href="https://web.moneylover.me"
             >
               <Translate>Try on browser</Translate>
@@ -104,6 +107,7 @@ export const Header = ({ to }) => {
               style={{ textDecoration: 'none' }}
               className="button-ml-primary bg-green-ml text-16 md:w-full"
               to="#cta"
+              onClick={sendGaEvent('download')}
             >
               <Translate>Download for free</Translate>
             </Link>

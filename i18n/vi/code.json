@@ -127,5 +127,11 @@
   },
   "og.description": {
     "message": "Cùng tìm hiểu các lí do vì sao Money Lover trở thành ứng dụng số 1 thế giới giúp người dùng quản lý tiền bạc một cách hiệu quả."
+  },
+  "cta.slogan": {
+    "message": "Quản lý tài chính cá nhân thật dễ dàng"
+  },
+  "cta.slogan.sub": {
+    "message": "Tiền bạc chẳng còn là vấn đề với MoneyLover."
   }
 }

@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import { useLocation } from '@docusaurus/router';
@@ -28,10 +28,6 @@ const Navbar = () => {
     i18n: { currentLocale, locales, localeConfigs },
   } = useDocusaurusContext();
   const alternatePageUtils = useAlternatePageUtils();
-
-  function getLocaleLabel(locale: string) {
-    return localeConfigs[locale].label;
-  }
 
   const localeItems = locales.map((locale) => {
     return {
@@ -65,7 +61,7 @@ const Navbar = () => {
           <a
             style={{ textDecoration: 'none' }}
             className={clsx(
-              'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 w-full h-full',
+              'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 gap-x-1 w-full h-full',
             )}
             href="/"
           >

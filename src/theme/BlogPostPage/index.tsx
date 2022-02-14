@@ -33,7 +33,7 @@ function BlogPostPage(props: Props): JSX.Element {
                   src={useBaseUrl('/img/job-icons/arrow-back.svg')}
                   alt="salary"
                 />{' '}
-                Back to Jobs
+                Danh sách tuyển dụng
               </p>
             </Link>
             <h1 className="text-24 my-2 leading-32 text-dark-tiny lg:hidden">

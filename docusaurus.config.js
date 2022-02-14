@@ -22,7 +22,7 @@ module.exports = {
   },
   themeConfig: {
     gtag: {
-      trackingID: 'UA-39420218-18',
+      trackingID: 'UA-39420218-24',
       anonymizeIP: true,
     },
     colorMode: {
@@ -98,12 +98,6 @@ module.exports = {
     ],
   ],
   plugins: [
-    [
-      require.resolve('docusaurus-gtm-plugin'),
-      {
-        id: 'GTM-NGTZFW2', // GTM Container ID
-      },
-    ],
     'docusaurus-plugin-sass',
     [
       'docusaurus-plugin-module-alias',
