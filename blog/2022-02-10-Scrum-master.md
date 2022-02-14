@@ -26,7 +26,7 @@ tags: [Scrum-master, fintech, moneylover ]
 **Ưu tiên: các bạn có chứng chỉ về Scrum Master (CSM, PSM I, A-CSM, PSM II)**
 
 ## C. Thu nhập
-- Thu nhập CẠNH TRANH : **Lên tới 35 Triệu VNĐ*
+- Thu nhập CẠNH TRANH : **Lên tới 35 Triệu VNĐ**
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
