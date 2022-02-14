@@ -85,7 +85,7 @@ function BlogPostPage(props: Props): JSX.Element {
               style={{ textDecoration: 'none' }}
               className="button-apply text-16 w-full mt-2 mb-2"
               target="_blank"
-              href={link.trim()}
+              href={link && link.trim()}
             >
               Ứng tuyển ngay
             </a>
