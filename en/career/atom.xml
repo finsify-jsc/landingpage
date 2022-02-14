@@ -9,6 +9,13 @@
     <icon>https://landy.moneylover.me/img/favicon.ico</icon>
     <rights>Copyright © 2022 Blogasaurus by Palash Shrivastava</rights>
     <entry>
+        <title type="html"><![CDATA[Lập trình viên Android]]></title>
+        <id>android-developer</id>
+        <link href="https://landy.moneylover.me/en/career/android-developer"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lập trình viên IOS]]></title>
         <id>ios-developer</id>
         <link href="https://landy.moneylover.me/en/career/ios-developer"/>
@@ -54,13 +61,6 @@
         <title type="html"><![CDATA[Lập trình viên Backend (NodeJS)]]></title>
         <id>backend-developer</id>
         <link href="https://landy.moneylover.me/en/career/backend-developer"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lập trình viên Android]]></title>
-        <id>android-developer</id>
-        <link href="https://landy.moneylover.me/en/career/android-developer"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
