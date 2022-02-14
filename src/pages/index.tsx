@@ -1,6 +1,8 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import Layout from '@theme/Layout';
 import { useThemeConfig } from '@docusaurus/theme-common';
+import ReactGA from 'react-ga';
+ReactGA.initialize('UA-39420218-24');
 import styles from './styles.module.scss';
 import {
   CTA,
@@ -17,7 +19,41 @@ function Home() {
     navbar: { items },
   } = useThemeConfig();
   const { label, to }: any = items[items.length - 1];
+  const [isMobile, setIsMobile] = useState<Boolean>(false);
+  const [iOS, setIOS] = useState<Boolean>(false);
+  const [android, setAndroid] = useState<Boolean>(false);
 
+  useEffect(() => {
+    if (
+      typeof window !== 'undefined' &&
+      typeof window.navigator !== 'undefined'
+    ) {
+      setIsMobile(
+        /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)
+          ? true
+          : false,
+      );
+      setIOS(
+        !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform),
+      );
+      setAndroid(/(android)/i.test(navigator.userAgent));
+    }
+  }, []);
+
+  const sendGaEvent = (category) => {
+    let action;
+    let label = isMobile ? 'mobile' : 'web';
+    if (label === 'mobile') {
+      if (iOS) {
+        action = 'Ios';
+      } else if (android) {
+        action = 'Android';
+      } else {
+        action = 'Mobile';
+      }
+    }
+    ReactGA.event({ category, action, label });
+  };
   return (
     <Layout
       title={translate({
@@ -27,12 +63,12 @@ function Home() {
       description="Simple way to manage personal finances"
     >
       <main className={styles.mainPageWrapper}>
-        <Header to={to} />
+        <Header sendGaEvent={sendGaEvent} to={to} />
         <Intro />
         <Details />
         <FeatureList />
         <Reviews />
-        <CTA />
+        <CTA sendGaEvent={sendGaEvent} />
       </main>
     </Layout>
   );
