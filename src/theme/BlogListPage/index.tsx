@@ -28,12 +28,12 @@ function BlogListPage(props: Props): JSX.Element {
       <div className="container mt-6">
         <div className="grid grid-cols-1 w-full text-center">
           <h1 className="font-ibm font-medium text-32 lg:text-64 leading-40 lg:leading-83 text-dark-tiny">
-            Join us &
+            Hãy cùng nhau
           </h1>
           <h1 className="lg:inline font-ibm font-medium text-32 lg:text-64 leading-40 lg:leading-83 text-dark-tiny">
-            Make{' '}
+            tạo ra{' '}
             <span className="font-ibm font-medium text-32 lg:text-64 leading-40 lg:leading-83 text-green-ml">
-              awesome <br className="lg:hidden" /> products.
+              những sản phẩm <br className="lg:hidden" /> tuyệt vời.
             </span>
           </h1>
         </div>

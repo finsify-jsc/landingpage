@@ -128,5 +128,11 @@
   },
   "og.description": {
     "message": "Millions of people use Money Lover - the best worldwide app of Money Management everyday. Get it now to make your finance GREAT again!"
+  },
+  "cta.slogan": {
+    "message": "Take your finances to the next levels!"
+  },
+  "cta.slogan.sub": {
+    "message": "Don't hesite, money matters."
   }
 }
