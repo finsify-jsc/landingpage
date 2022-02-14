@@ -88,7 +88,7 @@ function BlogPostPage(props: Props): JSX.Element {
               style={{ textDecoration: 'none' }}
               className="button-apply text-16 w-full mt-2 mb-2"
               target="_blank"
-              href="https://web.moneylover.me"
+              href="https://docs.google.com/forms/d/1C0kYc3Y14AXAaOooRj33Pgca2SKWDPwXi_l7Goyl4Is/edit"
             >
               Ứng tuyển ngay
             </a>
