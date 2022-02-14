@@ -37,7 +37,7 @@ function BlogListPage(props: Props): JSX.Element {
             </span>
           </h1>
         </div>
-        <main className="lg:px-10 grid grid-cols-12 gap-y-4 mt-8 mb-8">
+        <main className="lg:px-10 grid grid-cols-12 gap-y-4 mt-8 lg:mt-26 lg:mb-26 mb-8">
           {items.map(({ content: BlogPostContent }) => (
             <BlogPostItem
               key={BlogPostContent.metadata.permalink}
