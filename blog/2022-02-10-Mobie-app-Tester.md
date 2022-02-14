@@ -7,7 +7,7 @@ net: true
 workTime: true
 experience: 1 Năm
 deadline: 20/03/2022
-link: https://docs.google.com/forms/d/1C0kYc3Y14AXAaOooRj33Pgca2SKWDPwXi_l7Goyl4Is/prefill
+link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Nh%C3%A2n+vi%C3%AAn+ki%E1%BB%83m+th%E1%BB%AD+(QC/Tester)
 tags: [QC, tester, mobie app, fintech, moneylover ]
 ---
 
