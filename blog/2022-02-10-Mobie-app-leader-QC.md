@@ -7,7 +7,7 @@ net: true
 workTime: true
 experience: 1 Năm
 deadline: 20/02/2022
-
+link:
 tags: [tester, QC, leader, mobie app, ]
 ---
 

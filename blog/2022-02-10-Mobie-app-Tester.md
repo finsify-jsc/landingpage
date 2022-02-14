@@ -7,7 +7,7 @@ net: true
 workTime: true
 experience: 1 Năm
 deadline: 20/03/2022
-
+link:
 tags: [QC, tester, mobie app, fintech, moneylover ]
 ---
 

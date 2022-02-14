@@ -7,7 +7,7 @@ net: true
 workTime: true
 experience: 2 Năm
 deadline: 20/03/2022
-
+link:
 tags: [PO, Product Owner, fintech, moneylover ]
 ---
 
