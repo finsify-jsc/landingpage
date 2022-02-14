@@ -1,39 +1,36 @@
 ---
-slug: mobie-app-tester
-title: Chuyên viên kiểm thử (Tester/QC)
-position: Chuyên viên kiểm thử (Tester/QC)
-salary: Lên tới 22 Triệu VNĐ
+slug: ios-developer
+title: Lập trình viên IOS
+position: Lập trình viên IOS
+salary: Không giới hạn
 net: true
 workTime: true
 experience: 1 Năm
-deadline: 20/03/2022
-link: https://docs.google.com/forms/d/1C0kYc3Y14AXAaOooRj33Pgca2SKWDPwXi_l7Goyl4Is/prefill
-tags: [QC, tester, mobie app, fintech, moneylover ]
+deadline: 20/02/2022
+Link: https://docs.google.com/forms/d/1C0kYc3Y14AXAaOooRj33Pgca2SKWDPwXi_l7Goyl4Is/prefill
+tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
 ---
 
 ## A. Mô tả công việc
--  Xây dựng tài liệu Test spect, Test case theo yêu cầu dự án
-- Thực hiện test theo kịch bản đã được phê duyệt
-- Xây dựng các phương pháp test nhằm nâng cao chất lượng và giảm thời gian test
-- Phân tích, đánh giá kết quả test
-- Có khả năng và sẵn sàng học hỏi công nghệ mới 
+- Tham gia phát triển sản phẩn Money Lover - ứng dụng quản lý tài chính cá nhân với hàng triệu người sử dụng trên Android.
+- Làm việc với Technial Lead, PM/ PO, Back-end, QC để đảm bảo tính năng được ra mắt theo đúng yêu cầu, tiến độ.
+- Đóng góp ý tưởng, cách làm về các sản phẩm mới và quy trình phát triển sản phẩm.
+- Nghiên cứu và ứng dụng công nghệ mới cho việc phát triển sản phẩm.
 
 ## B. Yêu cầu ứng viên
--  Am hiểu quy trình phát triển phần mềm
--  Hiểu rõ các loại test, phương pháp test
--  Có khả nghiên cứu, phân tích yêu cầu hệ thống, yêu cầu nghiệp vụ
--  Có khả năng viết tài liệu test spec, test case, test report
--  Biết cài đặt môi trường test, thực hiện test, khả năng phán đoán và phân tích lỗi
--  Biết sử dụng tool quản lý lỗi
--  Có kiến thức về một số ngôn ngữ lập trình và CSDL.
+- Có kinh nghiệm làm việc với ngôn ngữ objective-c.
+- Có hiểu biết về cơ sở dữ liệu sqlite, các thư viện làm việc với network như AFNetworking, RestKit.
+- Điểm cộng nếu biết và đã từng làm dự án với ngôn ngữ Swift.
+- Khả năng tìm hiểu, làm việc độc lập cũng như làm việc nhóm tốt.
+- Biết và thích chơi thể thao là lợi thế.
 
-## C. Thu nhập
-- Thu nhập CẠNH TRANH : **Lên tới 22 Triệu VNĐ*
+## D. Thu nhập
+- Thu nhập CẠNH TRANH : **Không giới hạn tùy theo năng lực**
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
 
-## D. Quyền lợi
+## E. Quyền lợi
 - Thời gian làm việc: **8h30 - 18h00 Từ T2 đến T6, nghỉ T7 và Chủ nhật**. Công ty không có văn hóa OT.
 - Làm việc trong môi trường năng động, chuyên nghiệp. Có nhiều cơ hội phát triển, trải nghiệm và thử sai ở nhiều vị trí khác nhau.
 - Cung cấp trang thiết bị đầy đủ để phục vụ công việc.

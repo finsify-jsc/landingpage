@@ -15,7 +15,7 @@ function BlogPostPage(props: Props): JSX.Element {
   const { content: BlogPostContents, sidebar } = props;
   const { frontMatter, metadata } = BlogPostContents;
   const { description, editUrl } = metadata;
-  const { position, salary, workTime, deadline, experience, title } =
+  const { position, salary, workTime, deadline, experience, title, link } =
     frontMatter;
   return (
     <Layout title={title} description={description}>
@@ -85,7 +85,7 @@ function BlogPostPage(props: Props): JSX.Element {
               style={{ textDecoration: 'none' }}
               className="button-apply text-16 w-full mt-2 mb-2"
               target="_blank"
-              href="https://forms.gle/bw4YJkMEhx7Jpf219"
+              href={link && link.trim()}
             >
               Ứng tuyển ngay
             </a>
