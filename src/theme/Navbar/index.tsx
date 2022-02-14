@@ -228,7 +228,11 @@ const Navbar = () => {
       <div className="absolute top-0 left-0 z-40 w-full bg-monochrome-white">
         <nav className="flex items-center justify-between h-20 container">
           <Link to={useBaseUrl('/')}>
-            <img src={useBaseUrl('/img/logo.svg')} alt="Money Lover" />
+            <img
+              className="w-full"
+              src={useBaseUrl('/img/logo.svg')}
+              alt="Money Lover"
+            />
           </Link>
           <div className="md:flex items-center">
             <ul className="invisible md:visible fixed md:static flex flex-row gap-6 lg:gap-x-8 items-center mt-1">
