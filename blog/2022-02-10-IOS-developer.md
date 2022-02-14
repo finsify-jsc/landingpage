@@ -7,7 +7,7 @@ net: true
 workTime: true
 experience: 1 Năm
 deadline: 20/02/2022
-Link: https://docs.google.com/forms/d/1C0kYc3Y14AXAaOooRj33Pgca2SKWDPwXi_l7Goyl4Is/prefill
+Link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=L%E1%BA%ADp+tr%C3%ACnh+vi%C3%AAn+IOS
 tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
 ---
 

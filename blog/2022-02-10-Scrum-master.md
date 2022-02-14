@@ -7,7 +7,7 @@ net: true
 workTime: true
 experience: 1 Năm
 deadline: 20/02/2022
-link: https://docs.google.com/forms/d/1C0kYc3Y14AXAaOooRj33Pgca2SKWDPwXi_l7Goyl4Is/prefill
+link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Scrum+Master
 tags: [Scrum-master, fintech, moneylover ]
 ---
 
@@ -26,7 +26,7 @@ tags: [Scrum-master, fintech, moneylover ]
 **Ưu tiên: các bạn có chứng chỉ về Scrum Master (CSM, PSM I, A-CSM, PSM II)**
 
 ## C. Thu nhập
-- Thu nhập CẠNH TRANH : **Lên tới 35 Triệu VNĐ*
+- Thu nhập CẠNH TRANH : **Lên tới 35 Triệu VNĐ**
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
