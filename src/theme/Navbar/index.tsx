@@ -229,7 +229,7 @@ const Navbar = () => {
         <nav className="flex items-center justify-between h-20 container">
           <Link to={useBaseUrl('/')}>
             <img
-              className="w-full"
+              className="w-48"
               src={useBaseUrl('/img/logo.svg')}
               alt="Money Lover"
             />
