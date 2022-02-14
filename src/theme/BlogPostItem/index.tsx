@@ -25,7 +25,7 @@ function BlogPostItem(props: Props): JSX.Element {
     isBlogPostPage = false,
   } = props;
   const { date, formattedDate, permalink } = metadata;
-  const { position, salary, workTime, image, keywords } = frontMatter;
+  const { position, salary, workTime, image, keywords, title } = frontMatter;
 
   const timeSince = (date) => {
     let seconds = Math.floor(
@@ -56,8 +56,7 @@ function BlogPostItem(props: Props): JSX.Element {
           className="font-bold text-left text-20 leading-28 text-dark-tiny"
           to={permalink}
         >
-          {position} <br className="lg:hidden" />
-          (Lương - {salary})
+          {title}
         </Link>
         <p className="mt-2 text-16 leading-24 text-dark-brown whitespace-nowrap">
           {workTime === true ? 'Toàn thời gian' : 'Bán thời gian'} • Hà Nội •{' '}

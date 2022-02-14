@@ -1,5 +1,6 @@
 ---
 slug: growth-hacker
+title: Growth hacker
 position: Growth hacker
 salary: Lên tới 22 Triệu VNĐ
 net: true

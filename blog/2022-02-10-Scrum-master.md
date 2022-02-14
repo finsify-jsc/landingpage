@@ -1,5 +1,6 @@
 ---
 slug: scrum-master
+title: Scrum Master
 position: Scrum Master
 salary: Lên tới 35 Triệu VNĐ
 net: true

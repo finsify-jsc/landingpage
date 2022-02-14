@@ -15,13 +15,10 @@ function BlogPostPage(props: Props): JSX.Element {
   const { content: BlogPostContents, sidebar } = props;
   const { frontMatter, metadata } = BlogPostContents;
   const { description, editUrl } = metadata;
-  const { position, salary, workTime, deadline, experience } = frontMatter;
+  const { position, salary, workTime, deadline, experience, title } =
+    frontMatter;
   return (
-    <Layout
-      title={`${position}
-    (Lương - ${salary}`}
-      description={description}
-    >
+    <Layout title={title} description={description}>
       {BlogPostContents && (
         <section className="container lg:flex lg:mt-20 lg:space-x-10 items-start">
           <div className="lg:w-3/12 lg:sticky lg:top-27 mb-4 flex flex-col gap-y-4">
@@ -30,7 +27,7 @@ function BlogPostPage(props: Props): JSX.Element {
               className="lg:mb-10"
               to="/career"
             >
-              <p className="flex text-dark-brown hover:text-green-ml items-center">
+              <p className="flex text-dark-brown hover:text-green-ml mt-3 items-center">
                 <img
                   className="inline-block pr-2"
                   src={useBaseUrl('/img/job-icons/arrow-back.svg')}
@@ -40,7 +37,7 @@ function BlogPostPage(props: Props): JSX.Element {
               </p>
             </Link>
             <h1 className="text-24 my-2 leading-32 text-dark-tiny lg:hidden">
-              {position} (Lương - {salary})
+              {title}
             </h1>
             <p className="flex text-dark-brown items-center">
               <img
@@ -88,7 +85,7 @@ function BlogPostPage(props: Props): JSX.Element {
               style={{ textDecoration: 'none' }}
               className="button-apply text-16 w-full mt-2 mb-2"
               target="_blank"
-              href="https://docs.google.com/forms/d/1C0kYc3Y14AXAaOooRj33Pgca2SKWDPwXi_l7Goyl4Is/edit"
+              href="https://forms.gle/bw4YJkMEhx7Jpf219"
             >
               Ứng tuyển ngay
             </a>
@@ -96,7 +93,7 @@ function BlogPostPage(props: Props): JSX.Element {
 
           <div className="lg:w-9/12 lg:mb-4 lg:pb-26 markdown">
             <h1 className="text-24 leading-32 text-dark-tiny hidden lg:block">
-              {position} (Lương - {salary})
+              {title}
             </h1>
             <BlogPostContents />
           </div>

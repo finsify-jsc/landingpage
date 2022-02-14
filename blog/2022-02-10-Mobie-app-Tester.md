@@ -1,5 +1,6 @@
 ---
 slug: mobie-app-tester
+title: Chuyên viên kiểm thử (Tester/QC)
 position: Chuyên viên kiểm thử (Tester/QC)
 salary: Lên tới 22 Triệu VNĐ
 net: true

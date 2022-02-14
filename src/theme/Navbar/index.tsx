@@ -73,7 +73,7 @@ const Navbar = () => {
               className="w-6 inline-block"
               src={useBaseUrl(`/img/vi.svg`)}
               alt="Tiếng Việt"
-            />
+            />{' '}
             Tiếng Việt
           </a>
         </li>

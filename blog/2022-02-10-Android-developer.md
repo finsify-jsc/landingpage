@@ -1,5 +1,6 @@
 ---
 slug: android-developer
+title: Lập trình viên Android
 position: Lập trình viên Android
 salary: Không giới hạn
 net: true
