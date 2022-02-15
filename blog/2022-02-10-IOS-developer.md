@@ -25,7 +25,7 @@ tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
 - Biết và thích chơi thể thao là lợi thế.
 
 ## D. Thu nhập
-- Thu nhập CẠNH TRANH : **Không giới hạn tùy theo năng lực**
+- Thu nhập CẠNH TRANH: **Không giới hạn tùy theo năng lực**
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
