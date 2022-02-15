@@ -36,7 +36,7 @@ Kinh nghiệm **tối thiểu 01 năm** về lập trình Android, đã từng s
 
 ## D. Thu nhập
 
-- **Thu nhập CẠNH TRANH : Không giới hạn tùy theo năng lực**
+- Thu nhập CẠNH TRANH: **Không giới hạn tùy theo năng lực**
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
