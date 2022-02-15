@@ -44,7 +44,7 @@ tags: [tester, QC, leader, mobie app, ]
 
 ## C. Thu nhập
 
-- Thu nhập CẠNH TRANH : **Lên tới 22.000.000 VNĐ**
+- Thu nhập CẠNH TRANH: **Lên tới 22.000.000 VNĐ**
 - Xét thưởng hiệu suất, tháng lương 13
 - Xét tăng lương 6 tháng/ lần
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc
