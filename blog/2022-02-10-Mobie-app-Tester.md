@@ -12,7 +12,7 @@ tags: [QC, tester, mobie app, fintech, moneylover ]
 ---
 
 ## A. Mô tả công việc
--  Xây dựng tài liệu Test spect, Test case theo yêu cầu dự án
+- Xây dựng tài liệu Test spect, Test case theo yêu cầu dự án
 - Thực hiện test theo kịch bản đã được phê duyệt
 - Xây dựng các phương pháp test nhằm nâng cao chất lượng và giảm thời gian test
 - Phân tích, đánh giá kết quả test
@@ -28,7 +28,7 @@ tags: [QC, tester, mobie app, fintech, moneylover ]
 -  Có kiến thức về một số ngôn ngữ lập trình và CSDL.
 
 ## C. Thu nhập
-- Thu nhập CẠNH TRANH : **Lên tới 22 Triệu VNĐ*
+- Thu nhập CẠNH TRANH: **Lên tới 22 Triệu VNĐ*
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
