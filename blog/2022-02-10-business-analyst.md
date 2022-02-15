@@ -19,6 +19,8 @@ tags: [Business analyst, BA, fintech, moneylover ]
 - để đưa ra các yêu cầu về tính năng, giao diện
 - Xây dựng và quản lý tài liệu hướng dẫn
 - Nghiên cứu tối ưu sản phẩm và trải nghiệm người dùng 
+
+
 **Nếu bạn là một Fresher tốt nghiệp từ các chuyên ngành kinh tế/ CNTT và muốn thử thách với nghề BA, đừng ngần ngại gửi CV nhé**.
 
 
@@ -33,7 +35,7 @@ tags: [Business analyst, BA, fintech, moneylover ]
 
 ## C. Thu nhập
 
-- Thu nhập CẠNH TRANH : **Lên tới 22 Triệu VNĐ**
+- Thu nhập CẠNH TRANH: **Lên tới 22 Triệu VNĐ**
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
