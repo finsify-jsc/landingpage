@@ -29,7 +29,7 @@ tags: [PO, Product Owner, fintech, moneylover ]
 - Hiểu biết tốt về UI UX.
 
 ## C. Thu nhập
-- Thu nhập CẠNH TRANH : **Lên tới 35 Triệu VNĐ*
+- Thu nhập CẠNH TRANH: **Lên tới 35 Triệu VNĐ*
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
