@@ -22,7 +22,7 @@ tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
 ## B. Yêu cầu ứng viên
 - Đọc hiểu tài liệu tiếng anh chuyên ngành
 - Có khả năng làm việc độc lập và theo nhóm 
-- phá công nghệ với và giải quyết các thách thức về công nghệ
+- Đam mê lập trình, yêu thích khám phá công nghệ mới và giải quyết các thách thức về công nghệ
 - Có hiểu biết tốt về HTTP protocol
 - Có kinh nghiệm với việc xử lý hiệu suất của Web Server, xử lý đồng thời lớn và caching
 - Ứng dụng tốt OOP, FRP và các design pattern
@@ -39,7 +39,7 @@ tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
 - Kết nối và xử lý message với RabbitMQ
 
 ## D. Thu nhập
-- Thu nhập CẠNH TRANH : **Không giới hạn tùy theo năng lực**
+- Thu nhập CẠNH TRANH: **Không giới hạn tùy theo năng lực**
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
