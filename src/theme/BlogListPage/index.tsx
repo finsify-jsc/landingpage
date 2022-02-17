@@ -14,6 +14,7 @@ import BlogListPaginator from '@theme/BlogListPaginator';
 import type { Props } from '@theme/BlogListPage';
 import BlogSidebar from '@theme/BlogSidebar';
 import { ThemeClassNames } from '@docusaurus/theme-common';
+import Translate from '@docusaurus/Translate';
 
 function BlogListPage(props: Props): JSX.Element {
   const { metadata, items, sidebar } = props;
@@ -27,13 +28,15 @@ function BlogListPage(props: Props): JSX.Element {
     <Layout title={title} description={blogDescription}>
       <div className="container mt-6">
         <div className="grid grid-cols-1 w-full text-center">
-          <h1 className="font-ibm font-medium text-32 lg:text-64 leading-40 lg:leading-83 text-dark-tiny">
-            Hãy cùng nhau
+          <h1 className="font-ibm font-medium tracking-tight text-32 lg:text-64 leading-40 lg:leading-83 text-dark-tiny">
+            <Translate id="career.slogan.one">Hãy cùng nhau</Translate>
           </h1>
-          <h1 className="lg:inline font-ibm font-medium text-32 lg:text-64 leading-40 lg:leading-83 text-dark-tiny">
-            tạo ra{' '}
-            <span className="font-ibm font-medium text-32 lg:text-64 leading-40 lg:leading-83 text-green-ml">
-              những sản phẩm <br className="lg:hidden" /> tuyệt vời.
+          <h1 className="lg:inline font-ibm tracking-tight font-medium text-32 lg:text-64 leading-40 lg:leading-83 text-dark-tiny">
+            <Translate id="career.slogan.two">tạo ra</Translate>{' '}
+            <span className="font-ibm font-medium tracking-tight text-32 lg:text-64 leading-40 lg:leading-83 text-green-ml">
+              <Translate id="career.slogan.three">
+                những sản phẩm tuyệt với.
+              </Translate>{' '}
             </span>
           </h1>
         </div>
