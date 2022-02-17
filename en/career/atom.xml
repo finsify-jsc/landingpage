@@ -9,16 +9,16 @@
     <icon>https://landy.moneylover.me/img/favicon.ico</icon>
     <rights>Copyright © 2022 Blogasaurus by Palash Shrivastava</rights>
     <entry>
-        <title type="html"><![CDATA[Lập trình viên IOS]]></title>
-        <id>ios-developer</id>
-        <link href="https://landy.moneylover.me/en/career/ios-developer"/>
+        <title type="html"><![CDATA[Lập trình viên Android]]></title>
+        <id>android-developer</id>
+        <link href="https://landy.moneylover.me/en/career/android-developer"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chuyên viên kiểm thử (Tester/QC)]]></title>
-        <id>mobie-app-tester</id>
-        <link href="https://landy.moneylover.me/en/career/mobie-app-tester"/>
+        <title type="html"><![CDATA[Lập trình viên IOS]]></title>
+        <id>ios-developer</id>
+        <link href="https://landy.moneylover.me/en/career/ios-developer"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
@@ -58,9 +58,16 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lập trình viên Android]]></title>
-        <id>android-developer</id>
-        <link href="https://landy.moneylover.me/en/career/android-developer"/>
+        <title type="html"><![CDATA[Business Analyst]]></title>
+        <id>business-Analyst</id>
+        <link href="https://landy.moneylover.me/en/career/business-Analyst"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chuyên viên kiểm thử (Tester/QC)]]></title>
+        <id>mobie-app-tester</id>
+        <link href="https://landy.moneylover.me/en/career/mobie-app-tester"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
@@ -68,13 +75,6 @@
         <title type="html"><![CDATA[Growth Hacker]]></title>
         <id>growth-hacker</id>
         <link href="https://landy.moneylover.me/en/career/growth-hacker"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Analyst]]></title>
-        <id>business-Analyst</id>
-        <link href="https://landy.moneylover.me/en/career/business-Analyst"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
