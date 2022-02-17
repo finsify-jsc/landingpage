@@ -37,13 +37,6 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Product Owner]]></title>
-        <id>product-owner</id>
-        <link href="https://landy.moneylover.me/en/career/product-owner"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scrum Master]]></title>
         <id>scrum-master</id>
         <link href="https://landy.moneylover.me/en/career/scrum-master"/>
@@ -75,6 +68,13 @@
         <title type="html"><![CDATA[Growth Hacker]]></title>
         <id>growth-hacker</id>
         <link href="https://landy.moneylover.me/en/career/growth-hacker"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Owner]]></title>
+        <id>product-owner</id>
+        <link href="https://landy.moneylover.me/en/career/product-owner"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
