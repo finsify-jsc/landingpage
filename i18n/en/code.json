@@ -134,5 +134,14 @@
   },
   "cta.slogan.sub": {
     "message": "Don't hesite, money matters."
+  },
+  "career.slogan.one": {
+    "message": "Join us &"
+  },
+  "career.slogan.two": {
+    "message": "Make"
+  },
+  "career.slogan.three": {
+    "message": "awesome products."
   }
 }

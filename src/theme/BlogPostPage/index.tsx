@@ -41,7 +41,7 @@ function BlogPostPage(props: Props): JSX.Element {
             </h1>
             <p className="flex text-dark-brown items-center">
               <img
-                className="inline-block mr-2"
+                className="inline-block mr-2 self-start"
                 src={useBaseUrl('/img/job-icons/money.svg')}
                 alt="salary"
               />{' '}
@@ -49,7 +49,7 @@ function BlogPostPage(props: Props): JSX.Element {
             </p>
             <p className="flex text-dark-brown items-center">
               <img
-                className="inline-block mr-2"
+                className="inline-block mr-2 self-start"
                 src={useBaseUrl('/img/job-icons/work.svg')}
                 alt="time"
               />{' '}
@@ -57,7 +57,7 @@ function BlogPostPage(props: Props): JSX.Element {
             </p>
             <p className="flex text-dark-brown items-center">
               <img
-                className="inline-block mr-2"
+                className="inline-block mr-2 self-start"
                 src={useBaseUrl('/img/job-icons/time.svg')}
                 alt="time"
               />{' '}
@@ -66,7 +66,7 @@ function BlogPostPage(props: Props): JSX.Element {
             </p>
             <p className="flex text-dark-brown items-center">
               <img
-                className="inline-block mr-2"
+                className="inline-block mr-2 self-start"
                 src={useBaseUrl('/img/job-icons/noti.svg')}
                 alt="time"
               />{' '}
@@ -74,7 +74,7 @@ function BlogPostPage(props: Props): JSX.Element {
             </p>
             <p className="flex text-dark-brown items-center">
               <img
-                className="inline-block mr-2"
+                className="inline-block mr-2 self-start"
                 src={useBaseUrl('/img/job-icons/place.svg')}
                 alt="place"
               />{' '}
@@ -92,7 +92,7 @@ function BlogPostPage(props: Props): JSX.Element {
           </div>
 
           <div className="lg:w-9/12 lg:mb-4 lg:pb-26 markdown">
-            <h1 className="text-24 leading-32 text-dark-tiny hidden lg:block">
+            <h1 className="text-24 leading-32 text-dark-tiny hidden mb-4 lg:block">
               {title}
             </h1>
             <BlogPostContents />
