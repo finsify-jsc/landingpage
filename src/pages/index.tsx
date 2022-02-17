@@ -12,7 +12,7 @@ import {
   Reviews,
 } from '../components/index';
 import { translate } from '@docusaurus/Translate';
-import ReactGA from '@site/hooks/use-ga';
+import ReactGA from '../hooks/use-ga';
 
 function Home() {
   const {
