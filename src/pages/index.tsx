@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Layout from '@theme/Layout';
 import { useThemeConfig } from '@docusaurus/theme-common';
-import ReactGA from 'react-ga';
-ReactGA.initialize('UA-39420218-24');
+
 import styles from './styles.module.scss';
 import {
   CTA,
@@ -13,6 +12,7 @@ import {
   Reviews,
 } from '../components/index';
 import { translate } from '@docusaurus/Translate';
+import ReactGA from '@site/hooks/use-ga';
 
 function Home() {
   const {

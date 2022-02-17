@@ -10,6 +10,7 @@ import Layout from '@theme/Layout';
 import type { Props } from '@theme/BlogPostPage';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import { Link } from '@docusaurus/router';
+import ReactGA from '../../hooks/use-ga';
 
 function BlogPostPage(props: Props): JSX.Element {
   const { content: BlogPostContents, sidebar } = props;
@@ -17,6 +18,9 @@ function BlogPostPage(props: Props): JSX.Element {
   const { description, editUrl } = metadata;
   const { position, salary, workTime, deadline, experience, title, link } =
     frontMatter;
+  const sendGaEvent = (title) => {
+    ReactGA.event({ category: 'tuyen-dung', action: title });
+  };
   return (
     <Layout title={title} description={description}>
       {BlogPostContents && (
@@ -86,6 +90,7 @@ function BlogPostPage(props: Props): JSX.Element {
               className="button-apply text-16 w-full mt-2 mb-2"
               target="_blank"
               href={link && link.trim()}
+              onClick={() => sendGaEvent(title)}
             >
               Ứng tuyển ngay
             </a>

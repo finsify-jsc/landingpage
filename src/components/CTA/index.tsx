@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import { translate } from '@docusaurus/Translate';
-import ReactGA from 'react-ga';
 import PropTypes, { InferProps } from 'prop-types';
 
 export const CTA = ({ sendGaEvent }: InferProps<typeof CTA.propTypes>) => {
