@@ -44,13 +44,6 @@
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
         <item>
-            <title><![CDATA[Scrum Master]]></title>
-            <link>https://landy.moneylover.me/career/scrum-master</link>
-            <guid>scrum-master</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[A. Mô tả công việc]]></description>
-        </item>
-        <item>
             <title><![CDATA[Chuyên viên thiết kế Ui/Ux]]></title>
             <link>https://landy.moneylover.me/career/ui-ux-designer</link>
             <guid>ui-ux-designer</guid>
@@ -61,6 +54,13 @@
             <title><![CDATA[Lập trình viên Backend (NodeJS)]]></title>
             <link>https://landy.moneylover.me/career/backend-developer</link>
             <guid>backend-developer</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[A. Mô tả công việc]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Scrum Master]]></title>
+            <link>https://landy.moneylover.me/career/scrum-master</link>
+            <guid>scrum-master</guid>
             <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
