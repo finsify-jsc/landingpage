@@ -62,7 +62,7 @@ function BlogPostItem(props: Props): JSX.Element {
           {workTime === true ? 'Toàn thời gian' : 'Bán thời gian'} • Hà Nội •{' '}
           {salary
             .toLowerCase()
-            .replaceAll(/[VND|VNĐ]/gi, '')
+            .replace(/(vnd|vnđ)/gi, '')
             .trim() === 'không giới hạn'
             ? 'Lương cao'
             : salary}
