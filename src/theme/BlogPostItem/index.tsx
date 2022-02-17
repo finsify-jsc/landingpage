@@ -60,12 +60,9 @@ function BlogPostItem(props: Props): JSX.Element {
         </Link>
         <p className="mt-2 text-16 leading-24 text-dark-brown whitespace-nowrap">
           {workTime === true ? 'Toàn thời gian' : 'Bán thời gian'} • Hà Nội •{' '}
-          {salary
-            .toLowerCase()
-            .replace(/(vnd|vnđ)/gi, '')
-            .trim() === 'không giới hạn'
+          {salary.toLowerCase().trim() === 'không giới hạn'
             ? 'Lương cao'
-            : salary}
+            : salary.replace(/(VND|VNĐ)/gi, '').trim()}
         </p>
       </article>
     );
