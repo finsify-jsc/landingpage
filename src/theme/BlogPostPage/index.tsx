@@ -49,7 +49,7 @@ function BlogPostPage(props: Props): JSX.Element {
                 src={useBaseUrl('/img/job-icons/money.svg')}
                 alt="salary"
               />{' '}
-              Mức lương : {salary}
+              Mức lương: {salary}
             </p>
             <p className="flex text-dark-brown items-center">
               <img
@@ -57,7 +57,7 @@ function BlogPostPage(props: Props): JSX.Element {
                 src={useBaseUrl('/img/job-icons/work.svg')}
                 alt="time"
               />{' '}
-              Kinh nghiệm : {experience}
+              Kinh nghiệm: {experience}
             </p>
             <p className="flex text-dark-brown items-center">
               <img
@@ -65,7 +65,7 @@ function BlogPostPage(props: Props): JSX.Element {
                 src={useBaseUrl('/img/job-icons/time.svg')}
                 alt="time"
               />{' '}
-              Hình thức làm việc :{' '}
+              Hình thức làm việc:{' '}
               {workTime === true ? 'Toàn thời gian' : 'Bán thời gian'}{' '}
             </p>
             <p className="flex text-dark-brown items-center">
@@ -74,7 +74,7 @@ function BlogPostPage(props: Props): JSX.Element {
                 src={useBaseUrl('/img/job-icons/noti.svg')}
                 alt="time"
               />{' '}
-              Thời hạn ứng tuyển : {deadline}
+              Thời hạn ứng tuyển: {deadline}
             </p>
             <p className="flex text-dark-brown items-center">
               <img
@@ -82,7 +82,7 @@ function BlogPostPage(props: Props): JSX.Element {
                 src={useBaseUrl('/img/job-icons/place.svg')}
                 alt="place"
               />{' '}
-              Địa điểm làm việc : Tầng 4, 101 Láng Hạ, Đống Đa, Hà Nội
+              Địa điểm làm việc: Tầng 4, 101 Láng Hạ, Đống Đa, Hà Nội
             </p>
 
             <a
