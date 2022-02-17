@@ -16,8 +16,16 @@ function BlogPostPage(props: Props): JSX.Element {
   const { content: BlogPostContents, sidebar } = props;
   const { frontMatter, metadata } = BlogPostContents;
   const { description, editUrl } = metadata;
-  const { position, salary, workTime, deadline, experience, title, link } =
-    frontMatter;
+  const {
+    slug,
+    position,
+    salary,
+    workTime,
+    deadline,
+    experience,
+    title,
+    link,
+  } = frontMatter;
   const sendGaEvent = (title) => {
     ReactGA.event({ category: 'tuyen-dung', action: title });
   };
@@ -90,7 +98,7 @@ function BlogPostPage(props: Props): JSX.Element {
               className="button-apply text-16 w-full mt-2 mb-2"
               target="_blank"
               href={link && link.trim()}
-              onClick={() => sendGaEvent(title)}
+              onClick={() => sendGaEvent(slug)}
             >
               Ứng tuyển ngay
             </a>
