@@ -9,6 +9,13 @@
     <icon>https://landy.moneylover.me/img/favicon.ico</icon>
     <rights>Copyright © 2022 Blogasaurus by Palash Shrivastava</rights>
     <entry>
+        <title type="html"><![CDATA[Lập trình viên Android]]></title>
+        <id>android-developer</id>
+        <link href="https://landy.moneylover.me/career/android-developer"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lập trình viên IOS]]></title>
         <id>ios-developer</id>
         <link href="https://landy.moneylover.me/career/ios-developer"/>
@@ -26,6 +33,13 @@
         <title type="html"><![CDATA[Trưởng nhóm QC]]></title>
         <id>mobie-app-leader-qc</id>
         <link href="https://landy.moneylover.me/career/mobie-app-leader-qc"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Owner]]></title>
+        <id>product-owner</id>
+        <link href="https://landy.moneylover.me/career/product-owner"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
@@ -51,23 +65,9 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lập trình viên Android]]></title>
-        <id>android-developer</id>
-        <link href="https://landy.moneylover.me/career/android-developer"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Business Analyst]]></title>
         <id>business-Analyst</id>
         <link href="https://landy.moneylover.me/career/business-Analyst"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Owner]]></title>
-        <id>product-owner</id>
-        <link href="https://landy.moneylover.me/career/product-owner"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
