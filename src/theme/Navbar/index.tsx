@@ -39,7 +39,7 @@ const Navbar = () => {
     if (!pathname.includes('/en') && locale === 'vi') {
       return (
         <li className="border-t border-monochrome-medium-tint md:border-none">
-          <Link
+          <a
             style={{ textDecoration: 'none' }}
             className={clsx(
               'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 w-full h-full gap-x-2',
@@ -52,7 +52,7 @@ const Navbar = () => {
               alt="English"
             />
             English
-          </Link>
+          </a>
         </li>
       );
     } else if (pathname.includes('/en') && locale === 'en') {
@@ -63,7 +63,7 @@ const Navbar = () => {
             className={clsx(
               'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 gap-x-1 w-full h-full',
             )}
-            href="/"
+            to="/"
           >
             <img
               className="w-6 inline-block"
