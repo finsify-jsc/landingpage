@@ -58,12 +58,12 @@ const Navbar = () => {
     } else if (pathname.includes('/en') && locale === 'en') {
       return (
         <li className="border-t border-monochrome-medium-tint md:border-none">
-          <Link
+          <a
             style={{ textDecoration: 'none' }}
             className={clsx(
               'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 gap-x-1 w-full h-full',
             )}
-            to="/"
+            href="/"
           >
             <img
               className="w-6 inline-block"
@@ -71,7 +71,7 @@ const Navbar = () => {
               alt="Tiếng Việt"
             />{' '}
             Tiếng Việt
-          </Link>
+          </a>
         </li>
       );
     }
