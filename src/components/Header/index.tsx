@@ -70,15 +70,15 @@ export const Header = ({ to, sendGaEvent }) => {
         </p>
 
         <div className="grid grid-cols-2 gap-x-2 lg:gap-x-4 md:flex md:justify-center mt-9 lg:mt-12">
-          <a
+          <Link
             style={{ textDecoration: 'none' }}
             className="button-ml text-16 md:w-full"
             target="_blank"
             onClick={sendGaEvent('tryOnWeb')}
-            href="https://web.moneylover.me"
+            to="https://web.moneylover.me"
           >
             <Translate>Try on browser</Translate>
-          </a>
+          </Link>
           <Link
             style={{ textDecoration: 'none' }}
             className="button-ml-primary bg-green-ml text-16 md:w-full"
@@ -94,7 +94,7 @@ export const Header = ({ to, sendGaEvent }) => {
           className="invisible lg:invisible fixed bg-monochrome-white bottom-0 inset-x-0 z-10 flex justify-around"
         >
           <div className="grid grid-cols-2 gap-2 mx-4 my-4">
-            <a
+            <Link
               style={{ textDecoration: 'none' }}
               className="button-ml text-16 md:w-full"
               target="_blank"
@@ -102,7 +102,7 @@ export const Header = ({ to, sendGaEvent }) => {
               href="https://web.moneylover.me"
             >
               <Translate>Try on browser</Translate>
-            </a>
+            </Link>
             <Link
               style={{ textDecoration: 'none' }}
               className="button-ml-primary bg-green-ml text-16 md:w-full"

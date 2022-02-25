@@ -22,14 +22,14 @@ const Footer = () => {
         </p>
         <div className="flex flex-col lg:flex-row justify-center gap-y-4 lg:col-span-5 lg:gap-x-4">
           {FooterLink.map(({ label, to }) => (
-            <a
+            <Link
               key={Math.random()}
-              href={to}
+              to={to}
               target="_blank"
               className="flex items-center leading-24 text-16 font-medium text-dark-brown hover:no-underline"
             >
               {label}
-            </a>
+            </Link>
           ))}
         </div>
         <ul className="lg:col-span-1 lg:place-self-end flex items-center justify-start mt-5 mb-8 lg:mt-0 lg:mb-0 gap-x-2">

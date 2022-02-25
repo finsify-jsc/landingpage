@@ -2,6 +2,7 @@ import React from 'react';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import { translate } from '@docusaurus/Translate';
 import PropTypes, { InferProps } from 'prop-types';
+import Link from '@docusaurus/Link';
 
 export const CTA = ({ sendGaEvent }: InferProps<typeof CTA.propTypes>) => {
   return (
@@ -18,20 +19,22 @@ export const CTA = ({ sendGaEvent }: InferProps<typeof CTA.propTypes>) => {
             {translate({ id: 'cta.slogan.sub' })}
           </p>
           <div className="flex justify-center lg:justify-start w-full">
-            <a
-              href="https://itunes.apple.com/app/apple-store/id486312413?pt=694013&ct=landing&mt=8"
+            <Link
+              target="_blank"
+              to="https://itunes.apple.com/app/apple-store/id486312413?pt=694013&ct=landing&mt=8"
               className="mr-1"
               onClick={() => sendGaEvent('goAppStore')}
             >
               <img src={useBaseUrl('img/marketplace/appstore.svg')} alt="" />
-            </a>
-            <a
-              href="https://play.google.com/store/apps/details?id=com.bookmark.money&referrer=utm_source%3Dlanding"
+            </Link>
+            <Link
+              target="_blank"
+              to="https://play.google.com/store/apps/details?id=com.bookmark.money&referrer=utm_source%3Dlanding"
               className="ml-1"
               onClick={() => sendGaEvent('goPlayStore')}
             >
               <img src={useBaseUrl('img/marketplace/google-play.svg')} alt="" />
-            </a>
+            </Link>
           </div>
         </div>
         <img

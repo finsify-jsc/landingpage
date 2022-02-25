@@ -41,7 +41,7 @@ function Home() {
   }, []);
 
   const sendGaEvent = (category) => {
-    let action;
+    let action = 'BrowserPC';
     let label = isMobile ? 'mobile' : 'web';
     if (label === 'mobile') {
       if (iOS) {

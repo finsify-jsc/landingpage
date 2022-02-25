@@ -39,7 +39,7 @@ const Navbar = () => {
     if (!pathname.includes('/en') && locale === 'vi') {
       return (
         <li className="border-t border-monochrome-medium-tint md:border-none">
-          <a
+          <Link
             style={{ textDecoration: 'none' }}
             className={clsx(
               'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 w-full h-full gap-x-2',
@@ -52,13 +52,13 @@ const Navbar = () => {
               alt="English"
             />
             English
-          </a>
+          </Link>
         </li>
       );
     } else if (pathname.includes('/en') && locale === 'en') {
       return (
         <li className="border-t border-monochrome-medium-tint md:border-none">
-          <a
+          <Link
             style={{ textDecoration: 'none' }}
             className={clsx(
               'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 gap-x-1 w-full h-full',
@@ -71,7 +71,7 @@ const Navbar = () => {
               alt="Tiếng Việt"
             />{' '}
             Tiếng Việt
-          </a>
+          </Link>
         </li>
       );
     }
