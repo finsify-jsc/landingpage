@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[4494],{1074:function(e){e.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"qc","name":"qc","count":2,"permalink":"/vi/career/tags/qc"}')}}]);
