@@ -12,7 +12,7 @@ module.exports = {
   organizationName: 'finsify-be',
   projectName: 'landingpage',
   i18n: {
-    defaultLocale: 'vi',
+    defaultLocale: 'en',
     locales: ['en', 'vi'],
     localeConfigs: {
       en: { label: 'English' },
