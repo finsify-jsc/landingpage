@@ -36,7 +36,7 @@ const Navbar = () => {
   });
 
   const renderLangLink = (locale) => {
-    if (!pathname.includes('/en') && locale === 'vi') {
+    if (!pathname.includes('/vi') && locale === 'en') {
       return (
         <li className="border-t border-monochrome-medium-tint md:border-none">
           <a
@@ -48,14 +48,14 @@ const Navbar = () => {
           >
             <img
               className="w-6 inline-block"
-              src={useBaseUrl(`/img/en.svg`)}
-              alt="English"
+              src={useBaseUrl(`/img/vi.svg`)}
+              alt="Vietnam"
             />
-            English
+            Vietnamese
           </a>
         </li>
       );
-    } else if (pathname.includes('/en') && locale === 'en') {
+    } else if (pathname.includes('/') && locale === 'vi') {
       return (
         <li className="border-t border-monochrome-medium-tint md:border-none">
           <a
@@ -67,10 +67,10 @@ const Navbar = () => {
           >
             <img
               className="w-6 inline-block"
-              src={useBaseUrl(`/img/vi.svg`)}
-              alt="Tiếng Việt"
+              src={useBaseUrl(`/img/en.svg`)}
+              alt="English"
             />{' '}
-            Tiếng Việt
+            English
           </a>
         </li>
       );
