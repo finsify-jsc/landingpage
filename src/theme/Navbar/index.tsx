@@ -44,7 +44,7 @@ const Navbar = () => {
             className={clsx(
               'inline-flex text-16 font-medium text-dark-brown leading-24 py-4 w-full h-full gap-x-2',
             )}
-            href="/en"
+            href="/vi"
           >
             <img
               className="w-6 inline-block"
@@ -55,7 +55,7 @@ const Navbar = () => {
           </a>
         </li>
       );
-    } else if (pathname.includes('/') && locale === 'vi') {
+    } else if (pathname.includes('/vi') && locale === 'vi') {
       return (
         <li className="border-t border-monochrome-medium-tint md:border-none">
           <a
