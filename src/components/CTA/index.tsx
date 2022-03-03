@@ -9,12 +9,12 @@ export const CTA = ({ sendGaEvent }: InferProps<typeof CTA.propTypes>) => {
     <section id="cta" className="container mt-18 lg:mt-44 lg:mb-14">
       <div className="relative grid grid-cols-12 bg-green-ml py-12 lg:py-20 rounded-2xl">
         <div className="col-span-12 col-start-1 lg:col-start-3 lg:col-end-8">
-          <p className="mb-2 text-center lg:text-left text-monochrome-white text-24 leading-32 font-medium lg:font-medium lg:text-40 lg:leading-52">
+          <p className="mb-2 text-center tracking-tight lg:text-left text-monochrome-white text-24 leading-32 font-medium lg:font-medium lg:text-40 lg:leading-52">
             {translate({ id: 'cta.slogan' })}
           </p>
           <p
             style={{ color: '#F3F3F3' }}
-            className="mb-9 text-center lg:text-left leading-32"
+            className="mb-9 tracking-tight text-center lg:text-left leading-32"
           >
             {translate({ id: 'cta.slogan.sub' })}
           </p>
