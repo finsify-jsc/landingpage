@@ -4,10 +4,17 @@
         <title>MoneyLover Blog</title>
         <link>https://landy.moneylover.me/career</link>
         <description>MoneyLover Blog</description>
-        <lastBuildDate>Thu, 10 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2022 Blogasaurus by Palash Shrivastava</copyright>
+        <item>
+            <title><![CDATA[Product Owner]]></title>
+            <link>https://landy.moneylover.me/vi/career/product-owner</link>
+            <guid>product-owner</guid>
+            <pubDate>Sat, 12 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[A. Mô tả công việc]]></description>
+        </item>
         <item>
             <title><![CDATA[Chuyên viên kiểm thử (Tester/QC)]]></title>
             <link>https://landy.moneylover.me/vi/career/mobie-app-tester</link>
@@ -19,13 +26,6 @@
             <title><![CDATA[Trưởng nhóm QC]]></title>
             <link>https://landy.moneylover.me/vi/career/mobie-app-leader-qc</link>
             <guid>mobie-app-leader-qc</guid>
-            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[A. Mô tả công việc]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Product Owner]]></title>
-            <link>https://landy.moneylover.me/vi/career/product-owner</link>
-            <guid>product-owner</guid>
             <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
