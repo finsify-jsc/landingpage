@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landy.moneylover.me/career</id>
     <title>MoneyLover Blog</title>
-    <updated>2022-02-10T00:00:00.000Z</updated>
+    <updated>2022-03-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://landy.moneylover.me/career"/>
     <subtitle>MoneyLover Blog</subtitle>
     <icon>https://landy.moneylover.me/img/favicon.ico</icon>
     <rights>Copyright © 2022 Blogasaurus by Palash Shrivastava</rights>
+    <entry>
+        <title type="html"><![CDATA[Chuyên viên kiểm thử (Tester/QC)]]></title>
+        <id>mobie-app-tester</id>
+        <link href="https://landy.moneylover.me/career/mobie-app-tester"/>
+        <updated>2022-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lập trình viên Android]]></title>
         <id>android-developer</id>
@@ -19,13 +26,6 @@
         <title type="html"><![CDATA[Lập trình viên IOS]]></title>
         <id>ios-developer</id>
         <link href="https://landy.moneylover.me/career/ios-developer"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chuyên viên kiểm thử (Tester/QC)]]></title>
-        <id>mobie-app-tester</id>
-        <link href="https://landy.moneylover.me/career/mobie-app-tester"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
