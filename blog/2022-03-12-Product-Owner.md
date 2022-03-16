@@ -10,26 +10,29 @@ deadline: 20/03/2022
 link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Product+Owner
 tags: [PO, Product Owner, fintech, moneylover ]
 ---
+Chúng tôi đang tìm kiếm một Product Owner cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.
+
+Là một Product Owner, bạn sẽ chịu trách nhiệm trong việc làm việc với người dùng để hiểu, đồng cảm với những vấn đề và nhu cầu mà họ gặp phải trong việc quản lý tài chính cá nhân, hiểu tại sao mà họ cần một sản phẩm như vậy và làm thế nào để sản phẩm đó có thể đem lại một cuộc sống tốt đẹp hơn cho họ. Bạn sẽ xây dựng những giải pháp cho các vấn đề của người dùng, và mô tả các giải pháp đó bằng các user story để giúp cho đội phát triển sản phẩm có thể triển khai vào sản phẩm thực tế, từ đó đem lại giá trị cho hàng triệu người dùng.
 
 ## A. Mô tả công việc
-- Làm việc với CPO để hiểu phạm vi và mục tiêu của yêu cầu thay đổi, dự án, cộng tác với tất cả các bên liên quan để cung cấp sản phẩm đúng thời hạn trong phạm vi ngân sách.
-- Báo cáo các vấn đề nghiêm trọng cho CPO.
-- Thảo luận với Marketing để đưa ra các giải pháp kinh doanh.
-- Giải thích với BA các vấn đề confuse giữa Business và sản phẩm.
-- Phát triển toàn bộ roadmap cho sản phẩm, đảm bảo các sản phẩm phân phối đáp ứng các tiêu chuẩn chất lượng của công ty, bao gồm cả thời gian và chất lượng.
-- Sử dụng Jira để quản lý (release) backlog, đo lường hiệu suất của nhóm.
+- Phân tích nhu cầu và xu hướng của thị trường. Phân tích đối thủ cạnh tranh.
+- Phân tích khả năng của tổ chức trong việc đáp ứng nhu cầu thị trường.
+- Xây dựng product vision và product roadmap.
+- Xây dựng chiến lược go-to-market. Phối hợp với team Marketing trong việc thực thi chiến lược go-to-market.
+- Chịu trách nhiệm quá trình phát triển sản phẩm.
 
 
 ## B. Yêu cầu ứng viên
-- Đã có kinh nghiệm tốt (với thời gian ít nhất 2 năm) ở vai trò Product Owner ở các sản phẩm phức tạp / lớn với các chu kì release nhanh chóng.
-- Có kinh nghiệm trong các agile team như scrum, kanban
+- Đã có kinh nghiệm ít nhất 2 năm ở vai trò Product Owner.
+- Có tư duy business và customer-centric.
+- Tư duy logic tốt.
 - Quan tâm, dám đối mặt với các thử thách phức tạp, yêu thích khám phá với các điều mới trong công việc.
 - Kĩ năng giải quyết các vấn đề tốt và tinh thần làm việc nhóm xuất sắc.
-- Có technical background là lợi thế nhưng không bắt buộc.
-- Hiểu biết tốt về UI UX.
+- Có kinh nghiệm trong các agile team.
+- Có hiểu biết và khả năng phân tích tốt về UI và UX là một lợi thế. Là người nghiêm túc với sản phẩm của mình, bạn sẽ muốn trải nghiệm của người dùng với nó phải là tốt nhất có thể.
 
 ## C. Thu nhập
-- Thu nhập CẠNH TRANH : **Lên tới 35 Triệu VNĐ*
+- Thu nhập CẠNH TRANH : **Lên tới 35 Triệu VNĐ**
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
