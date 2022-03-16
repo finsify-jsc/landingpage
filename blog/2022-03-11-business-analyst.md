@@ -10,32 +10,30 @@ deadline: 20/02/2022
 link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Business+Analyst
 tags: [Business analyst, BA, fintech, moneylover ]
 ---
+Chúng tôi đang tìm kiếm một Business Analyst cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.
+
+Là một Business Analyst, bạn sẽ chịu trách nhiệm trong việc xây dựng user story và requirement để có thể triển khai các giải pháp cho các vấn đề của người dùng. Bạn sẽ là đầu mối giúp cho đội phát triển sản phẩm có thể hiểu rõ được các requirement cần xây dựng, và phối hợp với họ để có thể triển khai các requirement đó thành sản phẩm hoàn chỉnh. Bạn cũng sẽ hỗ trợ Product Owner trong các việc như đồng cảm với người dùng, xây dựng và quản lý các user story. Hiểu về người dùng sẽ giúp bạn xây dựng ra các user story và requirement thực sự đáp ứng được nhu cầu của họ. Đây cũng sẽ là một lợi thế nếu bạn có dự định thử sức mình ở vị trí Product Owner tại Money Lover.
 
 ## A. Mô tả công việc
 
-- Tham gia phát triển các sản phẩm (Web, phần mềm) với vai trò BA. 
-- Thu thập và khảo sát yêu cầu của khách hàng
-- Mô tả quy trình, nghiệp vụ: use cases, workflow
-- để đưa ra các yêu cầu về tính năng, giao diện
-- Xây dựng và quản lý tài liệu hướng dẫn
-- Nghiên cứu tối ưu sản phẩm và trải nghiệm người dùng 
-**Nếu bạn là một Fresher tốt nghiệp từ các chuyên ngành kinh tế/ CNTT và muốn thử thách với nghề BA, đừng ngần ngại gửi CV nhé**.
-
+- Xây dựng requirement chi tiết để đội phát triển sản phẩm có thể triển khai thành sản phẩm hoàn chỉnh.
+- Làm rõ requirement cho các stakeholder.
+- Đánh giá ảnh hưởng của các thay đổi trong sản phẩm của mình đến từ việc phát triển và vận hành sản phẩm.
+- Hỗ trợ Product Owner trong việc phân tích nhu cầu của người dùng, xây dựng và quản lý user story.
 
 ## B. Yêu cầu ứng viên
 - Có kinh nghiệm **ít nhất 01 năm** trong với vị trí BA trong công ty công nghệ.
-- Khả năng tổng hợp thông tin và phân tích vấn đề; thảo luận và trình bày giải pháp.
+- Khả năng tổng hợp thông tin và phân tích vấn đề, thảo luận và trình bày giải pháp.
 - Sử dụng các công cụ để xây dựng mockup, prototype & UML.
-- Khả năng làm việc độc lập và làm việc nhóm. 
-- Tốt nghiệp đại học chuyên ngành về kinh tế hoặc công nghệ
-- Thẳng thắn, không ngại tranh luận để giải quyết vấn đề
-- Ham học hỏi lĩnh vực và kiến thức mới, liên tục "nâng cấp" bản thân 
+- Khả năng làm việc độc lập và làm việc nhóm.
+- Thẳng thắn, không ngại tranh luận để giải quyết vấn đề.
+- Ham học hỏi lĩnh vực và kiến thức mới.
 
 ## C. Thu nhập
 
 - Thu nhập CẠNH TRANH : **Lên tới 22 Triệu VNĐ**
 - Xét thưởng hiệu suất, tháng lương 13.
-- Xét tăng lương 6 tháng/ lần.
+- Xét tăng lương 6 tháng/lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
 
 ## D. Quyền lợi
