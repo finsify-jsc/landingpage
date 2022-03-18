@@ -28,7 +28,7 @@ tags: [QC, tester, mobie app, fintech, moneylover ]
 -  Có kiến thức về một số ngôn ngữ lập trình và CSDL.
 
 ## C. Thu nhập
-- Thu nhập CẠNH TRANH : **Lên tới 22 Triệu VNĐ*
+- Thu nhập CẠNH TRANH : **Lên tới 22 Triệu VNĐ**
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
@@ -37,7 +37,7 @@ tags: [QC, tester, mobie app, fintech, moneylover ]
 - Thời gian làm việc: **8h30 - 18h00 Từ T2 đến T6, nghỉ T7 và Chủ nhật**. Công ty không có văn hóa OT.
 - Làm việc trong môi trường năng động, chuyên nghiệp. Có nhiều cơ hội phát triển, trải nghiệm và thử sai ở nhiều vị trí khác nhau.
 - Cung cấp trang thiết bị đầy đủ để phục vụ công việc.
-- Được đóng BHXH, BHYT, BHTH sau khi trở thành nhân viên chính thức.
+- Được đóng BHXH, BHYT, BHTN sau khi trở thành nhân viên chính thức.
 - Được hưởng các chính sách phúc lợi theo quy định của công ty và nhà nước.
 - Được đào tạo, nâng cao cùng các Leader nhiều năm kinh nghiệm trong ngành.
 - Được đề xuất thay đổi vị trí để trải nghiệm, nâng cao kiến thức kĩ năng của bản thân.
