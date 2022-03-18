@@ -46,7 +46,7 @@ Kinh nghiệm **tối thiểu 01 năm** về lập trình Android, đã từng s
 - Thời gian làm việc: **8h30 - 18h00 Từ T2 đến T6, nghỉ T7 và Chủ nhật**. Công ty không có văn hóa OT.
 - Làm việc trong môi trường năng động, chuyên nghiệp. Có nhiều cơ hội phát triển, trải nghiệm và thử sai ở nhiều vị trí khác nhau.
 - Cung cấp trang thiết bị đầy đủ để phục vụ công việc.
-- Được đóng BHXH, BHYT, BHTH sau khi trở thành nhân viên chính thức.
+- Được đóng BHXH, BHYT, BHTN sau khi trở thành nhân viên chính thức.
 - Được hưởng các chính sách phúc lợi theo quy định của công ty và nhà nước.
 - Được đào tạo, nâng cao cùng các Leader nhiều năm kinh nghiệm trong ngành.
 - Được đề xuất thay đổi vị trí để trải nghiệm, nâng cao kiến thức kĩ năng của bản thân.
