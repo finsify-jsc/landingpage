@@ -15,18 +15,12 @@ tags: [tester, QC, leader, mobie app, ]
 
 - Tham gia thiết kế, xây dựng sản phẩm nhằm mang lại trải nghiệm tốt nhất cho người dùng.
 - Chịu trách nhiệm về chất lượng phần mềm & sản phẩm
-- Lên kế hoạch kiểm thử sản phẩm
-- Xây dựng: Test design, Test scenarios, Test cases, Test script
-- Thực hiện kiểm thử chức năng, kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử tự động và kiểm thử hiệu năng
+- Lên kế hoạch và thực hiện kiểm thử sản phẩm
 - Phát hiện lỗi, log lỗi và quản lý lỗi trên hệ thống Quản lý lỗi, phối hợp với developer để sửa lỗi
-- Quản lý và viết báo cáo kiểm thử
-- Tiếp nhận, phản hồi và kiểm soát việc sửa lỗi đảm bảo phần mềm đạt chất lượng.
-- Tóm tắt các vấn đề phát sinh trong quá trình thực hiện dự án
-- Đưa ra phương án phân tích và cải thiện chất lượng sản phẩm và quy trinh chất lượng
-- Trao đổi, thảo luận, đề xuất, góp ý với các thành viên trong team góp phần hoàn thiện dự án.
+- Tiếp nhận, phản hồi, kiểm soát sửa lỗi và đưa ra phương án cải thiện chất lượng sản phẩm và quy trình chất lượng.
 - Thiết kế và ứng dụng Automation test
+- Quản lý và viết báo cáo kiểm thử
 - Quản lý đội nhóm
-
 
 ## B. Yêu cầu ứng viên
 
