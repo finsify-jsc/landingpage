@@ -15,7 +15,7 @@ tags: [Designer, ui-ux, fintech, moneylover ]
 - Thiết kế giao diện ứng dụng: xây dựng low & high fidelity wireframe, visual design và design prototype.
 - Xây dựng insight về user từ dữ liệu market, industry trends, competitive analysis & user experience research.
 - Phối hợp với các thành viên khác trong đội phát triển sản phẩm để đưa ra các sản phẩm chất lượng cao.
-- Đảm bảo chất lượng sản phẩm đưa ra đạt các yêu cầu về design
+- Đảm bảo chất lượng sản phẩm đưa ra đạt các yêu cầu về design.
  
 ## B. Yêu cầu ứng viên
 - Có đam mê, hứng thú và khả năng thiết kế UI, UX, đưa ra các ý tưởng hiệu quả cho người dùng. Có kinh nghiệm trong việc làm việc với dữ liệu, thực hiện user experience research và xây dựng user journey là một lợi thế.
@@ -32,7 +32,7 @@ tags: [Designer, ui-ux, fintech, moneylover ]
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
 
 ## D. Quyền lợi
-- Thời gian làm việc: **8h30 - 18h00 Từ T2 đến T6, nghỉ T7 và Chủ nhật**. Công ty không có văn hóa OT.
+- Thời gian làm việc: **8h30 - 18h00 Từ T2 đến T6, nghỉ T7 và Chủ nhật**. 
 - Làm việc trong môi trường năng động, chuyên nghiệp. Có nhiều cơ hội phát triển, trải nghiệm và thử sai ở nhiều vị trí khác nhau.
 - Cung cấp trang thiết bị đầy đủ để phục vụ công việc.
 - Được đóng BHXH, BHYT, BHTN sau khi trở thành nhân viên chính thức.
