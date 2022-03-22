@@ -38,7 +38,7 @@ Là một Product Owner, bạn sẽ chịu trách nhiệm trong việc làm vi�
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
 
 ## D. Quyền lợi
-- Thời gian làm việc: **8h30 - 18h00 Từ T2 đến T6, nghỉ T7 và Chủ nhật**. Công ty không có văn hóa OT.
+- Thời gian làm việc: **8h30 - 18h00 Từ T2 đến T6, nghỉ T7 và Chủ nhật**.
 - Làm việc trong môi trường năng động, chuyên nghiệp. Có nhiều cơ hội phát triển, trải nghiệm và thử sai ở nhiều vị trí khác nhau.
 - Cung cấp trang thiết bị đầy đủ để phục vụ công việc.
 - Được đóng BHXH, BHYT, BHTN sau khi trở thành nhân viên chính thức.
