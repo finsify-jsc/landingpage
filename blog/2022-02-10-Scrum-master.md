@@ -20,7 +20,7 @@ tags: [Scrum-master, fintech, moneylover ]
 - Quản lý action backlog và followup với các thành viên trong team để thực hiện các action từ các buổi Retrospective.
 
 ## B. Yêu cầu ứng viên
-- Có kinh nghiệm tối thiểu 1 năm tại vị trí Scrum Master
+- Có kinh nghiệm tối thiểu 1 năm tại vị trí Scrum Master.
 - Có khả năng tốt trong giao tiếp, mentorship và trong kỹ năng của một "servant leader".
 - Có khả năng tốt trong việc quản trị rủi ro, nhận thức vấn đề, giải quyết tranh chấp và tăng tính minh bạch trong công việc.
 **Ưu tiên: các bạn có chứng chỉ về Scrum Master (CSM, PSM I, A-CSM, PSM II)**
@@ -32,7 +32,7 @@ tags: [Scrum-master, fintech, moneylover ]
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
 
 ## D. Quyền lợi
-- Thời gian làm việc: **8h30 - 18h00 Từ T2 đến T6, nghỉ T7 và Chủ nhật**. Công ty không có văn hóa OT.
+- Thời gian làm việc: **8h30 - 18h00 Từ T2 đến T6, nghỉ T7 và Chủ nhật**. 
 - Làm việc trong môi trường năng động, chuyên nghiệp. Có nhiều cơ hội phát triển, trải nghiệm và thử sai ở nhiều vị trí khác nhau.
 - Cung cấp trang thiết bị đầy đủ để phục vụ công việc.
 - Được đóng BHXH, BHYT, BHTN sau khi trở thành nhân viên chính thức.
