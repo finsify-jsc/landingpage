@@ -13,11 +13,11 @@ tags: [tester, QC, leader, mobie app, ]
 
 ## A. Mô tả công việc
 
-- Tham gia thiết kế, xây dựng sản phẩm nhằm mang lại trải nghiệm tốt nhất cho người dùng.
+- Tham gia thiết kế, xây dựng sản phẩm nhằm mang lại trải nghiệm tốt nhất cho người dùng
 - Chịu trách nhiệm về chất lượng phần mềm & sản phẩm
 - Lên kế hoạch và thực hiện kiểm thử sản phẩm
 - Phát hiện lỗi, log lỗi và quản lý lỗi trên hệ thống Quản lý lỗi, phối hợp với developer để sửa lỗi
-- Tiếp nhận, phản hồi, kiểm soát sửa lỗi và đưa ra phương án cải thiện chất lượng sản phẩm và quy trình chất lượng.
+- Tiếp nhận, phản hồi, kiểm soát sửa lỗi và đưa ra phương án cải thiện chất lượng sản phẩm và quy trình chất lượng
 - Thiết kế và ứng dụng Automation test
 - Quản lý và viết báo cáo kiểm thử
 - Quản lý đội nhóm
@@ -45,7 +45,7 @@ tags: [tester, QC, leader, mobie app, ]
 
 ## D. Quyền lợi
 
-- Thời gian làm việc: **8h30 - 18h00 Từ T2 đến T6**, nghỉ T7 và Chủ nhật. Công ty không có văn hóa OT.
+- Thời gian làm việc: **8h30 - 18h00 Từ T2 đến T6**, nghỉ T7 và Chủ nhật.
 - Làm việc trong môi trường năng động, chuyên nghiệp. Có nhiều cơ hội phát triển, trải nghiệm và thử sai ở nhiều vị trí khác nhau.
 - Cung cấp trang thiết bị đầy đủ để phục vụ công việc.
 - Được đóng BHXH, BHYT, BHTN sau khi trở thành nhân viên chính thức.
