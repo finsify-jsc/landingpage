@@ -15,12 +15,12 @@ Chúng tôi đang tìm kiếm một Business Analyst cho nhóm phát triển s�
 Là một Business Analyst, bạn sẽ chịu trách nhiệm trong việc xây dựng user story và requirement để có thể triển khai các giải pháp cho các vấn đề của người dùng. Bạn sẽ là đầu mối giúp cho đội phát triển sản phẩm có thể hiểu rõ được các requirement cần xây dựng, và phối hợp với họ để có thể triển khai các requirement đó thành sản phẩm hoàn chỉnh. Bạn cũng sẽ hỗ trợ Product Owner trong các việc như đồng cảm với người dùng, xây dựng và quản lý các user story. Hiểu về người dùng sẽ giúp bạn xây dựng ra các user story và requirement thực sự đáp ứng được nhu cầu của họ. Đây cũng sẽ là một lợi thế nếu bạn có dự định thử sức mình ở vị trí Product Owner tại Money Lover.
 
 ## A. Mô tả công việc
-- Làm việc trực tiếp với những người sáng lập để lên kế hoạch cho các tính năng / cải tiến của sản phẩm.
+- Làm việc trực tiếp với những người sáng lập để lên kế hoạch cho các tính năng/ cải tiến của sản phẩm.
 - Làm việc với các bộ phận khác để đưa ra các giải pháp khả thi, phân tích ưu và nhược điểm để so sánh và chọn giải pháp phù hợp nhất.
 - Xây dựng requirement chi tiết và làm rõ requirement cho đội phát triển sản phẩm và các stakeholder khác để có thể triển khai thành sản phẩm hoàn chỉnh.
 - Tiến hành nghiên cứu người dùng bằng cách sử dụng các kỹ thuật khảo sát và phỏng vấn người dùng để đồng cảm và hiểu các vấn đề của người dùng.
 - Tạo thông tin chi tiết từ phản hồi của người dùng và kết quả nghiên cứu của người dùng.
-- Xác thực giải pháp với người dùng bằng cách sử dụng mockups, prototypes, hoặc thuyết trình.
+- Xác thực giải pháp với người dùng bằng cách sử dụng mockups, prototypes hoặc thuyết trình.
 
 ## B. Yêu cầu ứng viên
 - Có kinh nghiệm **ít nhất 01 năm** trong với vị trí BA trong công ty công nghệ.
