@@ -29,12 +29,12 @@ Là một Business Analyst, bạn sẽ chịu trách nhiệm trong việc xây d
 - Có khả năng nghiên cứu tài liệu bằng tiếng Anh.
 - Biết sử dụng các công cụ thiết kế mockup, prototype & UML.
 - Kỹ năng khác:
-   + Có khả năng làm việc độc lập hoặc theo nhóm, chịu được áp lực trong công việc.
-   + Khả năng giao tiếp với team tốt.
-   + Tư duy logic tốt, nhanh nhẹn, có khả năng thu thập, tổng hợp, phân tích thông tin.
-   + Có khả năng viết tài liệu và trình bày vấn đề tốt.
-   + Cẩn thận, trách nhiệm trong công việc.
-   + Có kinh nghiệm phân tích trải nghiệm người dùng là 1 lợi thế.
+   - Có khả năng làm việc độc lập hoặc theo nhóm, chịu được áp lực trong công việc.
+   - Khả năng giao tiếp với team tốt.
+   - Tư duy logic tốt, nhanh nhẹn, có khả năng thu thập, tổng hợp, phân tích thông tin.
+   - Có khả năng viết tài liệu và trình bày vấn đề tốt.
+   - Cẩn thận, trách nhiệm trong công việc.
+   - Có kinh nghiệm phân tích trải nghiệm người dùng là 1 lợi thế.
 
 ## C. Thu nhập
 
