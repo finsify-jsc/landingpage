@@ -15,9 +15,9 @@ Chúng tôi đang tìm kiếm một Android Leader cho nhóm phát triển sản
 Là một Android Leader, bạn sẽ chịu trách nhiệm phát triển sản phẩm android, trao đổi hướng dẫn team, giúp cho đội phát triển sản phẩm Android có thể triển khai vào sản phẩm thực tế, từ đó đem lại giá trị cho hàng triệu người dùng.
 
 ## A. Mô tả công việc
-Tham gia trực tiếp phát triển phiên bản Android sản phẩm ML và hệ sinh thái ML.
-Thảo luận, xây dựng và cải thiện ứng dụng hàng triệu người dùng.
-Thiết kế, xây dựng các component mới.
+- Tham gia trực tiếp phát triển phiên bản Android sản phẩm ML và hệ sinh thái ML.
+- Thảo luận, xây dựng và cải thiện ứng dụng hàng triệu người dùng.
+- Thiết kế, xây dựng các component mới.
 
 
 ## B. Yêu cầu ứng viên
