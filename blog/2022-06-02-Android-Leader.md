@@ -12,7 +12,7 @@ tags: [ Android Leader, fintech, moneylover ]
 ---
 Chúng tôi đang tìm kiếm một Android Leader cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.
 
-Là một Android Leader, bạn sẽ chịu trách nhiệm phát triển sản phẩm android, trao đổi hướng dẫn team, giúp cho đội phát triển sản phẩm Android có thể triển khai vào sản phẩm thực tế, từ đó đem lại giá trị cho hàng triệu người dùng.
+Là một Android Leader, bạn sẽ chịu trách nhiệm phát triển sản phẩm, trao đổi hướng dẫn team, giúp cho đội phát triển sản phẩm Android có thể triển khai vào sản phẩm thực tế, từ đó đem lại giá trị cho hàng triệu người dùng.
 
 ## A. Mô tả công việc
 - Tham gia trực tiếp phát triển phiên bản Android sản phẩm ML và hệ sinh thái ML.
