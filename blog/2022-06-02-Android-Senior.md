@@ -1,5 +1,5 @@
 ---
-slug: android- Senior 
+slug: android- senior 
 title: Android Senior
 position: Chuyên viên lập trình Android
 salary: Lên tới 30 Triệu VNĐ
@@ -7,12 +7,12 @@ net: true
 workTime: true
 experience: 3 Năm
 deadline: 20/08/2022
-link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Android+Leader
-tags: [ Android Leader, fintech, moneylover ]
+link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Android+Senior
+tags: [ Android Senior, fintech, moneylover ]
 ---
 Chúng tôi đang tìm kiếm một Android Senior cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.
 
-Là một Android Senior, bạn sẽ chịu trách nhiệm phát triển sản phẩm, trao đổi và hướng dẫn team, giúp thành viên trong đội phát triển sản phẩm Android có thể triển khai vào sản phẩm thực tế, từ đó đem lại giá trị cho hàng triệu người dùng.
+Là một Android Senior, bạn sẽ chịu trách nhiệm phát triển sản phẩm, trao đổi và đôi khi hướng dẫn team, giúp thành viên trong đội phát triển sản phẩm Android, có thể triển khai vào sản phẩm thực tế, từ đó đem lại giá trị cho hàng triệu người dùng.
 
 ## A. Mô tả công việc
 - Tham gia trực tiếp phát triển phiên bản Android sản phẩm ML và hệ sinh thái ML.
