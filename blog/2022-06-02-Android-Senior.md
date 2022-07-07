@@ -1,5 +1,5 @@
 ---
-slug: android- senior 
+slug: android-senior 
 title: Android Senior
 position: Chuyên viên lập trình Android
 salary: Lên tới 28 Triệu VNĐ
