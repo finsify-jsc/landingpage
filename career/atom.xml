@@ -9,11 +9,11 @@
     <icon>https://landy.moneylover.me/img/favicon.ico</icon>
     <rights>Copyright © 2022 Blogasaurus by Palash Shrivastava</rights>
     <entry>
-        <title type="html"><![CDATA[Android Leader]]></title>
-        <id>android-leader-team</id>
-        <link href="https://landy.moneylover.me/career/android-leader-team"/>
+        <title type="html"><![CDATA[Android Senior]]></title>
+        <id>android- Senior</id>
+        <link href="https://landy.moneylover.me/career/android- Senior"/>
         <updated>2022-06-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chúng tôi đang tìm kiếm một Android Leader cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></summary>
+        <summary type="html"><![CDATA[Chúng tôi đang tìm kiếm một Android Senior cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Product Owner]]></title>
@@ -58,13 +58,6 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lập trình viên IOS]]></title>
-        <id>ios-developer</id>
-        <link href="https://landy.moneylover.me/career/ios-developer"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scrum Master]]></title>
         <id>scrum-master</id>
         <link href="https://landy.moneylover.me/career/scrum-master"/>
@@ -82,6 +75,13 @@
         <title type="html"><![CDATA[Lập trình viên Backend (NodeJS)]]></title>
         <id>backend-developer</id>
         <link href="https://landy.moneylover.me/career/backend-developer"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lập trình viên IOS]]></title>
+        <id>ios-developer</id>
+        <link href="https://landy.moneylover.me/career/ios-developer"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>

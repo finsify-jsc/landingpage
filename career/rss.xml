@@ -9,11 +9,11 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2022 Blogasaurus by Palash Shrivastava</copyright>
         <item>
-            <title><![CDATA[Android Leader]]></title>
-            <link>https://landy.moneylover.me/career/android-leader-team</link>
-            <guid>android-leader-team</guid>
+            <title><![CDATA[Android Senior]]></title>
+            <link>https://landy.moneylover.me/career/android- Senior</link>
+            <guid>android- Senior</guid>
             <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Chúng tôi đang tìm kiếm một Android Leader cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></description>
+            <description><![CDATA[Chúng tôi đang tìm kiếm một Android Senior cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></description>
         </item>
         <item>
             <title><![CDATA[Product Owner]]></title>
@@ -58,13 +58,6 @@
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
         <item>
-            <title><![CDATA[Lập trình viên IOS]]></title>
-            <link>https://landy.moneylover.me/career/ios-developer</link>
-            <guid>ios-developer</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[A. Mô tả công việc]]></description>
-        </item>
-        <item>
             <title><![CDATA[Scrum Master]]></title>
             <link>https://landy.moneylover.me/career/scrum-master</link>
             <guid>scrum-master</guid>
@@ -82,6 +75,13 @@
             <title><![CDATA[Lập trình viên Backend (NodeJS)]]></title>
             <link>https://landy.moneylover.me/career/backend-developer</link>
             <guid>backend-developer</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[A. Mô tả công việc]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Lập trình viên IOS]]></title>
+            <link>https://landy.moneylover.me/career/ios-developer</link>
+            <guid>ios-developer</guid>
             <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
