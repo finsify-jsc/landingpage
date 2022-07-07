@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[2975],{2151:function(e){e.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"android-leader","name":"android leader","count":1,"permalink":"/vi/career/tags/android-leader"}')}}]);
