@@ -2,7 +2,7 @@
 slug: android- senior 
 title: Android Senior
 position: Chuyên viên lập trình Android
-salary: Lên tới 30 Triệu VNĐ
+salary: Lên tới 28 Triệu VNĐ
 net: true
 workTime: true
 experience: 3 Năm
@@ -30,7 +30,7 @@ Là một Android Senior, bạn sẽ chịu trách nhiệm phát triển sản p
 - Có khả năng đọc/hiểu tài liệu tiếng anh
 
 ## C. Thu nhập
-- Thu nhập CẠNH TRANH : **Lên tới 30 Triệu VNĐ**
+- Thu nhập CẠNH TRANH : **Lên tới 28 Triệu VNĐ**
 - Xét thưởng hiệu suất làm việc, tháng lương 13.
 - Xét tăng lương 3 - 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
