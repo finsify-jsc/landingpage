@@ -21,7 +21,7 @@ Là một Android Senior, bạn sẽ chịu trách nhiệm phát triển sản p
 
 
 ## B. Yêu cầu ứng viên
-- Có kinh nghiệm phát triển sản phẩm android từ 2 năm trở lên.
+- Có kinh nghiệm phát triển sản phẩm android từ 3 năm trở lên.
 - Có kinh nghiệm phát triển sản phẩm android dựa trên hệ sinh thái android. Ví dụ: Android SDK, SQLite Helper, Coroutine, Services ...
 - Có kinh nghiệm tích hợp Google Play, Billing
 - Am hiểu về các Design Patterns, sử dụng thành tạo các architecture như MVVM, MVP, VIPER...
