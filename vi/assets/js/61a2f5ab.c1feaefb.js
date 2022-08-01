@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[4296],{2285:function(a){a.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"digital-marketing","name":"digital marketing","count":1,"permalink":"/vi/career/tags/digital-marketing"}')}}]);
