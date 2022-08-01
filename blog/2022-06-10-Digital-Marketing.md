@@ -9,10 +9,10 @@ experience: 1 Năm
 deadline: 20/09/2022
 link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Digital+Marketing
 tags: [ Digital Marketing, fintech, moneylover ]
-
+---
 Chúng tôi đang tìm kiếm một Digital Marketing cho nhóm kinh doanh sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.
 Là một Digital Marketing, bạn sẽ được tham gia các đề án xây dựng chiến lược phát triển Moneyover từ đó đem lại giá trị cho hàng triệu người dùng.
----
+
 ## A. Mô tả công việc
 - Tham gia xây dựng chiến lược Marketing cho nhóm khách hàng quốc tế của Money Lover
 - Nghiên cứu các thủ thuật growth hack để tiếp cận người dùng mới và tăng tương tác với sản phẩm
