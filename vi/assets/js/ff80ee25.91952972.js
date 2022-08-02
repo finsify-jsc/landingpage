@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[177],{5009:function(e){e.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"node-js","name":"nodejs","count":2,"permalink":"/vi/career/tags/node-js"}')}}]);
