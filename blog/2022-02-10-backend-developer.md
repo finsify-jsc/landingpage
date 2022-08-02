@@ -1,14 +1,14 @@
 ---
 slug: backend-developer
-title: Lập trình viên Backend (NodeJS)
-position: Lập trình viên Backend (NodeJS)
+title: Lập trình viên Backend (Javascript ES6)
+position: Lập trình viên Backend (Javascript ES6)
 salary: Không giới hạn
 net: true
 workTime: true
 experience: 1 Năm
-deadline: 20/02/2022
+deadline: 20/09/2022
 link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=L%E1%BA%ADp+tr%C3%ACnh+vi%C3%AAn+Backend
-tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
+tags: [Backend, BE, dev, Javascript ES6, fintech, moneylover ]
 ---
 
 ## A. Mô tả công việc
@@ -33,7 +33,7 @@ tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
 - Có kinh nghiệm sử dụng và giải quyết vấn đề với hệ thống Linux
 - Sử dụng tốt Docker và hiểu biết về Container
 - Hiểu biết sâu về cấu trúc dữ liệu, cơ sở dữ liệu và các nguyên tắc cơ bản của khoa học máy tính
-- Có kinh nghiệm 2 năm thiết kế và xây dựng hệ thống RESTful API bằng Nodejs
+- Có kinh nghiệm 2 năm thiết kế và xây dựng hệ thống RESTful API bằng Javascript ES6
 - Hiểu biết sâu về các framework Koajs, Connectjs...
 - Làm việc tốt với các database Postgres, MongoDB
 - Kết nối và xử lý message với RabbitMQ
@@ -45,14 +45,20 @@ tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
 
 ## E. Quyền lợi
-- Thời gian làm việc: **8h30 - 18h00 Từ T2 đến T6, nghỉ T7 và Chủ nhật**.
-- Làm việc trong môi trường năng động, chuyên nghiệp. Có nhiều cơ hội phát triển, trải nghiệm và thử sai ở nhiều vị trí khác nhau.
-- Cung cấp trang thiết bị đầy đủ để phục vụ công việc.
-- Được đóng BHXH, BHYT, BHTN sau khi trở thành nhân viên chính thức.
-- Được hưởng các chính sách phúc lợi theo quy định của công ty và nhà nước.
-- Được đào tạo, nâng cao cùng các Leader nhiều năm kinh nghiệm trong ngành.
-- Được đề xuất thay đổi vị trí để trải nghiệm, nâng cao kiến thức kĩ năng của bản thân.
-- Tham gia khám phá những vùng đất mới 01 lần/năm.
-- Tham gia teambuilding, du xuân, tết hàn thực, Phá cỗ rước đèn, lễ hội halloween, olympic mùa đông, giáng sinh, cắm trại, tham gia cùng các CLB trong công ty như: Đá bóng, văn nghệ… và Party công ty 2 lần/1 tháng ăn uống thả ga.
+- Về thời gian làm việc, nghỉ phép, chế độ remote:
+
+  - Thời gian làm việc: 8h30 - 18h00 Từ T2 đến T6, (nghỉ T7 và Chủ nhật.)
+  - Có 12 ngày phép / năm, sau 1 năm thâm niên sẽ được +1 ngày vào tổng ngày phép.
+  - Chế độ 36 ngày remote/ năm giúp nhân viên thay đổi môi trường không khí làm việc.
+  - Đối với các ngày đặc biệt như hiếu hỉ, sẽ có 5 ngày nghỉ phép hưởng lương (ko tính vào số phép năm).
+- Về các phúc lợi khác:
+
+  - Được cung cấp trang thiết bị đầy đủ để phục vụ công việc.
+  - Được đóng BHXH, BHYT, BHTN sau khi trở thành nhân viên chính thức, nhân đôi mức đóng sau 3 năm làm việc.
+  - Được hưởng các chính sách phúc lợi theo quy định của công ty và nhà nước.
+  - Được đào tạo, nâng cao cùng Leader nhiều năm kinh nghiệm trong ngành.
+  - Được đề xuất thay đổi vị trí để trải nghiệm, nâng cao kiến thức kĩ năng của bản thân.
+  - Tham gia khám phá những vùng đất mới 01 lần/năm.
+  - Tham gia teambuilding, du xuân, tết hàn thực, Phá cỗ rước đèn, lễ hội halloween, olympic mùa đông, giáng sinh, cắm trại, tham gia cùng các CLB trong công ty như: Đá bóng, văn nghệ… và Party công ty 2 lần/1 tháng ăn uống thả ga.
 
 
