@@ -30,6 +30,13 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lập trình viên Backend (Javascript ES6)]]></title>
+        <id>backend-developer</id>
+        <link href="https://landy.moneylover.me/vi/career/backend-developer"/>
+        <updated>2022-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Product Owner]]></title>
         <id>product-owner</id>
         <link href="https://landy.moneylover.me/vi/career/product-owner"/>
@@ -72,13 +79,6 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Product Designer]]></title>
-        <id>ui-ux-designer</id>
-        <link href="https://landy.moneylover.me/vi/career/ui-ux-designer"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scrum Master]]></title>
         <id>scrum-master</id>
         <link href="https://landy.moneylover.me/vi/career/scrum-master"/>
@@ -86,9 +86,9 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lập trình viên Backend (Javascript ES6)]]></title>
-        <id>backend-developer</id>
-        <link href="https://landy.moneylover.me/vi/career/backend-developer"/>
+        <title type="html"><![CDATA[Product Designer]]></title>
+        <id>ui-ux-designer</id>
+        <link href="https://landy.moneylover.me/vi/career/ui-ux-designer"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
