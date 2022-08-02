@@ -22,7 +22,7 @@ tags: [Backend, BE, dev, Javascript ES6, fintech, moneylover ]
 ## B. Yêu cầu ứng viên
 - Đọc hiểu tài liệu tiếng anh chuyên ngành
 - Có khả năng làm việc độc lập và theo nhóm 
-- phá công nghệ với và giải quyết các thách thức về công nghệ
+- Khám phá công nghệ mới và giải quyết các thách thức về công nghệ
 - Có hiểu biết tốt về HTTP protocol
 - Có kinh nghiệm với việc xử lý hiệu suất của Web Server, xử lý đồng thời lớn và caching
 - Ứng dụng tốt OOP, FRP và các design pattern
