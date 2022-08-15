@@ -2,7 +2,7 @@
 slug: android-senior 
 title: Android Senior
 position: Chuyên viên lập trình Android
-salary:Lương không giới hạn 
+salary: Lương không giới hạn 
 net: true
 workTime: true
 experience: 2 Năm
