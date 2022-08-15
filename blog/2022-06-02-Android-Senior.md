@@ -2,10 +2,10 @@
 slug: android-senior 
 title: Android Senior
 position: Chuyên viên lập trình Android
-salary: Lên tới 28 Triệu VNĐ
+salary:Lương không giới hạn 
 net: true
 workTime: true
-experience: 3 Năm
+experience: 2 Năm
 deadline: 20/08/2022
 link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Android+Senior
 tags: [ Android Senior, fintech, moneylover ]
@@ -21,7 +21,7 @@ Là một Android Senior, bạn sẽ chịu trách nhiệm phát triển sản p
 
 
 ## B. Yêu cầu ứng viên
-- Có kinh nghiệm phát triển sản phẩm android từ 3 năm trở lên.
+- Có kinh nghiệm phát triển sản phẩm android từ 2 năm trở lên.
 - Có kinh nghiệm phát triển sản phẩm android dựa trên hệ sinh thái android. Ví dụ: Android SDK, SQLite Helper, Coroutine, Services ...
 - Có kinh nghiệm tích hợp Google Play, Billing
 - Am hiểu về các Design Patterns, sử dụng thành tạo các architecture như MVVM, MVP, VIPER...
@@ -30,7 +30,7 @@ Là một Android Senior, bạn sẽ chịu trách nhiệm phát triển sản p
 - Có khả năng đọc/hiểu tài liệu tiếng anh
 
 ## C. Thu nhập
-- Thu nhập CẠNH TRANH : **Lên tới 28 Triệu VNĐ**
+- **Thu nhập CẠNH TRANH không giới hạn tùy theo năng lực.**
 - Xét thưởng hiệu suất làm việc, tháng lương 13.
 - Xét tăng lương 3 - 6 tháng/ lần.
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
