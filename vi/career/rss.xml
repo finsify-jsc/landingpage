@@ -4,10 +4,17 @@
         <title>MoneyLover Blog</title>
         <link>https://landy.moneylover.me/career</link>
         <description>MoneyLover Blog</description>
-        <lastBuildDate>Fri, 10 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2022 Blogasaurus by Palash Shrivastava</copyright>
+        <item>
+            <title><![CDATA[Intern Tester]]></title>
+            <link>https://landy.moneylover.me/vi/career/intern-tester</link>
+            <guid>intern-tester</guid>
+            <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[A. Mô tả công việc]]></description>
+        </item>
         <item>
             <title><![CDATA[Digital Marketing]]></title>
             <link>https://landy.moneylover.me/vi/career/digital-marketing</link>

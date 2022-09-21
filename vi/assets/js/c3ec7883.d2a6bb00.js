@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[4205],{4814:function(e){e.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"interntester","name":"interntester","count":1,"permalink":"/vi/career/tags/interntester"}')}}]);
