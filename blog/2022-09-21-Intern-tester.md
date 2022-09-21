@@ -31,7 +31,7 @@ tags: [ interntester, fintech, moneylover ]
   - Có khả năng làm việc độc lập và làm việc theo nhóm.
 
 ## C. Thu nhập và quyền lợi: 
-- Thu nhập: khoảng từ ** 2tr - 5trVND** và có cơ hội trở thành nhân viên chính thức.
+- Thu nhập: khoảng từ **2tr - 5trVND** và có cơ hội trở thành nhân viên chính thức.
 - Xét thưởng học tập, thưởng cải tiến
 - Thời gian làm việc: 8h30 - 18h00 Từ T2 đến T6, (nghỉ T7 và Chủ nhật.)
 - Chế độ 36 ngày remote/ năm giúp nhân viên thay đổi môi trường không khí làm việc.
