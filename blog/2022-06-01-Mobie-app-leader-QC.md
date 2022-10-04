@@ -6,7 +6,7 @@ salary: Lương cao
 net: true
 workTime: true
 experience: 1 Năm
-deadline: 20/02/2022
+deadline: 20/02/2023
 link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Tr%C6%B0%E1%BB%9Fng+nh%C3%B3m+ki%E1%BB%83m+th%E1%BB%AD+(Leader+QC/Tester)
 tags: [tester, QC, leader, mobie app, ]
 ---
