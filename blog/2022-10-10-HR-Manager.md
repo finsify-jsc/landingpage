@@ -10,8 +10,8 @@ deadline: 20/03/2023
 link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=HR+manager
 tags: [HRM, HR Manager, fintech, moneylover ]
 ---
-Chúng tôi đang tìm kiếm một Trưởng phòng HCNS (HR manager) cho công ty cổ phần Finsify, nhà phát triển Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu.
-Công việc của HR manager có đóng góp quan trọng đối với sự phát triển & thành công của công ty. Nhân viên là tài sản quan trọng nhất của chúng tôi và nhiệm vụ của bạn sẽ là người đảm bảo chúng tôi có một nơi làm việc vui vẻ và hiệu quả, nơi mọi người đều làm việc vì sứ mệnh và mục tiêu đã thiết lập của chúng tôi. Thúc đẩy các giá trị của công ty và định hình một nền văn hóa tích cực là một khía cạnh quan trọng của một bản mô tả công việc và nhiệm vụ của giám đốc nhân sự hoàn chỉnh.
+Chúng tôi đang tìm kiếm một Trưởng phòng HCNS (HR manager) cho công ty cổ phần Finsify - nhà phát triển Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu.
+Công việc của HR manager có đóng góp quan trọng đối với sự phát triển & thành công của công ty. Nhân viên là tài sản quan trọng nhất của chúng tôi và nhiệm vụ của bạn sẽ là người đảm bảo Finsify có một nơi làm việc vui vẻ và hiệu quả, nơi mọi người đều làm việc vì sứ mệnh và mục tiêu đã thiết lập của công ty. Thúc đẩy các giá trị của công ty và xây dựng nền văn hóa tích cực, từ đó mang lại hạnh phúc cho toàn bộ nhân viên công ty.
 
 ## A. Mô tả công việc
 - Set up, quản lý phòng HCNS, điều hành thực hiện các công việc thuộc chức năng nhiệm vụ của phòng HCNS.
