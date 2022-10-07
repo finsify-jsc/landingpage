@@ -5,7 +5,7 @@ position: Trưởng phòng nhân sự
 salary: Lên tới 30 Triệu VNĐ
 net: true
 workTime: true
-experience: 2 Năm
+experience: 5 Năm
 deadline: 20/03/2023
 link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=HR+manager
 tags: [HRM, HR Manager, fintech, moneylover ]
