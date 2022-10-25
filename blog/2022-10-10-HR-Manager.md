@@ -34,7 +34,10 @@ Công việc của HR manager có đóng góp quan trọng đối với sự ph�
 - Trình độ văn hoá: Tốt nghiệp Đại học trở lên, ngành Quản trị nguồn nhân lực
 - Nắm vững các nghiệp vụ Hành chính - Nhân sự
 - Nắm vững Luật lao động và các bộ luật liên quan
-- Có kinh nghiệm từ 5 năm trở lên trong nghề HCNS. **Ưu tiên**: ứng viên đã từng làm ở các công ty về **công nghệ thông tin**.
+- Có kinh nghiệm từ 5 năm trở lên trong nghề HCNS, có độ tuổi trong khoảng năm sinh 8x-9x. 
+- Ứng viên hoạt bát, vui vẻ, nhiều năng lượng, luôn thích đặt thử thách cho bản thân và vượt qua chính mình.
+- Ứng viên thẳng thắn, nhiệt huyết và có trách nhiệm công việc cao.
+- **Ưu tiên**: Ứng viên đã từng làm ở các công ty về **công nghệ thông tin** hoặc có sở thích làm HRM tại doanh nghiệp SME quy mô 20 - 40 người.
 
 
 ## C. Thu nhập
