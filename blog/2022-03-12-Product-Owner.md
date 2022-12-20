@@ -6,7 +6,7 @@ salary: Lên tới 35 Triệu VNĐ
 net: true
 workTime: true
 experience: 2 Năm
-deadline: 20/03/2022
+deadline: 20/03/2023
 link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Product+Owner
 tags: [PO, Product Owner, fintech, moneylover ]
 ---
