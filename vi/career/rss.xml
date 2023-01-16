@@ -4,10 +4,24 @@
         <title>MoneyLover Blog</title>
         <link>https://landy.moneylover.me/career</link>
         <description>MoneyLover Blog</description>
-        <lastBuildDate>Thu, 02 Feb 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2023 Blogasaurus by Palash Shrivastava</copyright>
+        <item>
+            <title><![CDATA[Android Senior]]></title>
+            <link>https://landy.moneylover.me/vi/career/android-senior</link>
+            <guid>android-senior</guid>
+            <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Chúng tôi đang tìm kiếm một Android Senior cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Lập trình viên Android]]></title>
+            <link>https://landy.moneylover.me/vi/career/android-developer</link>
+            <guid>android-developer</guid>
+            <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[A. Mô tả công việc]]></description>
+        </item>
         <item>
             <title><![CDATA[Lập trình viên Backend (Javascript ES6)]]></title>
             <link>https://landy.moneylover.me/vi/career/backend-developer</link>
@@ -35,13 +49,6 @@
             <guid>digital-marketing</guid>
             <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Chúng tôi đang tìm kiếm một Digital Marketing cho nhóm kinh doanh sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Android Senior]]></title>
-            <link>https://landy.moneylover.me/vi/career/android-senior</link>
-            <guid>android-senior</guid>
-            <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Chúng tôi đang tìm kiếm một Android Senior cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></description>
         </item>
         <item>
             <title><![CDATA[Trưởng nhóm QC]]></title>
@@ -79,13 +86,6 @@
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
         <item>
-            <title><![CDATA[Lập trình viên Android]]></title>
-            <link>https://landy.moneylover.me/vi/career/android-developer</link>
-            <guid>android-developer</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[A. Mô tả công việc]]></description>
-        </item>
-        <item>
             <title><![CDATA[Lập trình viên IOS]]></title>
             <link>https://landy.moneylover.me/vi/career/ios-developer</link>
             <guid>ios-developer</guid>
@@ -93,16 +93,16 @@
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
         <item>
-            <title><![CDATA[Scrum Master]]></title>
-            <link>https://landy.moneylover.me/vi/career/scrum-master</link>
-            <guid>scrum-master</guid>
+            <title><![CDATA[Product Designer]]></title>
+            <link>https://landy.moneylover.me/vi/career/ui-ux-designer</link>
+            <guid>ui-ux-designer</guid>
             <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
         <item>
-            <title><![CDATA[Product Designer]]></title>
-            <link>https://landy.moneylover.me/vi/career/ui-ux-designer</link>
-            <guid>ui-ux-designer</guid>
+            <title><![CDATA[Scrum Master]]></title>
+            <link>https://landy.moneylover.me/vi/career/scrum-master</link>
+            <guid>scrum-master</guid>
             <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
