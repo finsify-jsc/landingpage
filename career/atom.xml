@@ -23,6 +23,13 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Product Owner]]></title>
+        <id>product-owner</id>
+        <link href="https://landy.moneylover.me/career/product-owner"/>
+        <updated>2023-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chúng tôi đang tìm kiếm một Product Owner cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lập trình viên Backend (Javascript ES6)]]></title>
         <id>backend-developer</id>
         <link href="https://landy.moneylover.me/career/backend-developer"/>
@@ -58,13 +65,6 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Product Owner]]></title>
-        <id>product-owner</id>
-        <link href="https://landy.moneylover.me/career/product-owner"/>
-        <updated>2022-03-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chúng tôi đang tìm kiếm một Product Owner cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Business Analyst]]></title>
         <id>business-Analyst</id>
         <link href="https://landy.moneylover.me/career/business-Analyst"/>
@@ -86,13 +86,6 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lập trình viên IOS]]></title>
-        <id>ios-developer</id>
-        <link href="https://landy.moneylover.me/career/ios-developer"/>
-        <updated>2022-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scrum Master]]></title>
         <id>scrum-master</id>
         <link href="https://landy.moneylover.me/career/scrum-master"/>
@@ -103,6 +96,13 @@
         <title type="html"><![CDATA[Product Designer]]></title>
         <id>ui-ux-designer</id>
         <link href="https://landy.moneylover.me/career/ui-ux-designer"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lập trình viên IOS]]></title>
+        <id>ios-developer</id>
+        <link href="https://landy.moneylover.me/career/ios-developer"/>
         <updated>2022-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
