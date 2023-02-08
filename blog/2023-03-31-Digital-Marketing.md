@@ -2,7 +2,7 @@
 slug: digital-marketing 
 title: Digital Marketing
 position: Nhân viên Digital Marketing
-salary: Lên tới 20 Triệu VNĐ
+salary: Lên tới 25 Triệu VNĐ
 net: true
 workTime: true
 experience: 1 Năm
