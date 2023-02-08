@@ -41,7 +41,7 @@ Là một Digital Marketing, bạn sẽ được tham gia các đề án xây d�
 **- Về thời gian làm việc, nghỉ phép, chế độ remote:**
 - Thời gian làm việc: 8h30 - 18h00 Từ T2 đến T6, (nghỉ T7 và Chủ nhật.)
 - Có 12 ngày phép / năm, sau 1 năm thâm niên sẽ được +1 ngày vào tổng ngày phép. 
-- Chế độ 36 ngày remote/ năm giúp nhân viên thay đổi môi trường không khí làm việc.
+- Chế độ 12 ngày remote/ năm giúp nhân viên thay đổi môi trường không khí làm việc.
 - Đối với các ngày đặc biệt như hiếu hỉ, sẽ có 5 ngày nghỉ phép hưởng lương (ko tính vào số phép năm).
  
 **- Về các phúc lợi khác:**
