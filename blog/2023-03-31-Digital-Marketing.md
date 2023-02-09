@@ -2,7 +2,7 @@
 slug: digital-marketing 
 title: Digital Marketing
 position: Nhân viên Digital Marketing
-salary: Lên tới 25 Triệu VNĐ
+salary: Lên tới 15 Triệu VNĐ
 net: true
 workTime: true
 experience: 1 Năm
@@ -32,7 +32,7 @@ Là một Digital Marketing, bạn sẽ được tham gia các đề án xây d�
 - Tiếng Anh tốt
 
 ## C. Thu nhập
-- Thu nhập CẠNH TRANH : Lên tới 20tr VNĐ - Lương Net
+- Thu nhập CẠNH TRANH : Lên tới 15tr VNĐ - Lương Net
 - Xét thưởng hiệu suất, tháng lương 13, thưởng tri ân nhân viên, thưởng học tập, thưởng cải tiến
 - Xét tăng lương 3 - 6 tháng/ lần.
 
