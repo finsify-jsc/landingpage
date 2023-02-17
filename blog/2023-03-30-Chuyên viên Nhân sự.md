@@ -1,5 +1,5 @@
 ---
-slug: chuyên-viên-nhân-sự 
+slug: chuyen-vien-nhan-su
 title: Chuyên viên nhân sự
 position: Chuyên viên Nhân sự
 salary: Lên tới 15 Triệu VNĐ
