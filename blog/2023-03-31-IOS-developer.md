@@ -18,11 +18,9 @@ tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
 - Nghiên cứu và ứng dụng công nghệ mới cho việc phát triển sản phẩm.
 
 ## B. Yêu cầu ứng viên
-- Có kinh nghiệm làm việc với ngôn ngữ objective-c.
-- Có hiểu biết về cơ sở dữ liệu sqlite, các thư viện làm việc với network như AFNetworking, RestKit.
-- Điểm cộng nếu biết và đã từng làm dự án với ngôn ngữ Swift.
-- Khả năng tìm hiểu, làm việc độc lập cũng như làm việc nhóm tốt.
-- Biết và thích chơi thể thao là lợi thế.
+- Có kinh nghiệm làm việc với ngôn ngữ: swift, objective c
+- Có hiểu biết về cơ sở dữ liệu sqlite, các thư viện làm việc với network như Moya, AFNetworking, Alamofire.
+- Điểm cộng nếu biết, đã từng làm dự án với RxSwift
 
 ## D. Thu nhập
 - Thu nhập CẠNH TRANH : **Không giới hạn tùy theo năng lực**
