@@ -6,26 +6,31 @@ salary: Lên tới 15 Triệu VNĐ
 net: true
 workTime: true
 experience: 2 năm trở lên
-deadline: 31/03/2023
+deadline: 01/03/2023
 link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Chuy%C3%AAn+vi%C3%AAn+Nh%C3%A2n+s%E1%BB%B1
 tags: [ Senior HR, fintech, moneylover ]
 ---
 
 **A. Mô tả công việc**
-- Thực hiện các công việc liên quan đến quy trình tuyển dụng, nhân sự;
-- Tạo nguồn ứng viên, Truyền thông, thu hút ứng viên trên tất cả các kênh cần thiết;
-- Tham gia vào xây dựng văn hoá doanh nghiệp; 
-- Thực hiện các công việc hành chính, chấm công tính lương.
-- Phối hợp với kế toán để hoàn thành các thủ tục hành chính như hợp đồng, bảo hiểm.
+- Thực hiện công tác tuyển dụng và truyền thông nội bộ
+- Thực hiện công tác tính lương, thưởng và các chế độ phúc lợi
+- Thực hiện các thủ tục BHXH cho người lao động
+- Quản lý hồ sơ nhân sự, HĐLĐ, quyết định “…” và văn bản chính sách nội bộ của công ty
+- Hỗ trợ thực hiện các hoạt động về quan hệ lao động; giải đáp các thắc mắc của nhân viên về các chính sách, chế độ của công ty
+- Thực hiện các công việc được giao nhằm đáp ứng mục tiêu của phòng
 
 **B. Yêu cầu ứng viên**
-- Có ít nhất 01 năm kinh nghiệm trong lĩnh vực nhân sự: tuyển dụng, xây dựng văn hoá và quy trình nội bộ
-- Cẩn thận, ham học hỏi và yêu thích lĩnh vực nhân sự và quản trị con người
-- Yêu thích môi trường khởi nghiệp có tốc độ phát triển nhanh
-- Ưu tiên ứng viên có kinh nghiệm làm việc trong công ty công nghệ (IT) mạnh Tuyển dụng và truyền thông nội bộ. 
+- Tốt nghiệp ĐH chuyên ngành Quản trị nhân sự, kinh tế, tài chính hoặc các chuyên ngành liên quan.
+- Từ 1-2 năm kinh nghiệm ở các vị trí tương đương, ưu tiên các bạn đã có kinh nghiệm tuyển các vị trí IT.
+- Kỹ năng giải quyết vấn đề và xử lý tình huống.
+- Kỹ năng thuyết trình.
+- Kỹ năng làm việc nhóm.
+- Khả năng giao tiếp và truyền thông, nhanh nhẹn hoạt bát.
+- Khả năng làm việc dưới áp lực cao có tinh thần trách nhiệm với công việc.
+- Độ tuổi không quá 30, ưu tiên Nữ.
 
 **C. Quyền lợi và Thu nhập**
-- Thu nhập cao, Lương Net lên tới 15tr/ tháng
+- Thu nhập: **12.000.000 đến 15.000.000 đồng/ tháng**.
 - Xét thưởng hiệu suất, tháng lương 13
 - Xét tăng lương 6 tháng/ lần
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
