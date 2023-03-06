@@ -20,7 +20,7 @@ tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
 ## B. Yêu cầu ứng viên
 - Có kinh nghiệm làm việc với ngôn ngữ: **Swift, Objective C**
 - Có hiểu biết về cơ sở dữ liệu **Sqlite**, các thư viện làm việc với network như **Moya, AFNetworking, Alamofire**
-- Điểm cộng nếu biết, đã từng làm dự án với **RxSwift**
+- Đã từng làm dự án với **RxSwift** là một lợi thế
 
 ## C. Thu nhập và quyền lợi
 - Thu nhập cạnh tranh theo năng lực
