@@ -12,15 +12,21 @@ tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
 ---
 
 ## A. Mô tả công việc
-- Tham gia phát triển sản phẩn Money Lover - ứng dụng quản lý tài chính cá nhân với hàng triệu người sử dụng trên Android.
-- Làm việc với Technial Lead, PM/ PO, Back-end, QC để đảm bảo tính năng được ra mắt theo đúng yêu cầu, tiến độ.
-- Đóng góp ý tưởng, cách làm về các sản phẩm mới và quy trình phát triển sản phẩm.
+- Tham gia phát triển sản phẩn Money Lover - ứng dụng quản lý tài chính cá nhân với hàng triệu người sử dụng trên Android
+- Làm việc với Technial Lead, PM/ PO, Back-end, QC để đảm bảo tính năng được ra mắt theo đúng yêu cầu, tiến độ
+- Đóng góp ý tưởng, cách làm về các sản phẩm mới và quy trình phát triển sản phẩm
 - Nghiên cứu và ứng dụng công nghệ mới cho việc phát triển sản phẩm.
 
 ## B. Yêu cầu ứng viên
-- Có kinh nghiệm làm việc với ngôn ngữ: **Swift, Objective C**
+- Có Kiến thức vững chắc về các ngôn ngữ lập trình **Swift, Objective C**
 - Có hiểu biết về cơ sở dữ liệu **Sqlite**, các thư viện làm việc với network như **Moya, AFNetworking, Alamofire**
+- Kinh nghiệm làm việc với SQLite, giải quyết các bài toán khi dùng offline, đồng bộ dữ liệu.
 - Đã từng làm dự án với **RxSwift** là một lợi thế
+- Kinh nghiệm làm việc với **UIKit** và **SwiftUI**
+- Hiểu biết về các mô hình và kiến trúc thiết kế iOS
+- Hiểu biết và tối ưu giao diện trên iPad
+- Kỹ năng giải quyết vấn đề và phân tích tốt
+- Kỹ năng giao tiếp, hợp tác tốt.
 
 ## C. Thu nhập và quyền lợi
 - Thu nhập cạnh tranh theo năng lực
@@ -30,7 +36,7 @@ tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
 - Thời gian làm việc: 8h30 - 18h00 Từ T2 đến T6 (nghỉ T7 và Chủ nhật)
 - Có 12 ngày phép /năm, sau mỗi năm thâm niên sẽ được +1 ngày vào tổng ngày phép. Đặc biệt với đồng nghiệp nữ có 24 ngày phép/ năm.
 - Chế độ ngày làm việc remote giúp nhân viên thay đổi môi trường không khí làm việc
-- Đối với các ngày đặc biệt như hiếu hỉ, sẽ có 5 ngày nghỉ phép hưởng lương (ko tính vào số phép năm)
+- Đối với các ngày đặc biệt như hiếu hỉ, sẽ có 5 ngày nghỉ phép hưởng lương (ko tính vào số phép năm).
 
 **Về các phúc lợi khác:**
 
@@ -40,5 +46,5 @@ tags: [Backend, BE, dev, nodeJS, fintech, moneylover ]
 - Được đào tạo, nâng cao cùng Leaders nhiều năm kinh nghiệm trong ngành
 - Được đề xuất thay đổi vị trí để trải nghiệm, nâng cao kiến thức kĩ năng của bản thân
 - Tham gia khám phá những vùng đất mới 01 lần/năm
-- Tham gia teambuilding, du xuân, tết hàn thực, Phá cỗ rước đèn, lễ hội halloween, olympic mùa đông, giáng sinh, cắm trại, tham gia cùng các CLB trong công ty như: Đá bóng, văn nghệ… và Party công ty 2 lần/1 tháng
+- Tham gia teambuilding, du xuân, tết hàn thực, Phá cỗ rước đèn, lễ hội halloween, olympic mùa đông, giáng sinh, cắm trại, tham gia cùng các CLB trong công ty như: Đá bóng, văn nghệ… và Party công ty 2 lần/1 tháng.
 
