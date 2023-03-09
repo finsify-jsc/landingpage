@@ -22,7 +22,7 @@ module.exports = {
   },
   themeConfig: {
     gtag: {
-      trackingID: 'UA-39420218-18',
+      trackingID: 'G-7KTM9RQ65E',
       anonymizeIP: true,
     },
     colorMode: {
