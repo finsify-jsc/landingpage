@@ -2,12 +2,12 @@
 slug: intern-backend-developer
 title: Thực tập sinh lập trình Backend (Javascript ES6)
 position: Thực tập sinh lập trình Backend (Javascript ES6)
-salary: tới 5 triệu VNĐ
+salary: Lên tới 5 Triệu VNĐ
 net: true
 workTime: true
 experience: 1 Năm
 deadline: 30/04/2023
-link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Th%E1%BB%B1c+t%E1%BA%ADp+sinh+L%E1%BA%ADp+tr%C3%ACnh+Backend
+link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewformusp=pp_url&entry.118037241=Th%E1%BB%B1c+t%E1%BA%ADp+sinh+L%E1%BA%ADp+tr%C3%ACnh+Backend
 tags: [Backend, BE, dev, Javascript ES6, fintech, moneylover ]
 ---
 
