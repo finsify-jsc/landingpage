@@ -23,7 +23,6 @@ tags: [Backend, BE, dev, Javascript ES6, fintech, moneylover ]
 - Sinh viên năm cuối hoặc mới ra trường có thể làm việc fulltime, 
 - Có mong muốn theo lập trình backend và trở thành nhân viên chính thức.
 
-
 ## C. Ưu tiên ứng viên
 - Có tư duy về quản lí tài chính cá nhân. 
 - Năng động có tinh thần cầu tiến, ham học hỏi
@@ -50,5 +49,3 @@ tags: [Backend, BE, dev, Javascript ES6, fintech, moneylover ]
   - Được đề xuất thay đổi vị trí để trải nghiệm, nâng cao kiến thức kĩ năng của bản thân.
   - Tham gia khám phá những vùng đất mới 02 lần/năm.
   - Tham gia teambuilding, du xuân, tết hàn thực, Phá cỗ rước đèn, lễ hội halloween, olympic mùa đông, giáng sinh, cắm trại, tham gia cùng các CLB trong công ty như: Đá bóng, văn nghệ… và Party công ty 2 lần/1 tháng ăn uống thả ga.
-
-
