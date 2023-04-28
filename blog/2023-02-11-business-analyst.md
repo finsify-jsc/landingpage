@@ -2,11 +2,11 @@
 slug: business-Analyst
 title: Business Analyst
 position: Business Analyst
-salary: Lên tới 22 Triệu VNĐ
+salary: Lên tới 25 Triệu VNĐ
 net: true
 workTime: true
-experience: 1 Năm
-deadline: 30/04/2022
+experience: 2 Năm
+deadline: 22/05/2023
 link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Business+Analyst
 tags: [Business analyst, BA, fintech, moneylover ]
 ---
@@ -23,7 +23,7 @@ Là một Business Analyst, bạn sẽ chịu trách nhiệm trong việc xây d
 - Xác thực giải pháp với người dùng bằng cách sử dụng mockups, prototypes hoặc thuyết trình.
 
 ## B. Yêu cầu ứng viên
-- Có kinh nghiệm **ít nhất 01 năm** trong với vị trí BA trong công ty công nghệ.
+- Có kinh nghiệm **ít nhất 02 năm** trong với vị trí BA trong công ty công nghệ.
 - Ưu tiên các bạn học ngành liên quan đến CNTT, Tài chính.
 - Nắm vững các kiến thức về phân tích nghiệp vụ, nắm vững quy trình phát triển phần mềm.
 - Có khả năng nghiên cứu tài liệu bằng tiếng Anh.
@@ -34,7 +34,8 @@ Là một Business Analyst, bạn sẽ chịu trách nhiệm trong việc xây d
    - Tư duy logic tốt, nhanh nhẹn, có khả năng thu thập, tổng hợp, phân tích thông tin.
    - Có khả năng viết tài liệu và trình bày vấn đề tốt.
    - Cẩn thận, trách nhiệm trong công việc.
-   - Có kinh nghiệm phân tích trải nghiệm người dùng là 1 lợi thế.
+   - Có tư duy End User, Customer Centric 
+   - Có hiểu biết về phân tích số liệu và sử dụng các công cụ liên quan đến tracking như: Data studio, Google analytics..  
 
 ## C. Thu nhập
 
@@ -53,6 +54,6 @@ Là một Business Analyst, bạn sẽ chịu trách nhiệm trong việc xây d
 - Được đào tạo, nâng cao cùng các Leader nhiều năm kinh nghiệm trong ngành.
 - Được đề xuất thay đổi vị trí để trải nghiệm, nâng cao kiến thức kĩ năng của bản thân.
 - Tham gia khám phá những vùng đất mới 01 lần/năm.
-- Tham gia teambuilding, du xuân, tết hàn thực, Phá cỗ rước đèn, lễ hội halloween, olympic mùa đông, giáng sinh, cắm trại, tham gia cùng các CLB trong công ty như: Đá bóng, văn nghệ… và Party công ty 2 lần/1 tháng ăn uống thả ga.
+- Tham gia teambuilding, du xuân, tết hàn thực, Phá cỗ rước đèn, lễ hội halloween, olympic mùa đông, giáng sinh, cắm trại, tham gia cùng các CLB trong công ty như: Đá bóng, văn nghệ… và Party công ty 2 lần/1 tháng...
 
 
