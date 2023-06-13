@@ -4,10 +4,17 @@
         <title>MoneyLover Blog</title>
         <link>https://landy.moneylover.me/career</link>
         <description>MoneyLover Blog</description>
-        <lastBuildDate>Fri, 31 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2023 Blogasaurus by Palash Shrivastava</copyright>
+        <item>
+            <title><![CDATA[Kế toán tổng hợp]]></title>
+            <link>https://landy.moneylover.me/career/ke-toan-tong-hop</link>
+            <guid>ke-toan-tong-hop</guid>
+            <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[A. Mô tả công việc]]></description>
+        </item>
         <item>
             <title><![CDATA[Digital Marketing]]></title>
             <link>https://landy.moneylover.me/career/digital-marketing</link>
@@ -114,16 +121,16 @@
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
         <item>
-            <title><![CDATA[Product Designer]]></title>
-            <link>https://landy.moneylover.me/career/ui-ux-designer</link>
-            <guid>ui-ux-designer</guid>
+            <title><![CDATA[Scrum Master]]></title>
+            <link>https://landy.moneylover.me/career/scrum-master</link>
+            <guid>scrum-master</guid>
             <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
         <item>
-            <title><![CDATA[Scrum Master]]></title>
-            <link>https://landy.moneylover.me/career/scrum-master</link>
-            <guid>scrum-master</guid>
+            <title><![CDATA[Product Designer]]></title>
+            <link>https://landy.moneylover.me/career/ui-ux-designer</link>
+            <guid>ui-ux-designer</guid>
             <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
