@@ -35,7 +35,7 @@ Kinh nghiệm **tối thiểu 01 năm** về lập trình Android, đã từng s
 - Kĩ năng làm việc nhóm để đạt được hiệu quả cao trong công việc.
 
 ## D. Quyền lợi và Thu nhập
-- Thu nhập: **12.000.000 đến 15.000.000 đồng/ tháng**.
+- Thu nhập: **CẠNH TRANH theo năng lực,không giới hạn**.
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
