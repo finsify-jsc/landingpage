@@ -31,7 +31,7 @@ Là một Android Senior, bạn sẽ chịu trách nhiệm phát triển sản p
 - Có khả năng đọc/hiểu tài liệu tiếng anh
 
 **C. Quyền lợi và Thu nhập**
-- Thu nhập: **12.000.000 đến 15.000.000 đồng/ tháng**.
+- Thu nhập: CẠNH TRANH theo năng lượng, không giới hạn.
 - Xét thưởng hiệu suất, tháng lương 13.
 - Xét tăng lương 6 tháng/ lần
 - Tham gia các hoạt động biết ơn, vinh danh thành viên xuất sắc, có cải tiến trong công việc.
