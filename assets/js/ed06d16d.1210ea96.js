@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[5565],{8067:function(e){e.exports=JSON.parse('{"allTagsPath":"/career/tags","slug":"customer","name":"customer","count":1,"permalink":"/career/tags/customer"}')}}]);
