@@ -6,7 +6,7 @@ salary: Lên tới 15 Triệu VNĐ
 net: true
 workTime: true
 experience: 1 Năm
-deadline: 31/03/2023
+deadline: 01/09/2023
 link: https://docs.google.com/forms/d/e/1FAIpQLSej9Ji4nVwcxRqwnYMFec9GMv3uYOpMD2vaskgfbVI4z3UjAA/viewform?usp=pp_url&entry.118037241=Digital+Marketing
 tags: [ Digital Marketing, fintech, moneylover ]
 ---
