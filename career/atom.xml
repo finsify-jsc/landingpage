@@ -9,17 +9,17 @@
     <icon>https://landy.moneylover.me/img/favicon.ico</icon>
     <rights>Copyright © 2023 Blogasaurus by Palash Shrivastava</rights>
     <entry>
+        <title type="html"><![CDATA[Digital Marketing]]></title>
+        <id>digital-marketing</id>
+        <link href="https://landy.moneylover.me/career/digital-marketing"/>
+        <updated>2023-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chúng tôi đang tìm kiếm một Digital Marketing cho nhóm kinh doanh sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Graphic Designer]]></title>
         <id>Graphic-designer</id>
         <link href="https://landy.moneylover.me/career/Graphic-designer"/>
         <updated>2023-09-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lập trình viên Android]]></title>
-        <id>android-developer</id>
-        <link href="https://landy.moneylover.me/career/android-developer"/>
-        <updated>2023-07-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
@@ -28,6 +28,13 @@
         <link href="https://landy.moneylover.me/career/android-senior"/>
         <updated>2023-07-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Chúng tôi đang tìm kiếm một Android Senior cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lập trình viên Android]]></title>
+        <id>android-developer</id>
+        <link href="https://landy.moneylover.me/career/android-developer"/>
+        <updated>2023-07-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Product Designer]]></title>
@@ -65,23 +72,16 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thực tập sinh lập trình Backend (Javascript ES6)]]></title>
-        <id>intern-backend-developer</id>
-        <link href="https://landy.moneylover.me/career/intern-backend-developer"/>
+        <title type="html"><![CDATA[Lập trình viên Backend (Javascript ES6)]]></title>
+        <id>backend-developer</id>
+        <link href="https://landy.moneylover.me/career/backend-developer"/>
         <updated>2023-03-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital Marketing]]></title>
-        <id>digital-marketing</id>
-        <link href="https://landy.moneylover.me/career/digital-marketing"/>
-        <updated>2023-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chúng tôi đang tìm kiếm một Digital Marketing cho nhóm kinh doanh sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lập trình viên Backend (Javascript ES6)]]></title>
-        <id>backend-developer</id>
-        <link href="https://landy.moneylover.me/career/backend-developer"/>
+        <title type="html"><![CDATA[Thực tập sinh lập trình Backend (Javascript ES6)]]></title>
+        <id>intern-backend-developer</id>
+        <link href="https://landy.moneylover.me/career/intern-backend-developer"/>
         <updated>2023-03-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
