@@ -1,6 +1,6 @@
 ---
-slug: ui-ux-designer
-title: Product Designer
+slug: senior-ui-ux-designer
+title: Senior Product Designer
 position: Thiết kế Ui/Ux
 salary: Lên tới 22 Triệu VNĐ
 net: true
