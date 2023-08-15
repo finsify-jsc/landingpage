@@ -1,6 +1,6 @@
 ---
 slug: ui-ux-designer
-title: Product Designer
+title: UI/UX Designer
 position: Thiết kế Ui/Ux
 salary: Lên tới 15 Triệu VNĐ
 net: true
