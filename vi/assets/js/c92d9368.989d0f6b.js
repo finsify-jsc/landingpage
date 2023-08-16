@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[7879],{751:function(e){e.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"scrum-master","name":"scrum-master","count":1,"permalink":"/vi/career/tags/scrum-master"}')}}]);
