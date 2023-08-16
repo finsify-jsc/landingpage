@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[3413],{7915:function(a){a.exports=JSON.parse('{"allTagsPath":"/career/tags","slug":"ba","name":"ba","count":1,"permalink":"/career/tags/ba"}')}}]);

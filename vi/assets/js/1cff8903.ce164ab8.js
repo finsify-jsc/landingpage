@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[4482],{4422:function(e){e.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"product-owner","name":"product owner","count":1,"permalink":"/vi/career/tags/product-owner"}')}}]);

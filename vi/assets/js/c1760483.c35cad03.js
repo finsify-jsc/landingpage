@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[4519],{800:function(e){e.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"senior-hr","name":"senior hr","count":1,"permalink":"/vi/career/tags/senior-hr"}')}}]);
