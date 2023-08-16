@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[8457],{1135:function(e){e.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"mobie-app","name":"mobie app","count":1,"permalink":"/vi/career/tags/mobie-app"}')}}]);
