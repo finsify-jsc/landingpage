@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[179],{1678:function(e){e.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"senior-k\u1ebf-toan-t\u1ed5ng-h\u1ee3p","name":"senior k\u1ebf to\xe1n t\u1ed5ng h\u1ee3p","count":1,"permalink":"/vi/career/tags/senior-k\u1ebf-toan-t\u1ed5ng-h\u1ee3p"}')}}]);

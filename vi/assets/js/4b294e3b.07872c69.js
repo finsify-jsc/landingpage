@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[649],{2436:function(e){e.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"android-senior","name":"android senior","count":1,"permalink":"/vi/career/tags/android-senior"}')}}]);
