@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[850],{5508:function(a){a.exports=JSON.parse('{"allTagsPath":"/career/tags","slug":"javascript-es-6","name":"javascript es6","count":1,"permalink":"/career/tags/javascript-es-6"}')}}]);
