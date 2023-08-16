@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[3963],{4687:function(e){e.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"designer","name":"designer","count":3,"permalink":"/vi/career/tags/designer"}')}}]);

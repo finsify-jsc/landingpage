@@ -9,25 +9,18 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2023 Blogasaurus by Palash Shrivastava</copyright>
         <item>
-            <title><![CDATA[Digital Marketing]]></title>
-            <link>https://landy.moneylover.me/vi/career/digital-marketing</link>
-            <guid>digital-marketing</guid>
-            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Chúng tôi đang tìm kiếm một Digital Marketing cho nhóm kinh doanh sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Graphic Designer]]></title>
-            <link>https://landy.moneylover.me/vi/career/Graphic-designer</link>
-            <guid>Graphic-designer</guid>
-            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[A. Mô tả công việc]]></description>
-        </item>
-        <item>
             <title><![CDATA[UI/UX Designer]]></title>
             <link>https://landy.moneylover.me/vi/career/ui-ux-designer</link>
             <guid>ui-ux-designer</guid>
             <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[A. Mô tả công việc]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Digital Marketing]]></title>
+            <link>https://landy.moneylover.me/vi/career/digital-marketing</link>
+            <guid>digital-marketing</guid>
+            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Chúng tôi đang tìm kiếm một Digital Marketing cho nhóm kinh doanh sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></description>
         </item>
         <item>
             <title><![CDATA[Android Senior]]></title>
@@ -72,9 +65,9 @@
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
         <item>
-            <title><![CDATA[Lập trình viên IOS]]></title>
-            <link>https://landy.moneylover.me/vi/career/ios-developer</link>
-            <guid>ios-developer</guid>
+            <title><![CDATA[Thực tập sinh lập trình Backend (Javascript ES6)]]></title>
+            <link>https://landy.moneylover.me/vi/career/intern-backend-developer</link>
+            <guid>intern-backend-developer</guid>
             <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
@@ -86,9 +79,9 @@
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
         <item>
-            <title><![CDATA[Thực tập sinh lập trình Backend (Javascript ES6)]]></title>
-            <link>https://landy.moneylover.me/vi/career/intern-backend-developer</link>
-            <guid>intern-backend-developer</guid>
+            <title><![CDATA[Lập trình viên IOS]]></title>
+            <link>https://landy.moneylover.me/vi/career/ios-developer</link>
+            <guid>ios-developer</guid>
             <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
