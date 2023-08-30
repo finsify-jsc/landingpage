@@ -6,10 +6,18 @@
  */
 import React from 'react';
 import Link from '@docusaurus/Link';
+import { useLocation } from '@docusaurus/router';
+
 import { socialLinks } from '../social-links';
 import clsx from 'clsx';
 import { FooterLink } from './FooterLink';
 const Footer = () => {
+  const { pathname } = useLocation();
+  const isVietnamese = pathname.startsWith('/vi');
+
+  // replace blog EN->VN
+  const getBlogUrl = (to) => (isVietnamese && to.includes('note.moneylover')) ? 'https://note.moneylover.vn' : to;
+  
   return (
     <footer
       className={clsx(
@@ -24,7 +32,7 @@ const Footer = () => {
           {FooterLink.map(({ label, to }) => (
             <Link
               key={Math.random()}
-              to={to}
+              to={getBlogUrl(to)}
               target="_blank"
               className="flex items-center leading-24 text-16 font-medium text-dark-brown hover:no-underline"
             >
