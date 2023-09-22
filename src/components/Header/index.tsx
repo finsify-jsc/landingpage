@@ -72,15 +72,6 @@ export const Header = ({ to, sendGaEvent }) => {
         <div className="grid grid-cols-2 gap-x-2 lg:gap-x-4 md:flex md:justify-center mt-9 lg:mt-12">
           <Link
             style={{ textDecoration: 'none' }}
-            className="button-ml text-16 md:w-full"
-            target="_blank"
-            onClick={sendGaEvent('tryOnWeb')}
-            to="https://web.moneylover.me"
-          >
-            <Translate>Try on browser</Translate>
-          </Link>
-          <Link
-            style={{ textDecoration: 'none' }}
             className="button-ml-primary bg-green-ml text-16 md:w-full"
             to="#cta"
             onClick={sendGaEvent('download')}
