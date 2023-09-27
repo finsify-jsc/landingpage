@@ -20,7 +20,7 @@ tags: [ Middle Business Intelligence, fintech, moneylover ]
 - Implement các chỉ số tracking để đảm bảo tracking hiệu quả.
 
 **B. Yêu cầu ứng viên**
-- Tốt nghiệp Marketing, Finance, Data Science, Business management, Công nghệ thông tin hoặc các chuyên ngành liên quan.
+- Tốt nghiệp Finance, Data Science, Business management, Công nghệ thông tin hoặc các chuyên ngành liên quan.
 - Có ít nhất 2 năm kinh nghiệm làm BI/ Growhack/ Data analyst.
 - Sử dụng thành thạo các công cụ tracking (firebase, data studio, mixpanel, PowerBI…) và làm việc với data warehouse.
 - Sử dụng tốt SQL, Excel, Google Spreadsheet.
