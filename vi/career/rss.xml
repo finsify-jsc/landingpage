@@ -7,7 +7,7 @@
         <lastBuildDate>Sun, 01 Oct 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <copyright>Copyright © 2023 Blogasaurus by Palash Shrivastava</copyright>
+        <copyright>Copyright © 2024 Blogasaurus by Palash Shrivastava</copyright>
         <item>
             <title><![CDATA[Middle Business Intelligence]]></title>
             <link>https://landy.moneylover.me/vi/career/middle-business-intelligence-analyst</link>
@@ -16,18 +16,18 @@
             <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
         <item>
-            <title><![CDATA[UI/UX Designer]]></title>
-            <link>https://landy.moneylover.me/vi/career/ui-ux-designer</link>
-            <guid>ui-ux-designer</guid>
-            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[A. Mô tả công việc]]></description>
-        </item>
-        <item>
             <title><![CDATA[Digital Marketing]]></title>
             <link>https://landy.moneylover.me/vi/career/digital-marketing</link>
             <guid>digital-marketing</guid>
             <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Chúng tôi đang tìm kiếm một Digital Marketing cho nhóm kinh doanh sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[UI/UX Designer]]></title>
+            <link>https://landy.moneylover.me/vi/career/ui-ux-designer</link>
+            <guid>ui-ux-designer</guid>
+            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[A. Mô tả công việc]]></description>
         </item>
         <item>
             <title><![CDATA[Android Senior]]></title>
