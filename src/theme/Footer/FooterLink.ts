@@ -14,6 +14,10 @@ export const FooterLink = [
     label: translate({ message: "Blog" }),
   },
   {
+    to: "https://status.moneylover.com/",
+    label: translate({ message: "Status" }),
+  },
+  {
     label: translate({ id: "privacy.policy", message: "Privacy policy" }),
     to: "/policy",
   },
