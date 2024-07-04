@@ -26,22 +26,22 @@ const Footer = () => {
       )}
     >
       <section className="container grid grid-cols-1 lg:grid-cols-12 gap-y-8 lg:gap-x-8 lg:mx-auto">
-        <p className="flex items-center mt-6 lg:mt-0 lg:col-span-6 text-16 leading-24 text-dark-brown">
+        <p className="flex items-center mt-6 lg:mt-0 lg:col-span-4 text-16 leading-24 text-dark-brown">
           © {currentYear} Finsify .,JSC. All rights reserved.
         </p>
-        <div className="flex flex-col lg:flex-row justify-center gap-y-4 lg:col-span-5 lg:gap-x-4">
+        <div className="flex flex-col lg:flex-row justify-center gap-y-4 lg:col-span-6 lg:gap-x-3">
           {FooterLink.map(({ label, to }) => (
             <Link
               key={Math.random()}
               to={getBlogUrl(to)}
               target="_blank"
-              className="flex items-center leading-24 text-16 font-medium text-dark-brown hover:no-underline"
+              className="flex items-center leading-24 text-16 font-medium text-dark-brown hover:no-underline truncate text-ellipsis"
             >
               {label}
             </Link>
           ))}
         </div>
-        <ul className="lg:col-span-1 lg:place-self-end flex items-center justify-start mt-5 mb-8 lg:mt-0 lg:mb-0 gap-x-2">
+        <ul className="lg:col-span-2 lg:place-self-end flex items-center justify-start mt-5 mb-8 lg:mt-0 lg:mb-0 gap-x-1">
           {socialLinks.map(({ Icon, link }) => (
             <li key={link}>
               <Link to={link} className="cursor-pointer hover:no-underline">

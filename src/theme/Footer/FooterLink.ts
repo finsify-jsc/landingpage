@@ -21,4 +21,8 @@ export const FooterLink = [
     label: translate({ id: "privacy.policy", message: "Privacy policy" }),
     to: "/policy",
   },
+  {
+    label: translate({ message: "Terms of Service" }),
+    to: "/terms-of-service",
+  },
 ];
