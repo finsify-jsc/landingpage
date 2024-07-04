@@ -14,6 +14,7 @@ import { FooterLink } from './FooterLink';
 const Footer = () => {
   const { pathname } = useLocation();
   const isVietnamese = pathname.startsWith('/vi');
+  const currentYear = new Date().getFullYear();
 
   // replace blog EN->VN
   const getBlogUrl = (to) => (isVietnamese && to.includes('note.moneylover')) ? 'https://note.moneylover.vn' : to;
@@ -26,7 +27,7 @@ const Footer = () => {
     >
       <section className="container grid grid-cols-1 lg:grid-cols-12 gap-y-8 lg:gap-x-8 lg:mx-auto">
         <p className="flex items-center mt-6 lg:mt-0 lg:col-span-6 text-16 leading-24 text-dark-brown">
-          © 2022 Finsify .,JSC. All rights reserved.
+          © {currentYear} Finsify .,JSC. All rights reserved.
         </p>
         <div className="flex flex-col lg:flex-row justify-center gap-y-4 lg:col-span-5 lg:gap-x-4">
           {FooterLink.map(({ label, to }) => (
