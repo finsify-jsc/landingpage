@@ -29,7 +29,7 @@ const Footer = () => {
         <p className="flex items-center mt-6 lg:mt-0 lg:col-span-4 text-16 leading-24 text-dark-brown">
           © {currentYear} Finsify .,JSC. All rights reserved.
         </p>
-        <div className="flex flex-col lg:flex-row justify-center gap-y-4 lg:col-span-6 lg:gap-x-3">
+        <div className="flex flex-col lg:flex-row justify-center gap-y-4 lg:col-span-6 lg:gap-x-4">
           {FooterLink.map(({ label, to }) => (
             <Link
               key={Math.random()}
