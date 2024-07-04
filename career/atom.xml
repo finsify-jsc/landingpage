@@ -30,13 +30,6 @@
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lập trình viên Android]]></title>
-        <id>android-developer</id>
-        <link href="https://landy.moneylover.me/career/android-developer"/>
-        <updated>2023-07-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Android Senior]]></title>
         <id>android-senior</id>
         <link href="https://landy.moneylover.me/career/android-senior"/>
@@ -47,6 +40,13 @@
         <title type="html"><![CDATA[Senior Product Designer]]></title>
         <id>senior-ui-ux-designer</id>
         <link href="https://landy.moneylover.me/career/senior-ui-ux-designer"/>
+        <updated>2023-07-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lập trình viên Android]]></title>
+        <id>android-developer</id>
+        <link href="https://landy.moneylover.me/career/android-developer"/>
         <updated>2023-07-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
     </entry>
