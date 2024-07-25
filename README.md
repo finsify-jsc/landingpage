@@ -36,4 +36,5 @@ This command generates static content into the `build` directory and can be serv
 Examples of using the components are located at "/examples"
 
 ## Page
+⚠️ Repo has to be set Public to build Page.
 Check for Settings > Page > Branch, make sure one branch is selected for the page to online.
