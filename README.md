@@ -34,3 +34,6 @@ This command generates static content into the `build` directory and can be serv
 ## Components library
 
 Examples of using the components are located at "/examples"
+
+## Page
+Check for Settings > Page > Branch, make sure one branch is selected for the page to online.
