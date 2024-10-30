@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[492],{9476:function(e){e.exports=JSON.parse('{"allTagsPath":"/vi/career/tags","slug":"moneylover","name":"moneylover","count":8,"permalink":"/vi/career/tags/moneylover"}')}}]);
