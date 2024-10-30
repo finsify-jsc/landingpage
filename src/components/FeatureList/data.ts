@@ -57,16 +57,5 @@ export const FeatureData = [
       message: "Manage your debts, loans and payment process in one place.",
     }),
   },
-  {
-    image: "img/features/6.svg",
-    title: translate({
-      id: "features.scan.receipt",
-      message: "Scan receipts",
-    }),
-    desc: translate({
-      id: "features.scan.receipt.desc",
-      message:
-        "Take pictures of your receipts to auto-process and organize them.",
-    }),
-  },
+ 
 ];
