@@ -86,6 +86,12 @@
   "features.scan.receipt.desc": {
     "message": "Bạn chỉ cần chụp lại hóa đơn và chờ ứng dụng tự động cập nhật và phân loại giao dịch vào ví của bạn."
   },
+  "features.add.transaction": {
+    "message": "Nhập giao dịch dễ dàng"
+  },
+  "features.add.transaction.desc": {
+    "message": "Nhập giao dịch nhanh chóng và dễ dàng, cả thủ công và tự động."
+  },
   "reviews": {
     "message": "Cảm nhận từ người dùng"
   },

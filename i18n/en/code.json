@@ -86,6 +86,12 @@
   "features.scan.receipt.desc": {
     "message": "Take pictures of your receipts to auto-process and organize them."
   },
+  "features.add.transaction": {
+    "message": "Effortless transaction entry"
+  },
+  "features.add.transaction.desc": {
+    "message": "Entry a transaction quickly and easily, manually or automatically."
+  },
   "reviews": {
     "message": "See what others have to say"
   },

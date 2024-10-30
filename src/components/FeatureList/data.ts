@@ -57,5 +57,15 @@ export const FeatureData = [
       message: "Manage your debts, loans and payment process in one place.",
     }),
   },
- 
+  {
+    image: "img/features/7.svg",
+    title: translate({
+      id: "features.add.transaction",
+      message: "Effortless transaction entry",
+    }),
+    desc: translate({
+      id: "features.add.transaction.desc",
+      message: "Entry a transaction quickly and easily, manually or automatically.",
+    }),
+  },
 ];
