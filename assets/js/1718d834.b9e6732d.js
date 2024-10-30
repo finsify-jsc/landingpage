@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[9140],{9068:function(e){e.exports=JSON.parse('{"allTagsPath":"/career/tags","slug":"middle-business-intelligence","name":"middle business intelligence","count":1,"permalink":"/career/tags/middle-business-intelligence"}')}}]);
