@@ -85,7 +85,7 @@ export const Header = ({ to, sendGaEvent }) => {
           className="invisible lg:invisible fixed bg-monochrome-white bottom-0 inset-x-0 z-10 flex justify-around"
         >
           <div className="grid grid-cols-2 gap-2 mx-4 my-4">
-            <Link
+            <!-- Link
               style={{ textDecoration: 'none' }}
               className="button-ml text-16 md:w-full"
               target="_blank"
@@ -93,7 +93,7 @@ export const Header = ({ to, sendGaEvent }) => {
               href="https://web.moneylover.me"
             >
               <Translate>Try on browser</Translate>
-            </Link>
+            </Link -->
             <Link
               style={{ textDecoration: 'none' }}
               className="button-ml-primary bg-green-ml text-16 md:w-full"
