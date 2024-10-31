@@ -2,61 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landy.moneylover.me/career</id>
     <title>MoneyLover Blog</title>
-    <updated>2023-10-01T00:00:00.000Z</updated>
+    <updated>2023-07-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://landy.moneylover.me/career"/>
     <subtitle>MoneyLover Blog</subtitle>
     <icon>https://landy.moneylover.me/img/favicon.ico</icon>
     <rights>Copyright © 2024 Blogasaurus by Palash Shrivastava</rights>
-    <entry>
-        <title type="html"><![CDATA[Middle Business Intelligence]]></title>
-        <id>middle-business-intelligence-analyst</id>
-        <link href="https://landy.moneylover.me/career/middle-business-intelligence-analyst"/>
-        <updated>2023-10-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Marketing]]></title>
-        <id>digital-marketing</id>
-        <link href="https://landy.moneylover.me/career/digital-marketing"/>
-        <updated>2023-09-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chúng tôi đang tìm kiếm một Digital Marketing cho nhóm kinh doanh sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI/UX Designer]]></title>
-        <id>ui-ux-designer</id>
-        <link href="https://landy.moneylover.me/career/ui-ux-designer"/>
-        <updated>2023-09-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lập trình viên Android]]></title>
-        <id>android-developer</id>
-        <link href="https://landy.moneylover.me/career/android-developer"/>
-        <updated>2023-07-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Senior]]></title>
-        <id>android-senior</id>
-        <link href="https://landy.moneylover.me/career/android-senior"/>
-        <updated>2023-07-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chúng tôi đang tìm kiếm một Android Senior cho nhóm phát triển sản phẩm của Money Lover, ứng dụng quản lý tài chính cá nhân hàng đầu trên các nền tảng di động.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Product Designer]]></title>
-        <id>senior-ui-ux-designer</id>
-        <link href="https://landy.moneylover.me/career/senior-ui-ux-designer"/>
-        <updated>2023-07-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customer Support]]></title>
-        <id>customer-support</id>
-        <link href="https://landy.moneylover.me/career/customer-support"/>
-        <updated>2023-07-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A. Mô tả công việc]]></summary>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Kế Toán Tổng Hợp Kiêm Hành Chính Văn Phòng]]></title>
         <id>ke-toan-tong-hop-hanh-chinh-van-phong</id>

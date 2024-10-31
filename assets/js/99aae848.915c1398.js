@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoney_lover_landing_page=self.webpackChunkmoney_lover_landing_page||[]).push([[332],{5641:function(n){n.exports=JSON.parse('{"title":"All Blog Posts","items":[{"title":"K\u1ebf To\xe1n T\u1ed5ng H\u1ee3p Ki\xeam H\xe0nh Ch\xednh V\u0103n Ph\xf2ng","permalink":"/career/ke-toan-tong-hop-hanh-chinh-van-phong"}]}')}}]);
