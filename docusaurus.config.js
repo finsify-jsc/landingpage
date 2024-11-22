@@ -109,4 +109,12 @@ module.exports = {
       },
     ],
   ],
+  scripts: [
+    {
+      id: 'Cookiebot',
+      src: 'https://consent.cookiebot.com/uc.js',
+      'data-cbid': '96433548-46bc-4310-afc0-3c3c8933a3b5',
+      async: true,
+    },
+  ],
 };
