@@ -136,7 +136,6 @@ module.exports = {
         gtag("set", "ads_data_redaction", true);
         gtag("set", "url_passthrough", false);
       `,
-      type: 'text/javascript',
     },
     {
       id: 'gtag-js',
