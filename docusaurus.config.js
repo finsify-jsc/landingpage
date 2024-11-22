@@ -116,5 +116,32 @@ module.exports = {
       'data-cbid': '96433548-46bc-4310-afc0-3c3c8933a3b5',
       async: true,
     },
+    {
+      'data-cookieconsent': 'ignore',
+      content: `
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("consent", "default", {
+          ad_personalization: "denied",
+          ad_storage: "denied",
+          ad_user_data: "denied",
+          analytics_storage: "denied",
+          functionality_storage: "denied",
+          personalization_storage: "denied",
+          security_storage: "granted",
+          wait_for_update: 500,
+        });
+        gtag("set", "ads_data_redaction", true);
+        gtag("set", "url_passthrough", false);
+      `,
+      type: 'text/javascript',
+    },
+    {
+      id: 'gtag-js',
+      src: 'https://www.googletagmanager.com/gtag/js?id=G-7KTM12165E',
+      async: true,
+    },
   ],
 };
