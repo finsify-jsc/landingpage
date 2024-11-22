@@ -2,13 +2,16 @@
 const path = require('path');
 
 module.exports = {
-  scripts: [
+  headTags: [
     {
-      id: 'Cookiebot',
-      src: 'https://consent.cookiebot.com/uc.js',
-      'data-cbid': '96433548-46bc-4310-afc0-3c3c8933a3b5',
-      async: true,
-    },
+      tagName: 'script',
+      attributes: {
+        id: 'Cookiebot',
+        src: 'https://consent.cookiebot.com/uc.js',
+        'data-cbid': '96433548-46bc-4310-afc0-3c3c8933a3b5',
+        async: true,
+      },
+    }
   ],
   title: 'MoneyLover',
   tagline: 'MoneyLover',
@@ -117,4 +120,12 @@ module.exports = {
       },
     ],
   ],
+  // scripts: [
+  //   {
+  //     id: 'Cookiebot',
+  //     src: 'https://consent.cookiebot.com/uc.js',
+  //     'data-cbid': '96433548-46bc-4310-afc0-3c3c8933a3b5',
+  //     async: true,
+  //   },
+  // ],
 };
