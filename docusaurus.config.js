@@ -2,6 +2,14 @@
 const path = require('path');
 
 module.exports = {
+  scripts: [
+    {
+      id: 'Cookiebot',
+      src: 'https://consent.cookiebot.com/uc.js',
+      'data-cbid': '96433548-46bc-4310-afc0-3c3c8933a3b5',
+      async: true,
+    },
+  ],
   title: 'MoneyLover',
   tagline: 'MoneyLover',
   url: 'https://landy.moneylover.me',
@@ -11,14 +19,6 @@ module.exports = {
   favicon: '/img/favicon.ico',
   organizationName: 'finsify-be',
   projectName: 'landingpage',
-  scripts: [
-    {
-      id: 'Cookiebot',
-      src: 'https://consent.cookiebot.com/uc.js',
-      'data-cbid': '96433548-46bc-4310-afc0-3c3c8933a3b5',
-      async: true,
-    },
-  ],
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'vi'],
