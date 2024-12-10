@@ -1,3 +1,4 @@
+netlink.vn, 5045622418, DIRECT
 google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
 google.com, pub-7002491002409919, DIRECT, f08c47fec0942fa0
 Pubmatic.com, 161976, RESELLER, 5d62403b186f2ace
