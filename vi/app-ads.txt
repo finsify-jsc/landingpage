@@ -1,4 +1,4 @@
-netlink.vn, 5045622418, DIRECT
+netlink.vn, ID sellers, DIRECT
 google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
 google.com, pub-7002491002409919, DIRECT, f08c47fec0942fa0
 Pubmatic.com, 161976, RESELLER, 5d62403b186f2ace
@@ -23,22 +23,3 @@ smartadserver.com, 4071, DIRECT, 060d053dcf45cbf3 #USD
 smartadserver.com, 4073, DIRECT, 060d053dcf45cbf3 #BRL
 smartadserver.com, 4074, DIRECT, 060d053dcf45cbf3 #MXN
 media.net, 8CU8MP8E7, DIRECT
-webtvasia.com, 21715635079, DIRECT
-google.com, pub-9035087792692775, DIRECT, f08c47fec0942fa0
-google.com, pub-9035087792692775, RESELLER, f08c47fec0942fa0
-google.com, pub-8510055099699385, DIRECT, f08c47fec0942fa0
-google.com, pub-3285274263241992, DIRECT, f08c47fec0942fa0
-google.com, pub-3619133031508264, DIRECT, f08c47fec0942fa0
-google.com, pub-6247923352184933, DIRECT, f08c47fec0942fa0
-google.com, pub-7266710804606728, DIRECT, f08c47fec0942fa0
-google.com, pub-3130448679272231, DIRECT, f08c47fec0942fa0
-google.com, pub-3588767303886532, DIRECT, f08c47fec0942fa0
-google.com, pub-4166499259588220, DIRECT, f08c47fec0942fa0
-google.com, pub-5179647927144542, DIRECT, f08c47fec0942fa0
-google.com, pub-5179647927144542, RESELLER, f08c47fec0942fa0
-google.com, pub-9378724246417115, DIRECT, f08c47fec0942fa0
-google.com, pub-9378724246417115, RESELLER, f08c47fec0942fa0
-google.com, pub-3166493188367342, DIRECT, f08c47fec0942fa0
-google.com, pub-3166493188367342, RESELLER, f08c47fec0942fa0
-google.com, pub-8498805243527201, DIRECT, f08c47fec0942fa0
-google.com, pub-8498805243527201, RESELLER, f08c47fec0942fa0
